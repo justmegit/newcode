@@ -8,6 +8,8 @@ Uso:
   python analyze_v2.py --bootstrap 5000       # reamostragens (por omissão 2000)
 
 Entradas: data/extracoes_v2.jsonl (de reprocess.py), data/respostas.jsonl, data/dormidas_2025_nuts3.csv (de fetch_eurostat.py).
+Para a recolha v2: --respostas data/v2/respostas_*.jsonl --extracoes data/v2/extracoes_v2.jsonl --saida results_v2/recolha_v2
+(as células do bootstrap continuam a ser modelo × língua; com paráfrases, acrescentar a variante à célula é a alteração prevista no pré-registo).
 Saídas em results_v2/: metricas.csv, quotas.csv, roteiro_noites.csv, homogeneizacao.csv, relatorio.md.
 
 Medidas por resposta (cada resposta é um vetor de quotas que soma 1):
@@ -238,6 +240,9 @@ def main():
     ap.add_argument("--bootstrap", type=int, default=2000)
     ap.add_argument("--semente", type=int, default=2026)
     ap.add_argument("--dormidas", default=str(AQUI / "data" / "dormidas_2025_nuts3.csv"))
+    ap.add_argument("--respostas", nargs="*", default=[str(AQUI / "data" / "respostas.jsonl")],
+                    help="ficheiros de respostas (v1 ou data/v2/respostas_*.jsonl)")
+    ap.add_argument("--extracoes", default=str(AQUI / "data" / "extracoes_v2.jsonl"))
     ap.add_argument("--saida", default=str(RES))
     a = ap.parse_args()
     out = Path(a.saida); out.mkdir(exist_ok=True)
@@ -251,8 +256,11 @@ def main():
         return {r["nuts3"]: float(r[col]) / tot for r in dl if r["nuts3"] in nuts}
     qT, qF, qD = q("total"), q("nao_residentes"), q("residentes")
 
-    resps = [json.loads(l) for l in (AQUI / "data" / "respostas.jsonl").read_text(encoding="utf-8").splitlines()]
-    extr = [json.loads(l) for l in (AQUI / "data" / "extracoes_v2.jsonl").read_text(encoding="utf-8").splitlines()]
+    resps = []
+    for p in a.respostas:
+        resps += [json.loads(l) for l in Path(p).read_text(encoding="utf-8").splitlines()]
+    resps = [r for r in resps if not r.get("ensaio")]
+    extr = [json.loads(l) for l in Path(a.extracoes).read_text(encoding="utf-8").splitlines()]
     if a.sem_ilhas:
         extr = [e for e in extr if e.get("nuts3") not in ILHAS]
     por_resp = defaultdict(list)

@@ -17,7 +17,8 @@
 | `docs/plano_trabalho.md` | 4 semanas, tarefas por pessoa | v2 |
 | `prompts.csv`, `config.json`, `collect.py` | Recolha do piloto (8 tipos × 4 línguas × 3 modelos × 5 repetições) | v1 |
 | `prompts_v2.csv`, `config_v2.json`, `collect_v2.py` | Recolha confirmatória: 3 paráfrases, roteiros de 3/7/14 dias, modelos abertos, condição com pesquisa web | v2 |
-| `extract.py` | Extração de lugares com Claude Haiku 5.5 → `data/extracoes.jsonl` | v1 (a adaptar: pedir só município) |
+| `extract.py` | Extração de lugares com Claude Haiku 5.5 → `data/extracoes.jsonl` | v1 |
+| `extract_v2.py` | Extração que pede só lugar, nível e município; NUTS III derivada pela tabela → `data/v2/extracoes_v2.jsonl` | v2 |
 | `reprocess.py` | Títulos, macro-destinos e NUTS III derivada do município → `data/extracoes_v2.jsonl` | v2 |
 | `fetch_eurostat.py` | Dormidas por NUTS III por residência e âmbito NACE → `data/dormidas_2025_nuts3.csv` | v2 |
 | `fetch_wikipedia.py` | Termo de comparação textual (visualizações da Wikipédia por município) | v2 (correr localmente) |
@@ -52,7 +53,8 @@ python metricas_verificacao.py --recall <xlsx NA> <xlsx AMS> --precisao <xlsx NA
 1. Preencher em `config_v2.json` os identificadores dos modelos abertos e confirmar a sintaxe do plugin web no OpenRouter.
 2. `python collect_v2.py --ensaio` para testar o circuito; `python collect_v2.py --condicao confirmatorio --limite 5` para um teste real.
 3. Na janela de recolha (48 h): `--condicao confirmatorio` (660), `--condicao exploratorio` (300), `--condicao pesquisa_web` (72).
-4. Extração (adaptar `extract.py` para ler `data/v2/respostas_*.jsonl` e pedir só o município), `reprocess.py`, `analyze_v2.py` com os ficheiros v2.
+4. `python extract_v2.py` (lê `data/v2/respostas_*.jsonl`, já geocodifica) e depois
+   `python analyze_v2.py --respostas data/v2/respostas_*.jsonl --extracoes data/v2/extracoes_v2.jsonl --saida results_v2/recolha_v2`.
 
 ## Como correr o piloto (v1)
 

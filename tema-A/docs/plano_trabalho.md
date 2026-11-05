@@ -37,7 +37,7 @@ Horizonte: 4 semanas a partir de 5 de novembro de 2026. Pessoas: Alexandre (AP),
 | # | Tarefa | Quem | Entrega | Estado |
 |---|---|---|---|---|
 | 4.1 | Recolha completa em janela de 48 horas: confirmatório (660), exploratório (300), pesquisa web (72) | AP | `data/v2/respostas_*.jsonl` | por fazer |
-| 4.2 | Extração (`extract.py` adaptado a v2) + `reprocess.py` | AP | `data/v2/extracoes_v2.jsonl` | por fazer |
+| 4.2 | Extração com `extract_v2.py` (já geocodifica; `reprocess.py` só para o piloto) | AP | `data/v2/extracoes_v2.jsonl` | script feito e testado em ensaio |
 | 4.3 | Verificação humana da recolha v2 (mesmos dois exercícios, 20%) | NA, AMS | ficheiros preenchidos | por fazer |
 | 4.4 | Análise pré-registada (`analyze_v2.py` com os ficheiros v2) e sensibilidades | AP | `results_v2/` da recolha v2 | por fazer |
 
