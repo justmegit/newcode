@@ -1,0 +1,192 @@
+{
+  "_comentario": "Definições de ferramentas em formato OpenAI function calling (aceite pelo Groq e pela maioria dos fornecedores; no n8n, cada função corresponde a um sub-workflow 'Call n8n Workflow Tool' com o mesmo nome e esquema). Datas em ISO 8601 (YYYY-MM-DD), horas HH:MM, fuso do cliente. Todos os sub-workflows recebem também tenant_id e contacto, injetados pelo workflow, nunca pelo modelo.",
+  "tools": [
+    {
+      "type": "function",
+      "function": {
+        "name": "consultar_horarios",
+        "description": "Lista as aulas/sessões que existem num dia ou intervalo de dias, com hora, grupo, duração e professor. Não indica vagas; para isso usar 'vagas'.",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "data_inicio": { "type": "string", "description": "Primeiro dia, YYYY-MM-DD." },
+            "data_fim": { "type": "string", "description": "Último dia, YYYY-MM-DD. Igual a data_inicio para um só dia. Máximo 14 dias." },
+            "grupo": { "type": "string", "description": "Filtro opcional por grupo/nível, tal como aparece na base de conhecimento." }
+          },
+          "required": ["data_inicio", "data_fim"]
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "vagas",
+        "description": "Devolve o número de vagas livres numa aula concreta numa data concreta e se há lista de espera.",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "aula_id": { "type": "string", "description": "Identificador da aula devolvido por consultar_horarios." },
+            "data": { "type": "string", "description": "Dia da aula, YYYY-MM-DD." }
+          },
+          "required": ["aula_id", "data"]
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "minhas_marcacoes",
+        "description": "Lista as marcações futuras do contacto atual (e dos alunos associados a ele), com marcacao_id, data, hora, grupo e nome do aluno.",
+        "parameters": { "type": "object", "properties": {}, "required": [] }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "marcar",
+        "description": "Cria uma marcação para um aluno numa aula e data. Só chamar depois de o cliente confirmar dia, hora e nome do aluno. Devolve sucesso com marcacao_id, ou erro com motivo (sem vaga, fora da antecedência, aluno desconhecido).",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "aula_id": { "type": "string" },
+            "data": { "type": "string", "description": "YYYY-MM-DD." },
+            "nome_aluno": { "type": "string", "description": "Nome do aluno tal como o cliente o disse." },
+            "idade_aluno": { "type": "integer", "description": "Idade, se foi dita. Obrigatória para aula experimental de menores." },
+            "experimental": { "type": "boolean", "description": "Verdadeiro se é aula experimental." },
+            "notas": { "type": "string", "description": "Observações curtas do cliente (ex.: 'primeira vez', 'tem medo de altura')." }
+          },
+          "required": ["aula_id", "data", "nome_aluno"]
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "remarcar",
+        "description": "Move uma marcação existente para outra aula/data. Só chamar depois de o cliente confirmar. Aplica as regras de antecedência; devolve sucesso ou erro com motivo.",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "marcacao_id": { "type": "string" },
+            "nova_aula_id": { "type": "string" },
+            "nova_data": { "type": "string", "description": "YYYY-MM-DD." }
+          },
+          "required": ["marcacao_id", "nova_aula_id", "nova_data"]
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "cancelar",
+        "description": "Cancela uma marcação. Só chamar depois de o cliente confirmar. Devolve se o cancelamento foi dentro do prazo (aula não perdida) ou fora (aula perdida), segundo as regras do negócio.",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "marcacao_id": { "type": "string" },
+            "motivo": { "type": "string", "description": "Motivo em poucas palavras, se o cliente o disse." }
+          },
+          "required": ["marcacao_id"]
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "estado_pagamento",
+        "description": "Devolve o estado das mensalidades do(s) aluno(s) do contacto: mês, valor, estado (paga, por confirmar, em falta) e data de vencimento. Só disponível se o cliente tiver cobranças ativas.",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "nome_aluno": { "type": "string", "description": "Opcional; se o contacto tem vários alunos." }
+          },
+          "required": []
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "registar_pagamento",
+        "description": "Regista um pagamento comunicado pelo cliente (estado 'por confirmar') ou confirmado pelo dono (estado 'confirmado'). Nunca marca como confirmado a partir da palavra do cliente.",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "nome_aluno": { "type": "string" },
+            "mes": { "type": "string", "description": "Mês a que respeita, YYYY-MM." },
+            "valor": { "type": "number", "description": "Valor em euros, se conhecido." },
+            "meio": { "type": "string", "enum": ["transferencia", "mbway", "multibanco", "dinheiro", "cartao", "outro", "desconhecido"] },
+            "estado": { "type": "string", "enum": ["por_confirmar", "confirmado"], "description": "'confirmado' só quando a mensagem vem do número do dono." },
+            "comprovativo_media_id": { "type": "string", "description": "Identificador da imagem/PDF recebido, se houver." }
+          },
+          "required": ["nome_aluno", "mes", "estado"]
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "escalar",
+        "description": "Passa o assunto ao responsável do negócio. Cria uma escalação e envia-lhe uma mensagem curta. Usar quando não se sabe a resposta, quando o pedido está na lista ESCALA SEMPRE, quando o cliente pede para falar com o responsável, ou em reclamações, saúde e dinheiro fora das regras.",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "resumo": { "type": "string", "description": "Uma frase sobre quem pergunta e o quê. Ex.: 'A mãe do Tomás pergunta se pode pagar em duas vezes.'" },
+            "pergunta_ao_dono": { "type": "string", "description": "A pergunta tal como o dono deve respondê-la com sim/não ou uma frase. Ex.: 'Respondo que sim?'" },
+            "urgencia": { "type": "string", "enum": ["baixa", "normal", "alta"], "description": "'alta' para reclamações, saúde, acidentes." },
+            "sugestao_resposta": { "type": "string", "description": "Opcional: resposta que a secretária daria se o dono disser 'sim'." }
+          },
+          "required": ["resumo", "pergunta_ao_dono", "urgencia"]
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "responder",
+        "description": "Envia a resposta final ao cliente. Única forma de falar com ele. Texto vazio significa não responder (usado quando o responsável está a tratar da conversa pessoalmente).",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "texto": { "type": "string", "description": "Mensagem em português de Portugal, máximo 600 caracteres." },
+            "marcar_nao_soube": { "type": "boolean", "description": "Verdadeiro se a resposta foi dada sem base suficiente ou escalada por desconhecimento; alimenta a secção 'não soube responder' do resumo semanal." }
+          },
+          "required": ["texto"]
+        }
+      }
+    }
+  ],
+  "tools_prompt_do_dono": [
+    {
+      "type": "function",
+      "function": {
+        "name": "fechar_escalacao",
+        "description": "Fecha uma escalação aberta com a resposta do responsável e envia ao cliente o texto indicado.",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "escalacao_id": { "type": "string" },
+            "texto_para_cliente": { "type": "string", "description": "Redigido no tom da secretária, a partir da resposta do responsável." }
+          },
+          "required": ["escalacao_id", "texto_para_cliente"]
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "propor_kb",
+        "description": "Regista uma proposta de alteração à base de conhecimento feita pelo responsável, para validação pela Blue Serenity. Não altera nada de imediato.",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "tema": { "type": "string" },
+            "texto_proposto": { "type": "string", "description": "A nova informação tal como o responsável a disse." },
+            "a_partir_de": { "type": "string", "description": "Data a partir da qual se aplica, YYYY-MM-DD, se foi dita." }
+          },
+          "required": ["tema", "texto_proposto"]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+# Nunca guardar segredos
+.env
+.env.*
+*.key
+*.pem
+*token*
+*secret*
+credentials*.json
+# Exportações do n8n com credenciais embutidas
+workflows/*-com-credenciais.json
+# Sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+id,tenant_id,nome,idade,contacto_numero,contacto_nome,grupo,aula_fixa_id,mensalidade,dia_vencimento,ativo,criado_em,notas
+a1,chr,Tomás,9,+351910000001,Ana (mãe),Iniciação,sab10,95,8,1,2026-11-05,"aluno de demonstração"
+a2,chr,Inês,12,+351910000002,Rui (pai),Jovens,sab12,160,8,1,2026-11-05,"aluno de demonstração"
+a3,chr,Matilde,8,+351910000003,Sofia (mãe),Iniciação,sab10,95,8,1,2026-11-05,"aluno de demonstração"

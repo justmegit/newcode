@@ -1,0 +1,15 @@
+id,tenant_id,aluno_id,nome_aluno,contacto_numero,aula_id,data,hora,estado,origem,experimental,lembrete_enviado_em,criado_em,notas
+m1,chr,a1,Tomás,+351910000001,sab10,2026-11-08,10:00,marcada,secretaria,0,,2026-11-05,
+m2,chr,a3,Matilde,+351910000003,sab10,2026-11-08,10:00,marcada,dono,0,,2026-11-05,
+m3,chr,,Beatriz,+351910000004,sab10,2026-11-08,10:00,marcada,secretaria,1,,2026-11-05,"experimental; 4 ocupadas de 6 em sab10 com m4"
+m4,chr,,Duarte,+351910000005,sab10,2026-11-08,10:00,marcada,secretaria,0,,2026-11-05,
+m5,chr,,x1,+351910000006,sab11,2026-11-08,11:00,marcada,dono,0,,2026-11-05,"sab11 cheia: m5 a m10"
+m6,chr,,x2,+351910000007,sab11,2026-11-08,11:00,marcada,dono,0,,2026-11-05,
+m7,chr,,x3,+351910000008,sab11,2026-11-08,11:00,marcada,dono,0,,2026-11-05,
+m8,chr,,x4,+351910000009,sab11,2026-11-08,11:00,marcada,dono,0,,2026-11-05,
+m9,chr,,x5,+351910000010,sab11,2026-11-08,11:00,marcada,dono,0,,2026-11-05,
+m10,chr,,x6,+351910000011,sab11,2026-11-08,11:00,marcada,dono,0,,2026-11-05,
+m11,chr,a2,Inês,+351910000002,sab12,2026-11-08,12:00,marcada,secretaria,0,,2026-11-05,"sab12 com 2 vagas (m11 a m14)"
+m12,chr,,x7,+351910000012,sab12,2026-11-08,12:00,marcada,dono,0,,2026-11-05,
+m13,chr,,x8,+351910000013,sab12,2026-11-08,12:00,marcada,dono,0,,2026-11-05,
+m14,chr,,x9,+351910000014,sab12,2026-11-08,12:00,marcada,dono,0,,2026-11-05,
