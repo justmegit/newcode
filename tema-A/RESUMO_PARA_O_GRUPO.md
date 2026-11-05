@@ -1,6 +1,6 @@
 # Tema A: ponto de situação e proposta v2 (para Nuno e António)
 
-5 de novembro de 2026. Tudo o que está aqui referido está no ramo `papers-fable`, pasta `tema-A/`. Leitura sugerida por ordem: este resumo, `results_v2/relatorio.md`, `docs/pre_registo_v2.md`, `docs/plano_trabalho.md`. A revisão crítica completa que originou isto está em `revisao_fable_tema_A.md`.
+5 de novembro de 2026. Tudo o que está aqui referido está no ramo `papers-fable`, pasta `tema-A/`. Versão editável e comentável deste documento: https://claude.ai/artifact/9KW7JcYWqrFAqwCNf1yNT2 Leitura sugerida por ordem: este resumo, `results_v2/relatorio.md`, `docs/pre_registo_v2.md`, `docs/plano_trabalho.md`. A revisão crítica completa que originou isto está em `revisao_fable_tema_A.md`.
 
 ## 1. Em duas frases
 
@@ -48,6 +48,7 @@ Teoria em três camadas (`docs/enquadramento_teorico.md`): o LLM como agente de 
 | `data/municipios_nuts3_2024.csv` | 308 municípios → NUTS III 2024 (feito de memória; verificar contra a CAOP) |
 | `data/macro_destinos.csv` | 37 marcas territoriais com NUTS III principal e abrangidas |
 | `reprocess.py` → `data/extracoes_v2.jsonl` | Reprocessamento determinístico das extrações do piloto |
+| `extract_v2.py` | Extração nova: pede ao Haiku só lugar, nível, município e contexto; NUTS III sempre da tabela; lê as respostas v2 |
 | `analyze_v2.py` → `results_v2/` | Medidas novas, termo por língua, bootstrap por agrupamento, relatório, homogeneização, noites nos roteiros, sensibilidades |
 | `simulacao_dimensao.py` → `results_v2/simulacao_dimensao.csv` | Largura dos intervalos por número de células e repetições |
 | `verificacao_v2.py` → `data/verificacao_recall.xlsx`, `data/verificacao_precisao.xlsx`; `metricas_verificacao.py` | Verificação humana em dois exercícios e métricas |
@@ -58,6 +59,16 @@ Teoria em três camadas (`docs/enquadramento_teorico.md`): o LLM como agente de 
 | `docs/enquadramento_teorico.md` | Três camadas, hipótese rival, literatura a verificar, termos de pesquisa |
 | `docs/revistas.md` | Revistas sem taxa, por ordem, com riscos |
 | `docs/plano_trabalho.md` | 4 semanas, tarefas por pessoa, decisões para reunião |
+
+## 5b. Desenho da recolha confirmatória
+
+| Condição | Tipos | Variações | Modelos | Línguas | Rep. | Respostas |
+|---|---|---|---|---|---|---|
+| Confirmatória | geral, roteiro, pouco conhecidos | 3 paráfrases; roteiro 3/7/14 dias | 5 (3 fechados + 2 abertos) | 4 | 3 | 660 |
+| Exploratória | natureza, cultura, família, vinho, inverno | 1 | 5 | 4 | 3 | 300 |
+| Pesquisa web | geral, roteiro 7 dias | 1 | 3 fechados, plugin web | 4 | 3 | 72 |
+
+Janela de 48 horas a partir de 3 de dezembro de 2026; custo previsto 40 a 60 USD.
 
 ## 6. O que precisamos de decidir (reunião)
 
