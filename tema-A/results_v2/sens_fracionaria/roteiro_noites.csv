@@ -1,0 +1,53 @@
+﻿grupo;nuts3;quota_noites_llm;lo;hi;quota_dormidas_lingua;quota_dormidas_total;racio_lingua
+todos;Alto Minho;0.0;nan;nan;0.0126;0.0137;0.55
+todos;Cávado;0.0;nan;nan;0.0138;0.0147;0.5
+todos;Ave;0.0135;nan;nan;0.0075;0.0082;2.41
+todos;Área Metropolitana do Porto;0.4599;0.3757;0.5578;0.1193;0.117;3.22
+todos;Alto Tâmega e Barroso;0.0;nan;nan;0.0041;0.0048;1.71
+todos;Tâmega e Sousa;0.0301;nan;nan;0.0054;0.0061;5.82
+todos;Douro;0.0301;0.012;0.0446;0.0075;0.0081;4.2
+todos;Terras de Trás-os-Montes;0.0;nan;nan;0.0035;0.0041;1.96
+todos;Região de Aveiro;0.0;nan;nan;0.0122;0.0133;0.57
+todos;Região de Coimbra;0.0221;0.0025;0.0477;0.021;0.0232;1.19
+todos;Região de Leiria;0.0;nan;nan;0.009;0.0104;0.77
+todos;Viseu Dão Lafões;0.0;nan;nan;0.0065;0.0078;1.08
+todos;Beira Baixa;0.0;nan;nan;0.0034;0.004;2.04
+todos;Beiras e Serra da Estrela;0.0;nan;nan;0.0098;0.0119;0.71
+todos;Oeste;0.0276;0.0024;0.0639;0.023;0.025;1.28
+todos;Médio Tejo;0.0;nan;nan;0.018;0.0186;0.39
+todos;Lezíria do Tejo;0.0;nan;nan;0.0031;0.0037;2.22
+todos;Grande Lisboa;0.4167;0.3498;0.4777;0.2343;0.224;1.49
+todos;Península de Setúbal;0.0;nan;nan;0.0247;0.0271;0.28
+todos;Alentejo Litoral;0.0;nan;nan;0.0224;0.0251;0.31
+todos;Baixo Alentejo;0.0;nan;nan;0.0058;0.0067;1.2
+todos;Alto Alentejo;0.0;nan;nan;0.0053;0.0063;1.31
+todos;Alentejo Central;0.0;0.0;0.0;0.0121;0.0135;0.57
+todos;Algarve;0.0;0.0;0.0;0.2636;0.2565;0.03
+todos;Região Autónoma dos Açores;0.0;nan;nan;0.0348;0.035;0.2
+todos;Região Autónoma da Madeira;0.0;0.0;0.0;0.1172;0.1113;0.06
+roteiro;Alto Minho;0.0;0.0;0.0;0.0126;0.0137;0.55
+roteiro;Cávado;0.0;0.0;0.0;0.0138;0.0147;0.5
+roteiro;Ave;0.0135;0.0024;0.0292;0.0075;0.0082;2.41
+roteiro;Área Metropolitana do Porto;0.4599;0.3847;0.5461;0.1193;0.117;3.22
+roteiro;Alto Tâmega e Barroso;0.0;0.0;0.0;0.0041;0.0048;1.71
+roteiro;Tâmega e Sousa;0.0301;0.0158;0.0456;0.0054;0.0061;5.82
+roteiro;Douro;0.0301;0.0158;0.0456;0.0075;0.0081;4.2
+roteiro;Terras de Trás-os-Montes;0.0;0.0;0.0;0.0035;0.0041;1.96
+roteiro;Região de Aveiro;0.0;0.0;0.0;0.0122;0.0133;0.57
+roteiro;Região de Coimbra;0.0221;0.0044;0.0535;0.021;0.0232;1.19
+roteiro;Região de Leiria;0.0;0.0;0.0;0.009;0.0104;0.77
+roteiro;Viseu Dão Lafões;0.0;0.0;0.0;0.0065;0.0078;1.08
+roteiro;Beira Baixa;0.0;0.0;0.0;0.0034;0.004;2.04
+roteiro;Beiras e Serra da Estrela;0.0;0.0;0.0;0.0098;0.0119;0.71
+roteiro;Oeste;0.0276;0.0;0.0595;0.023;0.025;1.28
+roteiro;Médio Tejo;0.0;0.0;0.0;0.018;0.0186;0.39
+roteiro;Lezíria do Tejo;0.0;0.0;0.0;0.0031;0.0037;2.22
+roteiro;Grande Lisboa;0.4167;0.3533;0.4674;0.2343;0.224;1.49
+roteiro;Península de Setúbal;0.0;0.0;0.0;0.0247;0.0271;0.28
+roteiro;Alentejo Litoral;0.0;0.0;0.0;0.0224;0.0251;0.31
+roteiro;Baixo Alentejo;0.0;0.0;0.0;0.0058;0.0067;1.2
+roteiro;Alto Alentejo;0.0;0.0;0.0;0.0053;0.0063;1.31
+roteiro;Alentejo Central;0.0;0.0;0.0;0.0121;0.0135;0.57
+roteiro;Algarve;0.0;0.0;0.0;0.2636;0.2565;0.03
+roteiro;Região Autónoma dos Açores;0.0;0.0;0.0;0.0348;0.035;0.2
+roteiro;Região Autónoma da Madeira;0.0;0.0;0.0;0.1172;0.1113;0.06

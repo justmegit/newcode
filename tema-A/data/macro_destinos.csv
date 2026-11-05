@@ -1,0 +1,38 @@
+chave;padrao;nuts3_principal;nuts3_abrangidas;municipio_principal;nota
+vale_do_douro;\b(vale do douro|douro valley|vall[ée]e du douro|valle del (duero|douro)|alto douro|douro vinhateiro|douro wine|r[ií]o douro|rio douro|fleuve douro|douro)\b;Douro;Douro|Tâmega e Sousa;Peso da Régua;Região vinhateira; a NUTS III Douro contém Baixo e Cima Corgo e Douro Superior. Caves do vinho do Porto em Gaia são AM Porto e devem ser codificadas como atração de Porto, não como Douro.
+peneda_geres;\b(peneda[- ]?ger[eê]s|ger[eê]s|geres)\b;Cávado;Alto Minho|Cávado|Alto Tâmega e Barroso;Terras de Bouro;Parque nacional em 5 municípios; maior área no Alto Minho. Vila do Gerês em Terras de Bouro (Cávado).
+serra_da_estrela;\bserra da estrela\b;Beiras e Serra da Estrela;Beiras e Serra da Estrela;Seia;Parque natural inteiramente em Beiras e Serra da Estrela (Seia, Gouveia, Manteigas, Covilhã, Celorico da Beira).
+costa_vicentina;\b(costa vicentina|rota vicentina|sudoeste alentejano|parque natural do sudoeste)\b;Alentejo Litoral;Alentejo Litoral|Algarve;Odemira;Odemira (Alentejo Litoral), Aljezur e Vila do Bispo (Algarve). Não é Baixo Alentejo.
+alentejo;^(o |el |l'|le |the |a )?alentejo( region| région| región| profundo| interior)?$;Alentejo Central;Alentejo Central|Alto Alentejo|Baixo Alentejo|Alentejo Litoral;Évora;Região NUTS II com 4 NUTS III. Só a menção isolada; "Alentejo Litoral" e "Costa Alentejana" têm regra própria.
+costa_alentejana;\b(costa alentejana|litoral alentejano|alentejo coast|côte alentejane|costa del alentejo)\b;Alentejo Litoral;Alentejo Litoral;Odemira;
+comporta;\bcomporta\b;Alentejo Litoral;Alentejo Litoral;Alcácer do Sal;Freguesia de Alcácer do Sal com praias em Grândola.
+alqueva;\b(alqueva|grande lago)\b;Alentejo Central;Alentejo Central|Baixo Alentejo|Alto Alentejo;Reguengos de Monsaraz;Albufeira em Mourão, Reguengos, Portel, Alandroal (Central), Moura (Baixo), Elvas (Alto).
+minho;^(o |el |le |the )?minho( region| région)?$;Alto Minho;Alto Minho|Cávado|Ave;Viana do Castelo;Menção isolada da região histórica.
+tras_os_montes;\b(tr[áa]s[- ]os[- ]montes)\b;Terras de Trás-os-Montes;Terras de Trás-os-Montes|Alto Tâmega e Barroso|Douro;Bragança;Região histórica; inclui o Douro Norte.
+ribatejo;\bribatejo\b;Lezíria do Tejo;Lezíria do Tejo|Médio Tejo;Santarém;
+costa_de_prata;\b(costa de prata|silver coast|côte d'argent|costa de plata)\b;Oeste;Oeste|Região de Leiria|Região de Coimbra|Região de Aveiro;Nazaré;Marca turística sem limites oficiais.
+beiras;^(as |las |les |the )?beiras?( interior| litoral| alta| baixa)?$;Beiras e Serra da Estrela;Beiras e Serra da Estrela|Beira Baixa|Viseu Dão Lafões|Região de Coimbra|Região de Aveiro|Região de Leiria;Guarda;Menção isolada. "Beira Baixa" isolada vai para Beira Baixa.
+arrabida;\b(arr[áa]bida)\b;Península de Setúbal;Península de Setúbal;Setúbal;Parque natural em Setúbal, Sesimbra e Palmela.
+ria_formosa;\bria formosa\b;Algarve;Algarve;Faro;
+douro_internacional;\bdouro internacional\b;Terras de Trás-os-Montes;Terras de Trás-os-Montes|Douro|Beiras e Serra da Estrela;Miranda do Douro;Miranda, Mogadouro (TTM); Freixo (Douro); Figueira de Castelo Rodrigo (BSE).
+montesinho;\bmontesinho\b;Terras de Trás-os-Montes;Terras de Trás-os-Montes;Bragança;Bragança e Vinhais.
+aldeias_do_xisto;\b(aldeias? do xisto|schist villages|villages? de schiste|aldeas de pizarra)\b;Região de Coimbra;Região de Coimbra|Região de Leiria|Médio Tejo|Beira Baixa;Lousã;27 aldeias em 4 NUTS III.
+aldeias_historicas;\b(aldeias? hist[óo]ricas?|historical villages|villages? historiques|aldeas hist[óo]ricas)\b;Beiras e Serra da Estrela;Beiras e Serra da Estrela|Beira Baixa;Almeida;12 aldeias; Monsanto e Idanha-a-Velha em Beira Baixa.
+bairrada;\bbairrada\b;Região de Aveiro;Região de Aveiro|Região de Coimbra;Anadia;Anadia e Oliveira do Bairro (Aveiro); Mealhada e Cantanhede (Coimbra).
+dao;^(o |the |le |el )?d[ãa]o( wine region| region)?$;Viseu Dão Lafões;Viseu Dão Lafões;Viseu;Região vinhateira. Só menção isolada.
+vale_do_coa;\b(vale do c[ôo]a|c[ôo]a valley|vall[ée]e du c[ôo]a|valle del c[ôo]a|parque arqueol[óo]gico do vale do c[ôo]a)\b;Douro;Douro|Beiras e Serra da Estrela;Vila Nova de Foz Côa;
+vale_do_tua;\b(vale do tua|tua valley)\b;Douro;Douro|Terras de Trás-os-Montes;Alijó;
+tejo_internacional;\btejo internacional\b;Beira Baixa;Beira Baixa;Idanha-a-Nova;
+sao_mamede;\bs[ãa]o mamede\b;Alto Alentejo;Alto Alentejo;Portalegre;
+serra_da_lousa;\bserra da lous[ãa]\b;Região de Coimbra;Região de Coimbra;Lousã;
+sintra_cascais;\b(sintra[- ]cascais|serra de sintra)\b;Grande Lisboa;Grande Lisboa;Sintra;
+lisboa_arredores;\b(lisboa e arredores|lisbon and (its )?surroundings|lisbonne et (ses )?environs|lisboa y alrededores|grande lisboa|lisbon region|regi[ãa]o de lisboa|r[ée]gion de lisbonne)\b;Grande Lisboa;Grande Lisboa|Península de Setúbal;Lisboa;
+estuario_tejo;\b(estu[áa]rio do tejo|tagus estuary)\b;Grande Lisboa;Grande Lisboa|Península de Setúbal|Lezíria do Tejo;Lisboa;
+oeste;^(o |the |la |el )?oeste( region)?$;Oeste;Oeste;Caldas da Rainha;Menção isolada.
+berlengas;\bberlengas?\b;Oeste;Oeste;Peniche;
+rota_do_romanico;\b(rota do rom[âa]nico|romanesque route)\b;Tâmega e Sousa;Tâmega e Sousa;Lousada;
+planalto_mirandes;\bplanalto mirand[êe]s\b;Terras de Trás-os-Montes;Terras de Trás-os-Montes;Miranda do Douro;
+algarve;^(o |the |l'|el |le )?algarve( region| région| región)?$;Algarve;Algarve;Faro;Uma só NUTS III; conta como destino normal mas é marca territorial.
+acores;^(os |the |les |las |las islas |arquip[ée]lago dos |arquipi[ée]lago de las |archipel des )?a[çc]ores( islands| archipelago)?$|^azores( islands| archipelago)?$;Região Autónoma dos Açores;Região Autónoma dos Açores;Ponta Delgada;Uma só NUTS III.
+madeira;^(a |la |the |l'|ilha da |isla de |île de |island of )?mad[eè](i)?ra( island| archipelago| arquip[ée]lago)?$;Região Autónoma da Madeira;Região Autónoma da Madeira;Funchal;Uma só NUTS III.
+porto_santo;\bporto santo\b;Região Autónoma da Madeira;Região Autónoma da Madeira;Porto Santo;
