@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bluewright — Digital Strategy & Transformation · Iberia</title>
+<meta name="description" content="Senior digital strategy and hands-on transformation for B2B companies operating in Portugal and Spain — from problem to process.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23122C4A'/%3E%3Cpath d='M8 8v16h16' stroke='%23C9A15A' stroke-width='4' fill='none'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100,400;100,500;100,600;125,600&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:opsz,wght@6..72,300;6..72,400;6..72,500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --navy:#122C4A; --harbor:#0C1F35; --brass:#C9A15A; --steel:#3E7CB1;
+  --fog:#EFF3F7; --ink:#20293A; --grey:#5A6472; --line:#D8E0E8;
+  --white:#FFFFFF; --brass-soft:#E4D2B0;
+  --disp:"Newsreader",Georgia,serif;
+  --ui:"Archivo",-apple-system,Segoe UI,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,monospace;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+body{font-family:var(--ui);font-size:17px;line-height:1.65;color:var(--ink);background:var(--white)}
+.wrap{max-width:1080px;margin:0 auto;padding:0 24px}
+h1,h2,h3{font-family:var(--disp);font-weight:500;line-height:1.12}
+a{color:var(--steel)}
+p{max-width:68ch}
+
+/* eyebrow + wright angle */
+.eyebrow{font-family:var(--mono);font-size:12.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--brass);display:flex;align-items:center;gap:12px;margin-bottom:18px}
+.eyebrow::before{content:"";width:14px;height:14px;border-left:2.5px solid var(--brass);border-bottom:2.5px solid var(--brass);flex:none}
+.on-light .eyebrow{color:#8A6A2F}
+.on-light .eyebrow::before{border-color:var(--brass)}
+
+/* nav */
+nav{position:sticky;top:0;z-index:50;background:rgba(18,44,74,.92);backdrop-filter:blur(8px);border-bottom:1px solid rgba(201,161,90,.25)}
+.nav-in{max-width:1080px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;gap:28px}
+.logo{font-family:var(--ui);font-weight:600;font-stretch:125%;letter-spacing:.12em;color:var(--white);text-decoration:none;font-size:16px;display:flex;align-items:center;gap:10px}
+.logo::before{content:"";width:13px;height:13px;border-left:3px solid var(--brass);border-bottom:3px solid var(--brass)}
+.nav-links{margin-left:auto;display:flex;gap:22px;align-items:center}
+.nav-links a{color:#C7D5E2;text-decoration:none;font-size:14.5px;font-weight:500}
+.nav-links a:hover{color:var(--white)}
+.btn{display:inline-block;font-family:var(--ui);font-weight:600;font-size:15px;text-decoration:none;padding:12px 22px;border-radius:3px;transition:transform .15s ease,box-shadow .15s ease}
+.btn:hover{transform:translateY(-1px)}
+.btn-brass{background:var(--brass);color:var(--harbor)}
+.btn-ghost{border:1.5px solid rgba(201,161,90,.7);color:var(--brass-soft)}
+.btn-navy{background:var(--navy);color:var(--white)}
+.nav-links .btn{padding:9px 16px;font-size:13.5px}
+@media(max-width:760px){.nav-links a:not(.btn){display:none}}
+
+/* hero */
+header.hero{background:linear-gradient(160deg,var(--navy) 0%,var(--harbor) 100%);color:var(--white);padding:110px 0 120px;position:relative;overflow:hidden}
+.hero .wrap{position:relative}
+.hero h1{font-size:clamp(38px,6vw,64px);font-weight:400;max-width:19ch;position:relative;padding-left:34px}
+.hero h1 .angle{position:absolute;left:0;top:.12em;width:22px;height:.78em;border-left:4px solid var(--brass);border-bottom:4px solid var(--brass)}
+.hero h1 em{font-style:italic;color:var(--brass)}
+.hero .sub{margin:26px 0 38px;font-size:19px;color:#C7D5E2;max-width:56ch;padding-left:34px}
+.hero .ctas{padding-left:34px;display:flex;gap:16px;flex-wrap:wrap}
+.hero .tag{position:absolute;right:24px;top:8px;font-family:var(--disp);font-style:italic;color:rgba(201,161,90,.85);font-size:17px}
+@media(max-width:760px){.hero{padding:70px 0 80px}.hero .tag{display:none}.hero h1,.hero .sub,.hero .ctas{padding-left:0}.hero h1 .angle{display:none}}
+
+/* sections */
+section{padding:92px 0}
+.s-fog{background:var(--fog)}
+.s-navy{background:var(--navy);color:var(--white)}
+h2{font-size:clamp(28px,3.6vw,40px);margin-bottom:22px;max-width:24ch}
+.s-navy h2{color:var(--white)}
+.lede{font-size:18.5px;color:var(--grey);max-width:62ch}
+.s-navy .lede{color:#C7D5E2}
+
+/* process rail */
+.rail{display:flex;align-items:center;gap:0;margin:46px 0 8px;flex-wrap:wrap}
+.rail .node{font-family:var(--mono);font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--navy);padding:10px 16px;border:1.5px solid var(--navy);border-radius:2px;background:var(--white)}
+.rail .node.final{background:var(--navy);color:var(--brass);border-color:var(--navy)}
+.rail .link{width:34px;height:1.5px;background:var(--navy);flex:none;position:relative}
+.rail .link::after{content:"";position:absolute;right:-1px;top:-3.5px;border:4px solid transparent;border-left-color:var(--navy)}
+@media(max-width:640px){.rail{flex-direction:column;align-items:flex-start;gap:8px}.rail .link{width:1.5px;height:18px;margin-left:22px}.rail .link::after{right:-3.5px;top:auto;bottom:-1px;border:4px solid transparent;border-top-color:var(--navy)}}
+
+/* two col approach */
+.cols2{display:grid;grid-template-columns:1fr 1fr;gap:56px;margin-top:40px}
+@media(max-width:820px){.cols2{grid-template-columns:1fr;gap:32px}}
+.cols2 h3{font-size:23px;margin-bottom:12px}
+.cols2 p{color:var(--ink)}
+
+/* services */
+.svc{display:grid;grid-template-columns:repeat(3,1fr);gap:26px;margin-top:48px}
+@media(max-width:860px){.svc{grid-template-columns:1fr}}
+.card{background:var(--white);border:1px solid var(--line);border-top:3px solid var(--navy);padding:30px 26px;display:flex;flex-direction:column}
+.card.hi{border-top-color:var(--brass)}
+.card .k{font-family:var(--mono);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:#8A6A2F;margin-bottom:10px}
+.card h3{font-size:26px;margin-bottom:6px}
+.card .prod{font-style:italic;font-family:var(--disp);color:var(--grey);margin-bottom:12px}
+.card p{font-size:15.5px;color:var(--ink)}
+.card a.more{margin-top:auto;padding-top:16px;font-weight:600;font-size:14.5px;text-decoration:none}
+.enable{margin-top:30px;background:var(--white);border:1px solid var(--line);border-left:3px solid var(--brass);padding:22px 26px;font-size:16px}
+.enable b{font-family:var(--disp);font-weight:500;font-size:18px}
+
+/* assessment */
+.dims{display:grid;grid-template-columns:repeat(3,1fr);gap:2px;background:rgba(201,161,90,.35);border:1px solid rgba(201,161,90,.35);margin:42px 0}
+@media(max-width:820px){.dims{grid-template-columns:1fr 1fr}}
+@media(max-width:560px){.dims{grid-template-columns:1fr}}
+.dims div{background:var(--navy);padding:20px 20px 22px}
+.dims b{display:block;font-family:var(--disp);font-weight:500;font-size:18.5px;margin-bottom:6px;color:var(--white)}
+.dims span{font-size:14.5px;color:#C7D5E2;line-height:1.5;display:block}
+.price-row{display:flex;gap:34px;align-items:baseline;flex-wrap:wrap;margin:8px 0 10px}
+.price{font-family:var(--disp);font-size:52px;color:var(--brass)}
+.price small{font-family:var(--ui);font-size:15.5px;color:#C7D5E2;display:block;margin-top:2px}
+.credit{font-size:16.5px;color:#C7D5E2;max-width:44ch}
+.credit b{color:var(--white)}
+.fixed{font-family:var(--mono);font-size:13px;letter-spacing:.1em;text-transform:uppercase;color:var(--brass);margin:26px 0 30px}
+
+/* work */
+.cases{display:grid;grid-template-columns:repeat(3,1fr);gap:26px;margin-top:46px}
+@media(max-width:860px){.cases{grid-template-columns:1fr}}
+.case{background:var(--white);border:1px solid var(--line);padding:28px 26px}
+.case .k{font-family:var(--mono);font-size:12px;letter-spacing:.13em;text-transform:uppercase;color:var(--steel);margin-bottom:12px}
+.case h3{font-size:22px;margin-bottom:10px}
+.case p{font-size:15px;color:var(--grey)}
+.cases-intro{margin-top:18px;color:var(--grey)}
+.cgroup{font-family:var(--mono);font-size:13px;font-weight:500;line-height:1.4;letter-spacing:.12em;text-transform:uppercase;color:var(--navy);margin-top:54px}
+.cgroup + .cases{margin-top:20px}
+.case h4{font-family:var(--disp);font-weight:500;font-size:22px;line-height:1.12;margin-bottom:10px}
+.case .q{font-family:var(--disp);font-style:italic;font-size:17px;line-height:1.35;color:var(--navy);margin-bottom:12px}
+.case .hard{font-size:14px;margin-top:14px;padding-top:12px;border-top:1px solid var(--line)}
+.case .hard span{display:block;font-family:var(--mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--steel);margin-bottom:4px}
+
+/* about */
+.about{display:grid;grid-template-columns:150px 1fr;gap:44px;margin-top:40px;align-items:start}
+@media(max-width:720px){.about{grid-template-columns:1fr}}
+.mono-block{width:150px;height:150px;background:var(--navy);position:relative}
+.mono-block::before{content:"";position:absolute;left:24px;bottom:24px;width:56px;height:56px;border-left:6px solid var(--brass);border-bottom:6px solid var(--brass)}
+.mono-block span{position:absolute;right:16px;top:12px;font-family:var(--ui);font-weight:600;font-stretch:125%;color:var(--white);letter-spacing:.1em;font-size:15px}
+.about p{margin-bottom:16px}
+blockquote{border-left:3px solid var(--brass);padding:6px 0 6px 20px;margin:26px 0;font-family:var(--disp);font-style:italic;font-size:18.5px;color:var(--navy);max-width:60ch}
+blockquote footer{font-family:var(--ui);font-style:normal;font-size:14px;color:var(--grey);margin-top:8px}
+.kicker{font-family:var(--mono);font-size:13.5px;color:var(--grey);letter-spacing:.04em}
+
+/* final cta */
+.final-cta{text-align:left}
+.final-cta h2{max-width:none}
+.final-cta p{font-size:18px;color:#C7D5E2;max-width:56ch;margin-bottom:34px}
+
+/* footer */
+footer.site{background:var(--harbor);color:#8FA6BB;padding:44px 0;font-size:14px}
+footer.site .wrap{display:flex;justify-content:space-between;gap:24px;flex-wrap:wrap}
+footer.site .logo{font-size:14px}
+footer.site a{color:#C7D5E2;text-decoration:none}
+.legacy{font-family:var(--disp);font-style:italic;color:#6E86A0}
+
+/* reveal */
+.rv{opacity:0;transform:translateY(14px);transition:opacity .6s ease,transform .6s ease}
+.rv.in{opacity:1;transform:none}
+@media (prefers-reduced-motion:reduce){.rv{opacity:1;transform:none;transition:none}}
+a:focus-visible,.btn:focus-visible{outline:3px solid var(--brass);outline-offset:2px}
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-in">
+    <a class="logo" href="#top">BLUEWRIGHT</a>
+    <div class="nav-links">
+      <a href="#approach">Approach</a>
+      <a href="#services">Services</a>
+      <a href="#assessment">Assessment</a>
+      <a href="#work">Work</a>
+      <a href="#about">About</a>
+      <a class="btn btn-brass" href="#contact">Book a conversation</a>
+    </div>
+  </div>
+</nav>
+
+<header class="hero" id="top">
+  <div class="wrap">
+    <div class="tag">From problem to process.</div>
+    <div class="eyebrow">Digital Strategy &amp; Transformation · Iberia</div>
+    <h1><span class="angle" aria-hidden="true"></span>Technology doesn't transform companies. <em>Adopted</em> technology does.</h1>
+    <p class="sub">Senior digital strategy and hands-on transformation for B2B companies operating in Portugal and Spain — from problem to process.</p>
+    <div class="ctas">
+      <a class="btn btn-brass" href="#contact">Book a 30-minute conversation</a>
+      <a class="btn btn-ghost" href="#assessment">See how the Assessment works</a>
+    </div>
+  </div>
+</header>
+
+<section class="s-fog on-light" id="approach">
+  <div class="wrap">
+    <div class="eyebrow rv">Approach</div>
+    <h2 class="rv">Why most digital and AI initiatives fail</h2>
+    <p class="lede rv">It's rarely the technology. Tools get bought and never used. Pilots impress and never scale. Agencies deliver campaigns; consultants deliver slides; software vendors deliver licenses — and eighteen months later, the way the company actually works hasn't changed.</p>
+    <div class="cols2">
+      <div class="rv">
+        <h3>The two layers everyone skips</h3>
+        <p>Transformation fails at <strong>processes</strong> that were never redesigned, and <strong>people</strong> who were never brought along. The technology was the easy part all along.</p>
+      </div>
+      <div class="rv">
+        <h3>From problem to process</h3>
+        <p>Bluewright works the full chain — and only considers the job done when the new way of working runs with your team trained and owning it. Not a report. Not a tool. A process that works.</p>
+      </div>
+    </div>
+    <div class="rail rv" role="img" aria-label="Problem, then strategy, then execution, then process">
+      <div class="node">Problem</div><div class="link"></div>
+      <div class="node">Strategy</div><div class="link"></div>
+      <div class="node">Execution</div><div class="link"></div>
+      <div class="node final">Process</div>
+    </div>
+  </div>
+</section>
+
+<section id="services">
+  <div class="wrap on-light">
+    <div class="eyebrow rv">Services</div>
+    <h2 class="rv">Three ways to work with us</h2>
+    <div class="svc">
+      <div class="card hi rv">
+        <div class="k">Start here</div>
+        <h3>Assess</h3>
+        <div class="prod">Digital &amp; AI Readiness Assessment</div>
+        <p>A four-week, fixed-fee diagnostic: where you stand, what's worth doing, in what order. The usual starting point.</p>
+        <a class="more" href="#assessment">How it works →</a>
+      </div>
+      <div class="card rv">
+        <div class="k">Build</div>
+        <h3>Transform</h3>
+        <div class="prod">Strategy plus implementation</div>
+        <p>Short cycles: commercial process redesign, automation and AI, digital presence that generates business. We don't hand over recommendations — we build, integrate and make them run.</p>
+      </div>
+      <div class="card rv">
+        <div class="k">Retain</div>
+        <h3>Advise</h3>
+        <div class="prod">Your fractional digital director</div>
+        <p>Priorities set with management each quarter, execution supervised, technology decisions taken with someone whose only incentive is your outcome. Senior digital leadership without hiring it.</p>
+      </div>
+    </div>
+    <div class="enable rv"><b>Across everything: enablement.</b> Executive and team training — AI literacy, new tools, new processes — grounded in three decades of university teaching. Change sticks when someone knows how to teach it.</div>
+  </div>
+</section>
+
+<section class="s-navy" id="assessment">
+  <div class="wrap">
+    <div class="eyebrow rv">The Assessment</div>
+    <h2 class="rv">Know exactly where to invest — before you invest.</h2>
+    <p class="lede rv">Four weeks, six dimensions, one prioritized roadmap presented to your leadership team.</p>
+    <div class="dims rv">
+      <div><b>Business strategy</b><span>Market position, growth priorities, where digital should serve them.</span></div>
+      <div><b>Commercial engine</b><span>How leads become customers: presence, funnel, sales process.</span></div>
+      <div><b>Processes &amp; operations</b><span>How marketing, sales and delivery actually work — and where the friction is.</span></div>
+      <div><b>Data &amp; systems</b><span>CRM, analytics, automation: what talks to what, and what doesn't.</span></div>
+      <div><b>AI readiness</b><span>Where AI creates real leverage in your operation, and what must be true first.</span></div>
+      <div><b>People &amp; adoption</b><span>Skills, habits and ownership: who will make the change stick.</span></div>
+    </div>
+    <div class="fixed rv">Fixed scope · Fixed timeline · Fixed fee — no junior staff learning on your budget</div>
+    <div class="price-row rv">
+      <div class="price">€9,500<small>all-inclusive · four weeks from kickoff to roadmap</small></div>
+      <p class="credit">Proceed to implementation with us within 90 days and <b>50% of the assessment fee is credited</b> against the first project.</p>
+    </div>
+    <div class="ctas rv" style="display:flex;gap:16px;flex-wrap:wrap;margin-top:26px">
+      <a class="btn btn-brass" href="#contact">Book the fit call</a>
+      <a class="btn btn-ghost" href="Bluewright-Assessment-onepager.pdf">Download the one-pager (PDF)</a>
+    </div>
+  </div>
+</section>
+
+<section class="s-fog on-light" id="work">
+  <div class="wrap">
+    <div class="eyebrow rv">Work</div>
+    <h2 class="rv">Transformation, not deliverables</h2>
+    <p class="rv cases-intro">Eleven challenges, drawn from four engagements. Clients are not named: administrations change, and the lessons do not.</p>
+    <h3 class="cgroup rv">Knowing what you are buying</h3>
+    <div class="cases">
+      <article class="case rv">
+        <div class="k">Market entry</div>
+        <h4>Scenarios, not a budget</h4>
+        <p class="q">&ldquo;How much should we invest in Spain, and what would each level buy?&rdquo;</p>
+        <p>A northern European manufacturer&#x27;s board received two complete scenarios instead of a budget request: channels, what each would and would not produce, and the fee, around a programme that gives prescribers a reason to name the brand.</p>
+        <p class="hard"><span>Harder than planned</span> A clear choice does not set a date. The board has not decided yet.</p>
+      </article>
+      <article class="case rv">
+        <div class="k">Data and systems</div>
+        <h4>Check what the algorithm learns from</h4>
+        <p class="q">&ldquo;The platforms say the account is healthy. I don&#x27;t know what the media is buying.&rdquo;</p>
+        <p>99.99% of the value the search platform reported was a default or a duplicate. We made the signal true before touching the budget, and every launch now starts with a test lead.</p>
+        <p class="hard"><span>Harder than planned</span> A tracking failure ran for 20 days before we found it. The check that would have caught it did not exist yet.</p>
+      </article>
+      <article class="case rv">
+        <div class="k">Commercial engine</div>
+        <h4>Decide what a lead is worth</h4>
+        <p class="q">&ldquo;Do we cut the media or put more in?&rdquo;</p>
+        <p>The company knew what a lead cost, not what it was worth. We worked it out from its own funnel and proposed a ceiling management could hold us to.</p>
+        <p class="hard"><span>Harder than planned</span> Media was cut before the ceiling had a quarter of data behind it, so the rule was never tested on that decision.</p>
+      </article>
+    </div>
+    <h3 class="cgroup rv">Work that should not depend on one person</h3>
+    <div class="cases">
+      <article class="case rv">
+        <div class="k">Processes</div>
+        <h4>A hire or a process</h4>
+        <p class="q">&ldquo;I need to replace our communications person.&rdquo;</p>
+        <p>An automated notice had sent nothing for months while reporting success. Instead of filling the role, we redesigned each task as a process the client owns, with a person approving and failures reported before anyone asks. It has run since February at about 40% of the cost of a junior hire.</p>
+        <p class="hard"><span>Harder than planned</span> Automation fails quietly too, including ours. That process now reports to a person when it goes quiet.</p>
+      </article>
+      <article class="case rv">
+        <div class="k">Commercial engine</div>
+        <h4>A catalogue nobody could update</h4>
+        <p class="q">&ldquo;Online sales have fallen. Why invest in a channel that is shrinking?&rdquo;</p>
+        <p>Online revenue had fallen 60% in a year, and each new course date needed a developer. We treated the shop as a symptom: the business team now publishes its own dates.</p>
+        <p class="hard"><span>Harder than planned</span> Go-live slipped two weeks waiting on a partner&#x27;s feedback. The plan needed a written deadline for outside input.</p>
+      </article>
+      <article class="case rv">
+        <div class="k">People and adoption</div>
+        <h4>Recruitment as a routine</h4>
+        <p class="q">&ldquo;Every vacancy starts from zero, and the hard ones go to an agency.&rdquo;</p>
+        <p>The company kept hiring the same profiles from scratch. Standing regional roles now reopen on a cycle, promoted with content each time, with no AI in selection. Applications are more than three times what the old system recorded in its entire history.</p>
+        <p class="hard"><span>Harder than planned</span> HR has not adopted the platform yet. That is the next phase, and the hardest one.</p>
+      </article>
+    </div>
+    <h3 class="cgroup rv">Reading what you already have</h3>
+    <div class="cases">
+      <article class="case rv">
+        <div class="k">Business context</div>
+        <h4>From press clipping to market analysis</h4>
+        <p class="q">&ldquo;We get a monthly press clipping. Nobody does anything with it.&rdquo;</p>
+        <p>The report now crosses what companies post with what public registers show they won. On the first pass, 4 of 4 public awards to competitors had not been mentioned by the competitors anywhere.</p>
+        <p class="hard"><span>Harder than planned</span> The sources do not stand still, and a reading still has to become a decision inside the company.</p>
+      </article>
+      <article class="case rv">
+        <div class="k">Data and systems</div>
+        <h4>The next sale is already in your data</h4>
+        <p class="q">&ldquo;Who should we be calling, and aren&#x27;t?&rdquo;</p>
+        <p>Cross-selling ran on memory. We rebuilt the enrolment history into a standing list of who to call. In its first week, all 30 renewal opportunities on it had already lapsed.</p>
+        <p class="hard"><span>Harder than planned</span> Making history usable took two passes, and our automation once acted on a decision that belonged to the client. It was reverted the next day.</p>
+      </article>
+    </div>
+    <h3 class="cgroup rv">What the company says, and who follows through</h3>
+    <div class="cases">
+      <article class="case rv">
+        <div class="k">AI readiness</div>
+        <h4>Claims you can defend</h4>
+        <p class="q">&ldquo;Can our advertising say this?&rdquo;</p>
+        <p>Ads carried a figure and a word the source document did not support, some of them on pages we had built. We removed them and led with the evidence the buyer actually needed.</p>
+        <p class="hard"><span>Harder than planned</span> We cannot say whether the honest campaign sold better: measurement after the click was broken.</p>
+      </article>
+      <article class="case rv">
+        <div class="k">Processes</div>
+        <h4>Content that stalled in approval</h4>
+        <p class="q">&ldquo;We pay for two posts a week and publish one.&rdquo;</p>
+        <p>Piece-by-piece approval held output at about one a week. Decisions in layers, the service catalogue as a filter and AI drafting under human review brought it to two a week, each with its approval on record.</p>
+        <p class="hard"><span>Harder than planned</span> Contributions from the field are a change of culture, still under way. Generated illustrations are the buffer until then.</p>
+      </article>
+      <article class="case rv">
+        <div class="k">A case about what we did not fix</div>
+        <h4>The leads were there. Nobody owned the next step.</h4>
+        <p class="q">&ldquo;We need more leads.&rdquo;</p>
+        <p>81.6% of paid-social contacts had no next step recorded in the CRM. The report reached management and the data stayed open to all, and nothing changed.</p>
+        <p class="hard"><span>Harder than planned</span> Lead quality is whatever sales says it is, unless someone agrees at the start to ask the prospects themselves.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section id="about">
+  <div class="wrap on-light">
+    <div class="eyebrow rv">About</div>
+    <h2 class="rv">The person behind the practice</h2>
+    <div class="about">
+      <div class="mono-block rv" aria-hidden="true"><span>AP</span></div>
+      <div>
+        <p class="rv">Bluewright is led — and every engagement is conducted personally — by <strong>Alexandre Pessoa</strong>.</p>
+        <p class="rv">He was building digital firsts before "digital transformation" had a name: at Portugal's mobile operators he ran the world's first WAP services portal, launched the world's first cross-platform mobile chat (2001) and a fixed-mobile social network years before Facebook, and created the product category that redefined internet access in Portugal — growing data services from zero to a fifth of operator revenue. Since 2008 he has run a boutique digital practice serving international and Iberian B2B companies, from industrial SMEs to global leaders in aerospace and engineering.</p>
+        <p class="rv">An engineer who began his career as a merchant-navy radio officer, he holds a Master's in Project Management and the Portuguese state <strong>Specialist Title in Business Sciences</strong>, awarded by public examination — and has taught strategy, digital marketing and management in higher education for three decades. Two lessons from all of it: strategy is cheap, and adoption is everything.</p>
+        <p class="rv">He works in <strong>English, Spanish and Portuguese</strong> (plus working French), moves comfortably between a board in Brussels and a sales team in Seville, and uses daily — in his own operation — the AI and automation he recommends.</p>
+        <p class="rv kicker">No pyramid of juniors. No hours to sell. One senior partner, amplified by AI, accountable for the outcome.</p>
+        <blockquote class="rv">"A rare combination of out-of-the-box thinking with pragmatic implementation ability."<footer>Digital &amp; IT Director, telecom operator</footer></blockquote>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="s-navy final-cta" id="contact">
+  <div class="wrap">
+    <div class="eyebrow rv">Contact</div>
+    <h2 class="rv">Start with a conversation</h2>
+    <p class="rv">Thirty minutes to understand your situation and tell you honestly whether — and how — we can help. No preparation needed. No follow-up sequence if the answer is no.</p>
+    <div class="ctas rv" style="display:flex;gap:16px;flex-wrap:wrap">
+      <a class="btn btn-brass" href="mailto:hello@bluewright.com?subject=Fit%20call%20—%20Bluewright">Book the conversation</a>
+      <a class="btn btn-ghost" href="mailto:hello@bluewright.com">hello@bluewright.com</a>
+    </div>
+  </div>
+</section>
+
+<footer class="site">
+  <div class="wrap">
+    <div>
+      <a class="logo" href="#top">BLUEWRIGHT</a>
+      <div style="margin-top:10px">Digital Strategy &amp; Transformation<br>Lisbon &amp; Madrid · EN / ES / FR / PT</div>
+    </div>
+    <div style="text-align:right">
+      <div>A practice by <a href="https://www.linkedin.com/in/alexandrepessoa/">Alexandre Pessoa</a></div>
+      <div style="margin-top:10px">© <span id="yr">2026</span> Springbreeze Unipessoal Lda.</div>
+      <div class="legacy" style="margin-top:6px">Formerly known to long-time clients as Blue Serenity.</div>
+    </div>
+  </div>
+</footer>
+
+<script>
+document.getElementById('yr').textContent=new Date().getFullYear();
+const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.12});
+document.querySelectorAll('.rv').forEach(el=>io.observe(el));
+</script>
+</body>
+</html>

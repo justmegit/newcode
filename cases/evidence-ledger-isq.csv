@@ -1,0 +1,15 @@
+id,claim,numerator,denominator,kind,computed,display,source,source_date,confidence,provenance,used_in
+I01,Birthday greetings missed while the old flow reported success,38,1,int,38.0,38,"ISQ ES project memory, isq-es-roadmap (project A): 119 iterations, zero sends, 16 Apr-12 Aug 2026",2026-08-12,high,own-work,c2
+I02,Inflation of the July competitor panel in the old manual report,235,220,more0,1.068182,7%,"ISQ ES project memory, isq-es-clipping: July recounted from 235 to 220 panel posts",2026-08-16,high,own-work,c2
+I03,LinkedIn page visits in 90 days,141,1,int,141.0,141,LinkedIn page exports 15 May-12 Aug 2026 (visitors),2026-08-14,high,operational-access,c2
+I04,LinkedIn organic impressions in the same 90 days,16156,1,int,16156.0,"16,156",Same exports (posts),2026-08-14,high,operational-access,c2
+I05,Share of followers located in Spain,193,763,pct0,0.252949,25%,Followers export: Spain ~193 of ~763,2026-08-14,medium,operational-access,c2
+I07,Decision-makers (Director+VP+CXO) among followers,9,100,pct0,0.09,9%,"Followers export, seniority breakdown (reported as 9%)",2026-08-14,medium,operational-access,c2
+I09,Proposed content topics claiming services outside the published catalogue,5,9,frac,0.555556,5 of 9,"ISQ ES project memory, isq-es-roadmap: rebalanced plan checked against isq.es/servicios",2026-08-14,high,own-work,c2
+I11,Greetings sent on schedule and logged in the first three weeks of the rebuilt flow,3,1,int,3.0,three greetings,"SharePoint list Log Cumpleanos, 12 Aug-1 Sep: 94 rows read/day, 3 sends, 0 errors",2026-09-01,high,operational-access,c2
+I16,Artefact jump the report refused to publish,167,100,text,1.67,+167%,"ISQ ES project memory, isq-es-clipping: August vs under-sampled July would have read +167% panel volume",2026-09-02,high,own-work,c2
+I17,"Seconds from approval send to live-post confirmation, first publication",49,60,text,0.816667,under a minute,"ISQ ES project memory, isq-es-sistema-conteudo: send 08:03:41 -> confirmation 08:04:30 on 13 Sep = 49 s (the memory's own '57 s' is an arithmetic slip)",2026-09-13,medium,own-work,c2
+I18,Impressions of the inspector-named post vs the best dense post,2150,2278,pct0,0.94381,94%,"LinkedIn post analytics: 26 Aug (2,150) vs 8 Jul (2,278)",2026-09-01,high,operational-access,c2
+I19,Page visits from the inspector-named post vs the dense post,15,3,mult0,5.0,5x,Same analytics: 15 vs 3 page visits,2026-09-01,high,operational-access,c2
+I20,New followers from one post vs all new followers in August,16,31,frac,0.516129,16 of 31,"LinkedIn followers and post analytics, August 2026",2026-09-01,high,operational-access,c2
+I25,Weeks with zero field photos received,3,1,int,3.0,three weeks,"SharePoint library Contenido de Campo at 0 items, 1 Sep",2026-09-01,high,operational-access,c2

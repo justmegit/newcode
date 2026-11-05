@@ -1,0 +1,43 @@
+/* BLUEWRIGHT — design tokens v1
+   Single source of truth for colour and type. Import before any component CSS.
+   Fonts: Newsreader, Archivo, IBM Plex Mono (Google Fonts, OFL). */
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100,400;100,500;100,600;125,600&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:opsz,wght@6..72,300;6..72,400;6..72,500&display=swap');
+
+:root{
+  /* colour */
+  --navy:#122C4A;        /* primary */
+  --harbor:#0C1F35;      /* deepest */
+  --brass:#C9A15A;       /* the accent — 5% of any surface */
+  --brass-dark:#8A6A2F;  /* brass for small text on light (AA) */
+  --brass-soft:#E4D2B0;  /* brass text on navy */
+  --steel:#3E7CB1;       /* links, secondary accent */
+  --fog:#EFF3F7;         /* alternating light band */
+  --ink:#20293A;         /* body on light */
+  --grey:#5A6472;        /* secondary text */
+  --line:#D8E0E8;        /* rules and borders */
+  --white:#FFFFFF;
+  --on-navy-muted:#C7D5E2;
+
+  /* type */
+  --disp:"Newsreader",Georgia,serif;         /* headlines, quotes */
+  --ui:"Archivo",-apple-system,Segoe UI,sans-serif;  /* body, UI */
+  --mono:"IBM Plex Mono",ui-monospace,monospace;     /* labels, data */
+
+  --fs-hero:clamp(38px,6vw,64px);
+  --fs-h2:clamp(28px,3.6vw,40px);
+  --fs-h3:23px;
+  --fs-body:17px;
+  --fs-small:15px;
+  --fs-label:12.5px;
+
+  --lh-tight:1.12;
+  --lh-body:1.65;
+  --track-label:.14em;
+
+  /* structure */
+  --radius:3px;          /* never higher */
+  --measure:68ch;
+  --band-y:92px;         /* vertical section rhythm */
+  --wrap:1080px;
+}
