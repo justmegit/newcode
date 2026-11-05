@@ -1,0 +1,77 @@
+﻿id;posicao;lugar;nivel;destino_pai;municipio;nuts3;existe;codificador_1_correto (s/n);codificador_2_correto (s/n);nota;resposta_original
+claude|geral|pt|1;1;Lisboa;destino;;Lisboa;Grande Lisboa;True;;;;"# 10 lugares para visitar em Portugal
+
+**1. Lisboa**
+A capital tem bairros históricos como Alfama e Belém, miradouros, o Elétrico 28, a Torre de Belém, o Mosteiro dos Jerónimos e os famosos pastéis de nata.
+
+**2. Porto**
+Passeie pela Ribeira, atravesse a Ponte Luís I e visite as caves de vinho do Porto em Vila Nova de Gaia. Não perca a Livraria Lello e a Estação de São Bento.
+
+**3. Sintra**
+Uma vila de contos de fadas, com o Palácio da Pena, o Castelo dos Mouros, a Quinta da Regaleira e o Palácio Nacional. Dá para fazer numa excursão de um dia a partir de Lisboa.
+
+**4. Vale do Douro**
+Uma região vinícola classificada pela UNESCO, com socalcos a perder de vista. Pode fazer cruzeiros no rio, provas de vinho e viagens de comboio panorâmicas.
+
+**5. Algarve**
+Para quem gosta de praia: Lagos, a Praia da Marinha, Benagil, a Ponta da Piedade e Tavira. Os passeios de barco às grutas são muito populares.
+
+**6. Évora**
+Cidade alentejana com um centro histórico classificado pela UNESCO, o Templo Romano, a Capela dos Ossos e uma excelente gastronomia.
+
+**7. Coimbra**
+Cidade universitária com uma das universidades mais antigas da Europa, a Biblioteca Joanina e um ambiente estudantil animado, com fado próprio.
+
+**8. Ilha da Madeira**
+Levadas para caminhadas, paisagens verdes, o Funchal, o Cabo Girão e o vinho da Madeira. O clima ameno faz dela um destino para todo o ano.
+
+**9. Açores (São Miguel)**
+Lagoas vulcânicas como as Sete Cidades, fontes termais nas Furnas, plantações de chá e observação de baleias.
+
+**10. Óbidos**
+Vila medieval murada, com ruas empedradas e casas caiadas. Experimente a ginjinha servida em copinho de chocolate.
+
+---
+
+**Sugestões extra:**
+- **Duração:** Para os pontos do continente, recomendo pelo menos 7 a 10 dias.
+- **Época:** Primavera (abril a junho) e início do outono (setembro e outubro) têm bom tempo e menos multidões.
+- **Transportes:** Os comboios ligam bem Lisboa, Porto e Coimbra, mas um carro alugado é útil no Alentejo, no Algarve e no Douro.
+
+Quer ajuda a montar um roteiro? Diga-me quantos dias tem, a época do ano e os seus interesses, como praia, cultura, gastronomia ou natureza."
+claude|geral|pt|1;2;Alfama;atracao;Lisboa;Lisboa;Grande Lisboa;True;;;;
+claude|geral|pt|1;3;Belém;atracao;Lisboa;Lisboa;Grande Lisboa;True;;;;
+claude|geral|pt|1;4;Elétrico 28;atracao;Lisboa;Lisboa;Grande Lisboa;True;;;;
+claude|geral|pt|1;5;Torre de Belém;atracao;Lisboa;Lisboa;Grande Lisboa;True;;;;
+claude|geral|pt|1;6;Mosteiro dos Jerónimos;atracao;Lisboa;Lisboa;Grande Lisboa;True;;;;
+claude|geral|pt|1;7;Porto;destino;;Porto;Área Metropolitana do Porto;True;;;;
+claude|geral|pt|1;8;Ribeira;atracao;Porto;Porto;Área Metropolitana do Porto;True;;;;
+claude|geral|pt|1;9;Ponte Luís I;atracao;Porto;Porto;Área Metropolitana do Porto;True;;;;
+claude|geral|pt|1;10;Vila Nova de Gaia;atracao;Porto;Vila Nova de Gaia;Área Metropolitana do Porto;True;;;;
+claude|geral|pt|1;11;Livraria Lello;atracao;Porto;Porto;Área Metropolitana do Porto;True;;;;
+claude|geral|pt|1;12;Estação de São Bento;atracao;Porto;Porto;Área Metropolitana do Porto;True;;;;
+claude|geral|pt|1;13;Sintra;destino;;Sintra;Grande Lisboa;True;;;;
+claude|geral|pt|1;14;Palácio da Pena;atracao;Sintra;Sintra;Grande Lisboa;True;;;;
+claude|geral|pt|1;15;Castelo dos Mouros;atracao;Sintra;Sintra;Grande Lisboa;True;;;;
+claude|geral|pt|1;16;Quinta da Regaleira;atracao;Sintra;Sintra;Grande Lisboa;True;;;;
+claude|geral|pt|1;17;Palácio Nacional de Sintra;atracao;Sintra;Sintra;Grande Lisboa;True;;;;
+claude|geral|pt|1;18;Vale do Douro;destino;;Peso da Régua;Douro;True;;;;
+claude|geral|pt|1;19;Algarve;destino;;Loulé;Algarve;True;;;;
+claude|geral|pt|1;20;Lagos;atracao;Algarve;Lagos;Algarve;True;;;;
+claude|geral|pt|1;21;Praia da Marinha;atracao;Algarve;Lagoa;Algarve;True;;;;
+claude|geral|pt|1;22;Benagil;atracao;Algarve;Lagoa;Algarve;True;;;;
+claude|geral|pt|1;23;Ponta da Piedade;atracao;Algarve;Lagos;Algarve;True;;;;
+claude|geral|pt|1;24;Tavira;atracao;Algarve;Tavira;Algarve;True;;;;
+claude|geral|pt|1;25;Évora;destino;;Évora;Alentejo Central;True;;;;
+claude|geral|pt|1;26;Templo Romano;atracao;Évora;Évora;Alentejo Central;True;;;;
+claude|geral|pt|1;27;Capela dos Ossos;atracao;Évora;Évora;Alentejo Central;True;;;;
+claude|geral|pt|1;28;Coimbra;destino;;Coimbra;Região de Coimbra;True;;;;
+claude|geral|pt|1;29;Biblioteca Joanina;atracao;Coimbra;Coimbra;Região de Coimbra;True;;;;
+claude|geral|pt|1;30;Ilha da Madeira;destino;;Funchal;Região Autónoma da Madeira;True;;;;
+claude|geral|pt|1;31;Levadas;atracao;Ilha da Madeira;Funchal;Região Autónoma da Madeira;True;;;;
+claude|geral|pt|1;32;Funchal;atracao;Ilha da Madeira;Funchal;Região Autónoma da Madeira;True;;;;
+claude|geral|pt|1;33;Cabo Girão;atracao;Ilha da Madeira;Câmara de Lobos;Região Autónoma da Madeira;True;;;;
+claude|geral|pt|1;34;Açores (São Miguel);destino;;Ponta Delgada;Região Autónoma dos Açores;True;;;;
+claude|geral|pt|1;35;Sete Cidades;atracao;Açores (São Miguel);Ponta Delgada;Região Autónoma dos Açores;True;;;;
+claude|geral|pt|1;36;Furnas;atracao;Açores (São Miguel);Povoação;Região Autónoma dos Açores;True;;;;
+claude|geral|pt|1;37;Óbidos;destino;;Óbidos;Oeste;True;;;;

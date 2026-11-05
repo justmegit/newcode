@@ -1,0 +1,38 @@
+{
+  "repeticoes": 5,
+  "max_tokens": 4000,
+  "modelos": [
+    {
+      "rotulo": "claude",
+      "fornecedor": "openrouter",
+      "modelo": "anthropic/claude-sonnet-5.5",
+      "chave_env": "OPENROUTER_API_KEY"
+    },
+    {
+      "rotulo": "gpt",
+      "fornecedor": "openrouter",
+      "modelo": "openai/gpt-6.1-sol",
+      "chave_env": "OPENROUTER_API_KEY"
+    },
+    {
+      "rotulo": "gemini",
+      "fornecedor": "openrouter",
+      "modelo": "google/gemini-4-argon",
+      "chave_env": "OPENROUTER_API_KEY"
+    }
+  ],
+  "extracao": {
+    "fornecedor": "openrouter",
+    "modelo": "anthropic/claude-haiku-5.5",
+    "chave_env": "OPENROUTER_API_KEY"
+  },
+  "amostra_verificacao": 0.2,
+  "semente": 2026,
+  "linguas": [
+    "pt",
+    "en",
+    "es",
+    "fr"
+  ],
+  "paralelo": 6
+}
