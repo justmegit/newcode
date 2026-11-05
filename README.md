@@ -22,7 +22,9 @@ Then paste the first prompt from `KICKOFF.md`. Claude Code reads `CLAUDE.md` aut
 | `brand/tokens.css` | Colour and type tokens | v1, law |
 | `strategy/positioning.md` | Decision record: thesis, target, offer, transition plan | v2, current |
 | `strategy/case-studies.md` | Three case studies | Drafts — needs `[FILL]` |
-| `offers/assessment-onepager.md` + `assets/` | The €9,500 Layer 1 product | Approved, PDF built |
+| `offers/assessment-onepager.md` + `assets/` | The €12,000 Layer 1 product — Commercial Engine Assessment (`build-onepager.py` regenerates the PDF) | Revised 5 Nov 2026, PDF built |
+| `offers/ai-literacy-programme.md` | Enablement product — AI Literacy Programme (AI Act, Art. 4) | Draft, price pending |
+| `offers/ai-act-entry-offer.md` | The AI Act analysis behind both | v2, Nov 2026 |
 | `site/index.html` | One-page website, self-contained | Built, needs final cases |
 | `site/copy.md` | Approved website copy | Approved |
 | `bio/bio-kit.md` | About section + three bio lengths | v1 |

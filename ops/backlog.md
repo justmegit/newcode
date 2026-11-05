@@ -10,6 +10,7 @@ Ordered by dependency. Phase 0 is "house in order" — nothing gets communicated
 - [ ] **Fill the `[FILL]` markers** in `strategy/cases/case-*.md` — rough numbers are fine, polish is Claude's job.
 - [ ] **Decide per case:** anonymized or named with written client permission.
 - [ ] **Professional portrait** for the site and LinkedIn.
+- [ ] **Price the AI Literacy Programme** (per programme, never per head). Blocks its PDF. See `offers/ai-literacy-programme.md`.
 
 ## Phase 0 — house in order
 
@@ -17,7 +18,9 @@ Ordered by dependency. Phase 0 is "house in order" — nothing gets communicated
 - [ ] Case studies wired into `site/index.html`
 - [ ] LinkedIn kit: headline, About, experience entry, banner spec
 - [ ] Site deployed (self-hosted; single HTML file, no build step)
-- [ ] Assessment PDF regenerated if any copy changed
+- [x] Assessment PDF regenerated — 5 Nov 2026, new name, scope and fee (`offers/build-onepager.py`)
+- [ ] AI Literacy Programme one-pager PDF *(blocked on the price)*
+- [ ] Update the AI Act note's two `[VERIFICAR]` items (Spanish organic law, start of national supervision) before the programme is sold
 
 ## Phase 1 — existing clients
 

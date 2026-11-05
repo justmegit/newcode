@@ -43,7 +43,7 @@ archive/    superseded documents — reference only, never a source of truth
 
 ## The offer, in one paragraph
 
-Three layers plus a transversal one. **Assess** — *Digital & AI Readiness Assessment*: four weeks, six dimensions, fixed scope and timeline, **€9,500** all-inclusive, 50% credited against implementation if they proceed within 90 days. **Transform** — strategy plus implementation in short cycles. **Advise** — fractional digital director on retainer. **Enablement** — executive and team training, across all three.
+Three layers plus a transversal one. **Assess** — *Commercial Engine Assessment*: four weeks, six lenses on the commercial engine and the processes around it (marketing, sales, service, communications), fixed scope and timeline, **€12,000** all-inclusive, 50% credited against implementation if they proceed within 90 days; week 1 delivers the AI use register. **Transform** — strategy plus implementation in short cycles. **Advise** — fractional digital director on retainer. **Enablement** — executive and team training, across all three; named product: the *AI Literacy Programme* (AI Act, Art. 4), price per programme, never per head. There is no Layer 0 and no AI-search-visibility product (decisions #13–#16, 5 Nov 2026).
 
 ## Commercial discipline (context for any copy you write)
 

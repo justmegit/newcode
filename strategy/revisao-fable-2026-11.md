@@ -5,6 +5,8 @@ Li tudo: `CLAUDE.md`, `KICKOFF.md`, brand book, `positioning.md` (v2), `market-a
 
 Respeito as secções `[DECIDIDO]`. Onde discordo, proponho e não altero.
 
+> **Atualização, 5 nov 2026 (mesma tarde).** O Alexandre aceitou as propostas **1, 2, 3 e 4** da §4 e elas estão aplicadas: assessment a 12.000€, renomeado *Commercial Engine Assessment* com a promessa estreitada ao motor comercial, registo de uso de IA como entregável da semana 1, AI Search Visibility arquivada, camada 0 recusada e AI Literacy Programme adotado (one-pager em `offers/ai-literacy-programme.md`, preço por decidir). Registo em `ops/decisions.md` #13–#16. As propostas 5 a 10 continuam em aberto.
+
 ---
 
 ## 0. Veredicto, em dez linhas

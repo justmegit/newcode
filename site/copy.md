@@ -1,5 +1,7 @@
 # Bluewright — One-Page Website Copy (approved; implemented in index.html)
 
+*Revised 5 Nov 2026: §3 and §4 follow decisions #13–#16 (Commercial Engine Assessment, €12,000, AI use register, AI Literacy Programme). §5 unchanged.*
+
 Copy only — design/build comes after approval. `[FILL]` = pending input.
 Section order = scroll order. Nav: **Approach · Services · Assessment · Work · About · Contact**
 
@@ -36,24 +38,24 @@ Bluewright works the full chain — **problem → strategy → execution → pro
 
 ### Three ways to work with us
 
-**Assess.** *Digital & AI Readiness Assessment.* A four-week, fixed-fee diagnostic: where you stand, what's worth doing, in what order. The usual starting point. [→ details below]
+**Assess.** *Commercial Engine Assessment.* A four-week, fixed-fee diagnostic of how you win, serve and keep customers: where you stand, what's worth doing, in what order. The usual starting point. [→ details below]
 
 **Transform.** Strategy plus implementation, in short cycles: commercial process redesign, automation and AI, digital presence that generates business. We don't hand over recommendations — we build, integrate and make them run.
 
 **Advise.** Ongoing counsel as your fractional digital director: priorities set with management each quarter, execution supervised, technology decisions taken with someone whose only incentive is your outcome. For companies that need senior digital leadership without hiring it.
 
-**Across everything: enablement.** Executive and team training — AI literacy, new tools, new processes — grounded in three decades of university teaching. Change sticks when someone knows how to teach it.
+**Across everything: enablement.** Executive and team training — AI literacy, new tools, new processes — grounded in three decades of university teaching. Change sticks when someone knows how to teach it. The **AI Literacy Programme** answers the training duty every company using AI has carried since February 2025 under the AI Act, with a record of who was taught what.
 
 ---
 
 ## 4. THE ASSESSMENT (featured product)
 
-### Digital & AI Readiness Assessment
+### Commercial Engine Assessment
 *Know exactly where to invest — before you invest.*
 
-Four weeks, six dimensions — business strategy, commercial engine, processes, data & systems, AI readiness, people & adoption — one prioritized roadmap presented to your leadership team.
+For most companies selling in Iberia, the business is the commercial engine: how the market finds you, how a lead becomes a customer, how that customer is served and kept. Four weeks, six lenses on that engine — business strategy, demand & sales, processes & operations, data & systems, AI readiness, people & adoption — one prioritized roadmap presented to your leadership team. Week one delivers the **AI use register**: every AI in use, by owner and contract, with the obligation each one carries, or none.
 
-Fixed scope. Fixed timeline. **Fixed fee: €9,500.** And if you proceed to implementation with us within 90 days, half of it is credited against the first project.
+Fixed scope. Fixed timeline. **Fixed fee: €12,000.** And if you proceed to implementation with us within 90 days, half of it is credited against the first project.
 
 **[Button] Download the one-pager (PDF)**  ·  **[Button] Book the fit call**
 
@@ -137,5 +139,5 @@ A practice by Alexandre Pessoa · [LinkedIn icon]
 2. **CTA único e humilde** ("30-minute conversation", "no follow-up sequence if the answer is no") — coerente com posicionamento sénior; a ausência de pressão É o sinal de confiança.
 3. **"No pyramid of juniors. No hours to sell."** — o teu modelo solo dito como vantagem, sem nunca usar a palavra "freelancer" ou "one-man".
 4. **Rodapé com "Formerly known... as Blue Serenity"** — uma linha discreta que faz a ponte de legado sem poluir a marca nova. Se preferires, retira-se.
-5. **Preço no site:** mantive os 9.500€ visíveis. É pouco habitual e é precisamente por isso que funciona — filtra curiosos e sinaliza confiança. Mas é a decisão mais reversível da página: diz-me se preferes "fixed fee" sem número.
+5. **Preço no site:** visível, agora 12.000€ (decisão #13, 5 nov 2026). É pouco habitual e é precisamente por isso que funciona — filtra curiosos e sinaliza confiança. Mas é a decisão mais reversível da página: diz-me se preferes "fixed fee" sem número.
 6. Falta-me de ti: foto profissional, email definitivo, e os resultados dos casos quando preencheres os `[FILL]`.

@@ -29,7 +29,7 @@ If a block is missing, shorten the copy or tighten `spaceBefore` — do not sile
 
 Layout conventions shared by every PDF: navy header band with a 3px brass rule beneath it; Helvetica as the PDF-safe stand-in for Archivo (embedding Newsreader is possible via `pdfmetrics.registerFont` if a future piece needs the display serif); price in brass; navy footer band with contact details.
 
-Both build scripts were lost when the original session's container reset — the PDFs in `offers/assets/` and `bio/assets/` are the current artefacts. Regenerate from the Markdown sources when the copy changes, following the conventions above.
+The assessment one-pager is rebuilt by `offers/build-onepager.py` (rewritten 5 Nov 2026; the copy lives inside the script and must be kept in step with `offers/assessment-onepager.md`). The CV build script was lost when the original session's container reset — the PDF in `bio/assets/` is the current artefact. Regenerate from the Markdown source when the copy changes, following the conventions above.
 
 ## Fonts
 

@@ -1,5 +1,5 @@
 # Análise de mercado — BLUEWRIGHT
-**Versão 1 · julho 2026 · documento de referência, não de decisão**
+**Versão 1.1 · julho 2026, números de preço revistos a 5 nov 2026 · documento de referência, não de decisão**
 
 Convenções: **[FONTE]** dado publicado, com origem citada · **[ESTIMATIVA]** derivado por cálculo a partir de fontes, com a derivação exposta · **[VERIFICAR]** por confirmar antes de servir de base a compromissos.
 
@@ -11,7 +11,7 @@ O mercado não é a restrição. Uma prática de uma pessoa precisa de dez a doz
 
 As restrições reais são três, por ordem de gravidade:
 
-1. **Preço por dia.** Aos 9.500€ por quatro semanas, o tecto de receita da prática é ~200–260k€/ano com a agenda cheia. O preço está no fundo da banda internacional para o mesmo trabalho (§5).
+1. **Preço por dia.** Aos 12.000€ por quatro semanas (decisão de 5 nov 2026; eram 9.500€), o tecto de receita da prática é ~215–275k€/ano com a agenda cheia. O preço está no fundo da banda internacional para o mesmo trabalho (§5).
 2. **Atenção, não cobertura.** Sete mil e quinhentos interlocutores teóricos são irrelevantes: uma pessoa mantém relação real com 150 a 200. A estratégia certa é concentração e intermediários, não alcance.
 3. **Distinção visível face aos freelancers.** O grupo com que a Bluewright será confundida por defeito cobra 560€/dia e vende-se por hora. A separação tem de ser óbvia no primeiro contacto.
 
@@ -78,7 +78,7 @@ Isto tem duas consequências, e a segunda é a mais importante:
 - O ciclo de venda é curto porque há menos gente a bloquear.
 - **Não há ninguém do lado do cliente com competência para conduzir o que for decidido.** É a prova de mercado da camada 3.
 
-Para referência, a média em compras B2B complexas é de 6 a 10 decisores, chegando a 11 em contexto enterprise. **[FONTE: Gartner, 2024–2025]** Um serviço de aconselhamento de 9.500€ não é uma compra complexa: **2 a 3 interlocutores, um único assinante**.
+Para referência, a média em compras B2B complexas é de 6 a 10 decisores, chegando a 11 em contexto enterprise. **[FONTE: Gartner, 2024–2025]** Um serviço de aconselhamento de 12.000€ não é uma compra complexa: **2 a 3 interlocutores, um único assinante**.
 
 ### 2.2 O cálculo
 
@@ -170,14 +170,14 @@ A pesquisa confirma o posicionamento de `positioning.md` §2–§4 em vez de o d
 | Big4 / firmas de estratégia, assessment | 100.000–500.000€+ | benchmarks 2025–2026 |
 | Independentes e boutiques, mid-market, 2–8 semanas | **15.000–75.000€** | benchmarks 2025–2026 |
 | Freelance de estratégia, 15+ anos (ES) | 560€/dia | Malt 2026 |
-| **Bluewright — Assess, 4 semanas** | **9.500€** | `positioning.md` §4 |
+| **Bluewright — Commercial Engine Assessment, 4 semanas** | **12.000€** (9.500€ até 5 nov 2026) | `positioning.md` §4; `ops/decisions.md` #13 |
 | *Kit Consulting (ES), bono segmento A (10–49 trab.)* | *até 12.000€* | Red.es |
 | *Kit Consulting (ES), bono segmento B (50–99 trab.)* | *até 18.000€* | Red.es |
 | *Kit Consulting (ES), bono segmento C (100–249 trab.)* | *até 24.000€* | Red.es |
 
-A 9.500€ por um trabalho de ~13 dias de esforço efetivo, a diária implícita é ~730€. Acima do barómetro de freelance, **abaixo do limite inferior da banda de assessments independentes internacionais** e abaixo de todos os três escalões do bono público espanhol.
+A 9.500€ por um trabalho de ~13 dias de esforço efetivo, a diária implícita era ~730€; a 16–20 dias reais, prováveis nos primeiros assessments, caía para 475–594€, **abaixo do freelancer sénior da Malt**. A 12.000€ a diária fica entre 600€ (20 dias) e 923€ (13 dias): acima do barómetro de freelance, no limite inferior da banda de assessments independentes internacionais, e exatamente no bono do segmento A do Kit Consulting — o que torna o assessment integralmente comportável por fundos públicos em Espanha, se a elegibilidade se confirmar (§7).
 
-**Observação, não alteração.** O preço está fixado em `positioning.md` §4 e não é meu para mexer. Registo apenas o que os dados mostram: existe espaço documentado para 12.000–15.000€ sem sair da banda de mercado, e os 12.000€ coincidem exatamente com o bono do segmento A do Kit Consulting — o que tornaria o assessment integralmente comportável por fundos públicos em Espanha. **Proposta para decisão do Alexandre, a frio, fora de reunião, conforme §6 do documento de posicionamento.**
+**Decidido a 5 nov 2026** (`ops/decisions.md` #13), a frio e antes de qualquer preço ser público, conforme §6 do documento de posicionamento.
 
 ---
 
@@ -188,10 +188,10 @@ Modelo de regime estável, a preços atuais, com ~200 dias faturáveis:
 | Linha | Volume | Esforço | Receita |
 |---|---|---|---|
 | Advise (camada 3) | 5 avenças × 2.500€/mês | ~120 dias/ano | 150.000€ |
-| Assess (camada 1) | 6 assessments × 9.500€ | ~78 dias | 57.000€ |
-| **Total** | **11 clientes ativos** | **~198 dias** | **~207.000€** |
+| Assess (camada 1) | 6 assessments × 12.000€ | ~78 dias | 72.000€ |
+| **Total** | **11 clientes ativos** | **~198 dias** | **~222.000€** |
 
-Acrescentando conversões da camada 2 (parcialmente subcontratadas) e formação, o tecto realista situa-se em **200.000–260.000€/ano**. **[ESTIMATIVA]**
+Acrescentando conversões da camada 2 (parcialmente subcontratadas) e formação, incluindo o AI Literacy Programme, o tecto realista situa-se em **215.000–275.000€/ano**. **[ESTIMATIVA, revista nov 2026]**
 
 > **Onze clientes ativos, retirados de um universo de três mil.** Uma quota de 0,4%. Qualquer discussão sobre "dimensão de mercado" a partir daqui é ruído. O crescimento vem de preço por dia e de mistura de camadas — não de mais mercado.
 

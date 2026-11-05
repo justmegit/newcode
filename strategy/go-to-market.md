@@ -1,5 +1,5 @@
 # Plano de ação comercial — BLUEWRIGHT
-**Versão 1 · julho 2026 · deriva de `market-analysis.md`; alinha com `ops/backlog.md`**
+**Versão 1.1 · julho 2026, revisto a 5 nov 2026 (preço, nome do assessment, Art. 4) · deriva de `market-analysis.md`; alinha com `ops/backlog.md`**
 
 ---
 
@@ -53,12 +53,12 @@ Sequência: sócio → orador → autor de conteúdo para a newsletter → refer
 ### 3.3 Conteúdo com tese no LinkedIn
 A tese deixou de ser opinião: 95% dos pilotos de IA generativa sem impacto em P&L (MIT 2025); 5,3× mais sucesso onde a mudança organizacional é prioridade (McKinsey); 37% das empresas portuguesas sem qualquer função digital. **O artigo de lançamento previsto na Fase 3 do backlog escreve-se com estes dados.**
 
-Cadência quinzenal. Um formato próprio a considerar: publicar as seis dimensões do assessment como grelha de auto-avaliação. Dá utilidade antes da venda e torna o método visível sem o entregar.
+Cadência quinzenal. Um formato próprio a considerar: publicar as seis lentes do Commercial Engine Assessment como grelha de auto-avaliação. Dá utilidade antes da venda e torna o método visível sem o entregar. Segundo gancho, com prazo legal atrás: a obrigação de literacia em IA do Art. 4 do AI Act, em vigor desde fevereiro de 2025 e quase por cumprir — é a porta do AI Literacy Programme (`offers/ai-literacy-programme.md`).
 
 ### 3.4 Kit Consulting (Espanha) — **verificar com urgência**
 Programa Red.es, 300 M€ de fundos NextGenerationEU, bonos de aconselhamento digital para PME de 10 a 249 trabalhadores: até 12.000€ (10–49), 18.000€ (50–99), 24.000€ (100–249). As empresas escolhem num catálogo de Asesores Digitales adheridos. Bases alteradas em janeiro de 2026 para alargar o número de beneficiárias.
 
-Se um consultor estabelecido em Portugal puder aderir ao catálogo, **o assessment passa a ser integralmente comportável por fundo público em Espanha** — e o catálogo é, ele próprio, um canal de procura. Se não puder, avaliar o custo de uma estrutura elegível contra o retorno. **Esta verificação vale mais do que qualquer outra tarefa deste plano.**
+Se um consultor estabelecido em Portugal puder aderir ao catálogo, **o assessment, a 12.000€ desde 5 nov 2026, passa a ser integralmente comportável pelo bono do segmento A em Espanha** — e o catálogo é, ele próprio, um canal de procura. Se não puder, avaliar o custo de uma estrutura elegível contra o retorno. **Esta verificação vale mais do que qualquer outra tarefa deste plano.**
 
 Equivalente português: mapear as linhas de digitalização do PRR e Portugal 2030 que cobrem consultoria. **[VERIFICAR]**
 
@@ -131,4 +131,4 @@ O que ainda não existe e valeria a pena: **acesso à base de dados de empresas 
 
 - Que a rede dormente tem massa crítica em cargos de decisão. **Se não tiver, todo o plano muda** — passa a depender de câmaras e conteúdo, com um ciclo 6 a 9 meses mais longo.
 - Que 45% das conversas de diagnóstico geram proposta. É otimista para uma marca nova; é conservador para alguém com trinta anos de reputação. A verdade estará no meio e só se sabe às primeiras dez conversas.
-- Que o preço de 9.500€ não é um problema de credibilidade. Para o Grupo 1 de compradores, um preço muito abaixo do esperado levanta dúvidas em vez de as resolver. Vigiar nas primeiras propostas: se a objeção nunca for o preço, isso é informação.
+- Que o preço de 12.000€ (revisto a 5 nov 2026; eram 9.500€) não é um problema de credibilidade. Para o Grupo 1 de compradores, um preço muito abaixo do esperado levanta dúvidas em vez de as resolver. Vigiar nas primeiras propostas: se a objeção nunca for o preço, isso é informação.

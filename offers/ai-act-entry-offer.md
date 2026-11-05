@@ -1,5 +1,7 @@
-# AI Act como porta de entrada — proposta de oferta
-**Rascunho · julho 2026 · PROPOSTA, não decisão.** Altera a arquitetura de oferta de `strategy/positioning.md` §4 com uma camada nova. Aguarda decisão do Alexandre.
+# AI Act como porta de entrada — análise e decisão
+**Versão 2 · 5 nov 2026 · DECIDIDO em parte** (`ops/decisions.md` #16). Substitui o rascunho de julho de 2026. A análise jurídica (§1–§3) mantém-se, com as datas atualizadas; a oferta (§4) reflete o que foi decidido: **sem camada 0**, o inventário de IA passa a entregável da semana 1 do assessment, e o **AI Literacy Programme** (Art. 4) é adotado como produto de Capacitação.
+
+**O que mudou de julho para novembro, em três linhas.** O Art. 50 (transparência) está em vigor desde 2 de agosto de 2026; a janela de «serviço público» sobre esse prazo fechou. O Art. 4 (literacia) está em vigor há **vinte e um meses** e continua, pela nossa leitura do mercado, largamente por cumprir. A proposta de uma review a 2.500€ foi recusada por repetir o padrão de subpreço identificado em `CLAUDE.md`.
 
 ---
 
@@ -11,7 +13,7 @@ A analogia com o RGPD está certa na estrutura e errada no calendário. Vale a p
 
 **Onde a analogia parte, e é preciso saber antes de abrir a boca num cliente:**
 
-1. **O prazo que criaria pânico acabou de se mover.** O Digital Omnibus é lei (Regulamento (UE) 2026/1744, em vigor em julho de 2026). As obrigações dos sistemas de alto risco passaram de 2 de agosto de 2026 para **2 de dezembro de 2027** (Anexo III) e **2 de agosto de 2028** (Anexo I). Quem estava a preparar-se acabou de receber mais dezasseis meses. **Vender urgência sobre alto risco em agosto de 2026 é vender um prazo que já não existe** — e qualquer diretor financeiro informado apanha isso. Custaria mais credibilidade do que traria reuniões.
+1. **O prazo que criaria pânico moveu-se.** O Digital Omnibus é lei (Regulamento (UE) 2026/1744, em vigor desde julho de 2026). As obrigações dos sistemas de alto risco passaram de 2 de agosto de 2026 para **2 de dezembro de 2027** (Anexo III) e **2 de agosto de 2028** (Anexo I). **Vender urgência sobre alto risco em 2026 é vender um prazo que não existe** — e qualquer diretor financeiro informado apanha isso. Custaria mais credibilidade do que traria reuniões.
 
 2. **Quem compra "compliance" é o jurídico, não o CEO.** O mercado do RGPD foi ganho por sociedades de advogados e por DPO-as-a-service. A Bluewright não tem credencial jurídica e não deve fingir que tem. Entrar por aí é competir com a PwC Portugal, a Andersen e todos os escritórios de Lisboa e Madrid, num terreno onde a Bluewright perde.
 
@@ -21,7 +23,7 @@ A analogia com o RGPD está certa na estrutura e errada no calendário. Vale a p
 
 **Onde a ideia é genuinamente boa** — e é melhor do que a versão que o Alexandre tinha em mente:
 
-O que entra em vigor **depois de amanhã** não é um problema jurídico. É um problema de inventário. E é o inventário que abre a porta.
+O que está em vigor desde agosto de 2026 não é um problema jurídico. É um problema de inventário. E é o inventário que abre a porta.
 
 ---
 
@@ -30,21 +32,21 @@ O que entra em vigor **depois de amanhã** não é um problema jurídico. É um 
 | Obrigação | Desde / a partir de | A quem se aplica | Estado |
 |---|---|---|---|
 | Art. 5 — práticas proibidas | 2 fev. 2025 | todos | em vigor, alargado |
-| **Art. 4 — literacia em IA** | **2 fev. 2025** | **todo o provider e deployer, qualquer nível de risco** | **em vigor há 17 meses** |
+| **Art. 4 — literacia em IA** | **2 fev. 2025** | **todo o provider e deployer, qualquer nível de risco** | **em vigor há 21 meses** |
 | Obrigações GPAI, governação, coimas | 2 ago. 2025 | modelos de uso geral | em vigor |
-| **Art. 50 — transparência** | **2 ago. 2026** | providers e deployers | **não foi adiado** |
-| Supervisão nacional das obrigações em vigor | 3 ago. 2026 **[VERIFICAR]** | — | ANACOM (PT), AESIA (ES) |
+| **Art. 50 — transparência** | **2 ago. 2026** | providers e deployers | **em vigor; não foi adiado** |
+| Supervisão nacional das obrigações em vigor | 3 ago. 2026 **[VERIFICAR estado efetivo em nov 2026]** | — | ANACOM (PT), AESIA (ES) |
 | Proibição NCII / CSAM; fim do período de tolerância de marcação | 2 dez. 2026 | — | novo |
 | Alto risco — Anexo III | **2 dez. 2027** | sistemas autónomos | **adiado** |
 | Alto risco — Anexo I | **2 ago. 2028** | embebidos em produtos regulados | **adiado** |
 
 **Três factos que valem a pena reter:**
 
-**Art. 50 aplica-se a 2 de agosto de 2026 — daqui a dois dias — e não foi adiado.** Exige informar quem interage com um sistema de IA, marcar conteúdo sintético de forma legível por máquina, revelar reconhecimento de emoções e categorização biométrica às pessoas expostas, e identificar deepfakes e certos textos de interesse público. Para um *deployer* típico é estreito. Mas obriga a saber onde há chatbots, onde há conteúdo gerado, e sob que contrato.
+**Art. 50 aplica-se desde 2 de agosto de 2026 e não foi adiado.** Exige informar quem interage com um sistema de IA, marcar conteúdo sintético de forma legível por máquina, revelar reconhecimento de emoções e categorização biométrica às pessoas expostas, e identificar deepfakes e certos textos de interesse público. Para um *deployer* típico é estreito. Mas obriga a saber onde há chatbots, onde há conteúdo gerado, e sob que contrato.
 
-**O Art. 4 é uma obrigação de formação, está em vigor há dezassete meses, e aplica-se a toda a gente.** O Omnibus suavizou a redação — de "assegurar um nível suficiente" para "tomar medidas para apoiar o desenvolvimento" da literacia em IA — mas continua vinculativa para todo o deployer, independentemente do nível de risco, e estende-se a contratados e prestadores de serviços. Quem não fez nada **já está em incumprimento**, e não tem prazo futuro atrás do qual se esconder.
+**O Art. 4 é uma obrigação de formação, está em vigor há vinte e um meses, e aplica-se a toda a gente.** O Omnibus suavizou a redação — de "assegurar um nível suficiente" para "tomar medidas para apoiar o desenvolvimento" da literacia em IA — mas continua vinculativa para todo o deployer, independentemente do nível de risco, e estende-se a contratados e prestadores de serviços. Quem não fez nada **já está em incumprimento**, e não tem prazo futuro atrás do qual se esconder.
 
-**Espanha acrescenta uma camada nacional com dever explícito de inventariar.** O Projeto de Lei Orgânica para o bom uso e governação da IA foi aprovado em Conselho de Ministros a 26 de maio de 2026, ainda não em vigor **[VERIFICAR estado atual]**, com coimas até 35 M€ ou 7% do volume de negócios mundial para práticas proibidas, AESIA como autoridade central e o dever de inventariar e supervisionar o uso de IA a recair sobre as empresas. Portugal não aprova lei nacional — o regulamento aplica-se diretamente e a ANACOM coordena catorze autoridades setoriais.
+**Espanha acrescenta uma camada nacional com dever explícito de inventariar.** O Projeto de Lei Orgânica para o bom uso e governação da IA foi aprovado em Conselho de Ministros a 26 de maio de 2026; o seu estado em novembro de 2026 está por confirmar **[VERIFICAR antes de qualquer uso comercial]**, com coimas até 35 M€ ou 7% do volume de negócios mundial para práticas proibidas, AESIA como autoridade central e o dever de inventariar e supervisionar o uso de IA a recair sobre as empresas. Portugal não aprova lei nacional — o regulamento aplica-se diretamente e a ANACOM coordena catorze autoridades setoriais.
 
 ---
 
@@ -59,7 +61,7 @@ Ninguém consegue cumprir seja o que for antes de saber **que IA está a ser usa
 
 A melhor formulação que encontrei na análise jurídica é esta: **é um inventário de casos de uso, não de sistemas.**
 
-Ora, um inventário de casos de uso de IA, por função, com dono e contrato identificados, **é literalmente a semana 1 do assessment.** A obrigação legal força a conversa que a Bluewright já quer ter, com a pessoa com quem já quer falar, e paga-a.
+Ora, um inventário de casos de uso de IA, por função, com dono e contrato identificados, **é literalmente a semana 1 do assessment** — e, desde 5 de novembro de 2026, é um entregável nomeado dela: o **registo de uso de IA**, entregue à sexta-feira da primeira semana. A obrigação legal força a conversa que a Bluewright já quer ter, com a pessoa com quem já quer falar.
 
 E há um segundo encaixe, ainda melhor. O Art. 4 é uma obrigação de **formar pessoas para usarem IA corretamente**. É a camada de Capacitação, com uma obrigação legal a criar-lhe procura. Trinta anos de docência e o Título de Especialista não têm equivalente em nenhum dos quatro grupos concorrentes mapeados em `market-analysis.md` §4. **É o melhor encaixe produto-mercado de todo o reposicionamento.**
 
@@ -67,57 +69,46 @@ E há um segundo encaixe, ainda melhor. O Art. 4 é uma obrigação de **formar 
 
 ---
 
-## 4. A oferta proposta
+## 4. A oferta — o que foi decidido
 
-### 4.1 O que NÃO fazer
+### 4.1 O que NÃO fazer (mantém-se)
 
 Uma "Auditoria de Conformidade com o AI Act". Compete com advogados, entrega um documento, morre quando a checklist comoditizar, e transforma a Bluewright num fornecedor de conformidade. O próprio nome do produto — *AI Act Readiness Assessment* — é o termo mais saturado do mercado. Usá-lo é aceitar ser comparado com toda a gente.
 
-### 4.2 Camada 0 — **AI Use Review**
+### 4.2 Sem camada 0 — o inventário vive dentro do assessment
 
-*Uma semana. Preço fixo. Todo o AI em uso, mapeado contra o que a lei exige mesmo.*
+A proposta de julho era uma **AI Use Review** de uma semana a 2.500€, com crédito integral no assessment. Foi recusada a 5 de novembro de 2026 (`ops/decisions.md` #16) por três razões:
 
-| | |
-|---|---|
-| **Duração** | 5 dias úteis |
-| **Preço proposto** | **2.500€, tudo incluído** |
-| **Crédito** | 100% creditado no *Digital & AI Readiness Assessment* se avançar em 90 dias |
-| **Decisor** | CEO / Country Manager, assinatura única, sem comité |
+1. **Repete o padrão de subpreço.** Uma quarta tabela de preços, a mais baixa, ensina ao mercado que a Bluewright se compra por 2.500€. Abaixo de 2.000€ deixa de ser um produto sénior e passa a ser um favor; a 2.500€ está a um passo disso.
+2. **É, por definição, a semana 1 do assessment.** Vendê-la à parte era vender duas vezes a mesma semana.
+3. **A janela do Art. 50 fechou.** O argumento «daqui a dois dias» que justificava um produto de entrada rápido deixou de existir em agosto.
 
-**Dias 1–2 — Inventário.** Todo o uso de IA: comprado, embebido em ferramentas já existentes, e o que ninguém autorizou. Por função, com dono e contrato.
+O que fica da ideia, e é o que valia: o **registo de uso de IA** é agora entregável nomeado da semana 1 do *Commercial Engine Assessment* — toda a IA em uso, comprada, embebida ou não autorizada, por função, dono e contrato, com a obrigação que cada caso aciona (Art. 5, Art. 50, Art. 4, alto risco em 2027–2028) ou nenhuma. Dizer ao cliente que 80% da lista não exige nada continua a ser a coisa mais credível que se pode fazer numa primeira semana. O parecer jurídico fica com os advogados do cliente; o inventário é dele.
 
-**Dia 3 — Classificação.** Cada caso de uso pelo papel da empresa (provider ou deployer) e pela obrigação que realmente aciona: Art. 5, Art. 50, Art. 4, alto risco em 2027–2028, ou nenhuma.
+### 4.3 Capacitação — **AI Literacy Programme (Art. 4)** — ADOTADO
 
-**Dia 4 — Lacunas.** O que é exigível agora, o que é exigível em dezembro de 2027, e — dito explicitamente — **o que não tem obrigação nenhuma.** Dizer a um cliente que 80% da lista dele não exige nada é a coisa mais credível que se pode fazer numa primeira semana, e é exatamente o que um escritório a faturar à hora não vai dizer.
+Vendável isoladamente e o item de maior margem da carteira. One-pager em `offers/ai-literacy-programme.md`.
 
-**Dia 5 — Registo e sessão.** Um registo de uma página que a empresa passa a manter, o mapa de obrigações, o esboço do plano de literacia do Art. 4, e uma sessão de trabalho com a gestão.
-
-**Porquê 2.500€.** É um produto de uma semana; é uma assinatura fácil, abaixo dos limiares de delegação de competências da maior parte das filiais, logo sem comité; e é a forma mais barata que existe de comprar uma primeira conversa com um CEO que nunca aceitaria uma reunião fria. O crédito integral no assessment mantém a disciplina de `positioning.md` §6: generosidade explícita e quantificada, nunca desconto.
-
-### 4.3 Capacitação — **AI Literacy Programme (Art. 4)**
-
-Vendável isoladamente e o item de maior margem da carteira.
-
-- Sessão executiva para a gestão: o que a lei exige, o que a empresa está mesmo a usar, o que decidir.
+- Sessão executiva para a gestão: o que a lei exige, o que a empresa está mesmo a usar (o registo, se existir), o que decidir.
 - Sessões por equipa, adaptadas à função — quem usa IA em vendas não precisa do mesmo que quem a usa em operações.
 - **Registo do que foi entregue, a quem, quando e com que conteúdo.** Este ponto é o produto: sendo o Art. 4 uma obrigação de meios, a prova das medidas tomadas *é* a conformidade. É o que a empresa mostra à autoridade.
-- Repetível anualmente. Sem tecto de entrega — não consome dias de consultoria sénior na mesma proporção.
+- Repetível anualmente. Não consome dias de consultoria sénior na mesma proporção.
 
-**Preço: a decidir.** Recomendo preço por sessão e por programa, nunca por participante — cobrar à cabeça converte formação em mercadoria e convida à comparação com plataformas de e-learning a 30€ por pessoa.
+**Preço: por decidir (Alexandre).** Por sessão e por programa, nunca por participante — cobrar à cabeça converte formação em mercadoria e convida à comparação com plataformas de e-learning a 30€ por pessoa. É a única decisão que bloqueia o PDF.
 
-### 4.4 Como as camadas encaixam
+### 4.4 Como as peças encaixam
 
 ```
-AI Use Review (1 semana, 2.500€)
-        └─ crédito 100% ──▶ Digital & AI Readiness Assessment (4 semanas, 9.500€)
-                                    └─ crédito 50% ──▶ Transformação (camada 2)
-                                                              └──▶ Advise (camada 3)
-        └────────────────────────▶ AI Literacy Programme (Art. 4) — em qualquer ponto
+Commercial Engine Assessment (4 semanas, 12.000€)
+   semana 1 ──▶ registo de uso de IA (entregável)
+        └─ crédito 50% ──▶ Transformação (camada 2)
+                                  └──▶ Advise (camada 3)
+
+AI Literacy Programme (Art. 4) ──▶ em qualquer ponto: antes, durante ou depois do assessment;
+                                   sozinho, quando a empresa só precisa de cumprir e formar.
 ```
 
-A Camada 0 não canibaliza o assessment: qualifica-o. Quem faz a review e não avança não era cliente do assessment; quem avança, avança já convencido e com o inventário feito.
-
----
+O programa de literacia não canibaliza o assessment: quem o compra sozinho tinha uma obrigação legal e não um problema de negócio; quem tem o problema de negócio chega ao assessment com o registo já feito ou pede os dois.
 
 ## 5. Regras de honestidade — inegociáveis
 
@@ -130,29 +121,25 @@ Estas não são cautelas de estilo. Quebrar qualquer uma delas destrói mais val
 
 ---
 
-## 6. Momento
+## 6. Momento — revisto em novembro
 
-O Art. 50 aplica-se **a 2 de agosto de 2026**. A supervisão nacional arranca a seguir. É o melhor momento dos próximos dezoito meses para publicar o artigo de lançamento previsto na Fase 3 do `ops/backlog.md`.
+A janela do Art. 50 fechou em agosto de 2026; o artigo «o prazo que se moveu e os dois que não se moveram» perdeu a atualidade. O que não perdeu, e ganhou, foi o Art. 4: uma obrigação de formação em vigor há vinte e um meses, aplicável a todo o deployer, que quase ninguém cumpriu e que nenhuma data futura desculpa.
 
-E o artigo da tese e o artigo do AI Act são o mesmo artigo. A tese diz que a tecnologia não transforma nada sem processo e sem pessoas. O AI Act, na prática, obriga as empresas a fazer exatamente duas coisas: **saber o que estão a usar** (processo) e **preparar quem o usa** (pessoas). A lei europeia acabou de tornar obrigatório aquilo que a Bluewright já dizia ser o que faltava.
+E o artigo da tese e o artigo do AI Act continuam a ser o mesmo artigo. A tese diz que a tecnologia não transforma nada sem processo e sem pessoas. O AI Act, na prática, obriga as empresas a fazer exatamente duas coisas: **saber o que estão a usar** (processo) e **preparar quem o usa** (pessoas). A lei europeia tornou obrigatório aquilo que a Bluewright já dizia ser o que faltava.
 
-Ângulos para o artigo, por ordem de força:
-1. *O prazo que se moveu, e os dois que não se moveram.* Serviço público puro — metade do mercado ainda pensa que 2 de agosto era o prazo do alto risco.
-2. *A obrigação que está em vigor há dezassete meses e quase ninguém cumpriu.* Art. 4.
-3. *Ninguém sabe que IA tem dentro de casa.* O argumento do inventário, que leva à Camada 0 sem a mencionar.
+Ângulos para o artigo de lançamento, por ordem de força em novembro de 2026:
+1. *A obrigação que está em vigor há vinte e um meses e quase ninguém cumpriu.* Art. 4. Leva ao AI Literacy Programme sem o mencionar.
+2. *Ninguém sabe que IA tem dentro de casa.* O argumento do inventário, que leva ao registo de uso de IA da semana 1.
+3. *O que o adiamento do alto risco não adiou.* Útil como terceiro parágrafo, não como título.
 
----
+## 7. Decisões
 
-## 7. Decisões que precisam do Alexandre
-
-- [ ] Avançar ou não com a Camada 0. Se sim, `strategy/positioning.md` §4 tem de ser atualizado — é o registo de decisões.
-- [ ] Preço da AI Use Review: 2.500€ ou outro. **Atenção ao padrão já identificado em `CLAUDE.md`** — abaixo de 2.000€ deixa de ser um produto sénior e passa a ser um favor.
-- [ ] Preço e formato do AI Literacy Programme.
-- [ ] Nome final do produto. *AI Act Readiness* está saturado; *AI Use Review* é sóbrio e descritivo. Alternativa a considerar: *AI in Use*.
-- [ ] Confirmar o estado do Projeto de Lei Orgânica espanhol e a data de arranque da supervisão nacional. **[VERIFICAR]**
-- [ ] Decidir se o one-pager EN da Camada 0 se produz antes ou depois do artigo de lançamento.
-
----
+- [x] Camada 0: **não avança** (5 nov 2026, `ops/decisions.md` #16). `strategy/positioning.md` §4 atualizado.
+- [x] Inventário de IA: **entregável nomeado da semana 1** do assessment, «registo de uso de IA» / *AI use register*.
+- [x] AI Literacy Programme: **adotado** como produto de Capacitação. One-pager em `offers/ai-literacy-programme.md`.
+- [ ] **Preço e formato do AI Literacy Programme** — Alexandre, a frio. Bloqueia o PDF.
+- [ ] Confirmar o estado da Lei Orgânica espanhola e o arranque efetivo da supervisão nacional (ANACOM, AESIA). **[VERIFICAR]** antes de qualquer sessão de câmara ou artigo.
+- [ ] Decidir se o one-pager do programa se produz antes ou depois do artigo de lançamento.
 
 ## Fontes
 
