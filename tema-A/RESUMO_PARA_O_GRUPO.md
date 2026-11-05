@@ -30,6 +30,8 @@ Medida: exposição ponderada pela posição na lista (sem teto). Termo: dormida
 
 **Homogeneização.** Correlação entre os vetores de exposição dos modelos: 0,96 a 0,98 na pergunta geral, 0,93 a 0,98 no roteiro, 0,51 a 0,84 em "pouco conhecidos". Entre línguas: 0,98 a 0,99 na pergunta geral.
 
+**Sensibilidade (`results_v2/sensibilidade.csv`).** Os números de cabeçalho não mudam com a alocação dos macro-destinos nem sem ilhas, com uma exceção que confirma o aviso: o rácio do Douro na pergunta geral é 12,7 com a NUTS III principal, 6,8 com alocação fracionária e 0,9 se os macro-destinos forem excluídos, porque toda a atenção ao Douro vem de "Vale do Douro". Algarve (0,29 a 0,35), Lisboa (0,83 a 0,94), Évora (6,3 a 7,4), Coimbra (3,8 a 4,6) e o corredor Lisboa-Porto (87,7 a 92,3% das noites) são estáveis.
+
 **Extração.** NUTS III do extrator errada em 2,0% dos itens com município (Arouca, Odemira, Aljezur, Mealhada, Freixo); 14 títulos extraídos como lugares; 4 municípios não reconhecidos em 15 665 itens. Tudo corrigido de forma determinística em `reprocess.py`. Alucinações: 20 itens, vários errados; não é um resultado.
 
 ## 4. A tese proposta
