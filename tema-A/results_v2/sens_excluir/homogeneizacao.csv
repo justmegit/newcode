@@ -51,8 +51,8 @@ pouco_conhecidos;lang;en;es;0.75;0.822
 pouco_conhecidos;lang;en;fr;0.75;0.856
 pouco_conhecidos;lang;en;pt;0.625;0.594
 pouco_conhecidos;lang;es;fr;1.0;0.894
-pouco_conhecidos;lang;es;pt;0.857;0.723
-pouco_conhecidos;lang;fr;pt;0.857;0.777
+pouco_conhecidos;lang;es;pt;0.857;0.724
+pouco_conhecidos;lang;fr;pt;0.857;0.779
 roteiro;modelo;claude;gemini;0.5;0.977
 roteiro;modelo;claude;gpt;0.286;0.934
 roteiro;modelo;gemini;gpt;0.5;0.948

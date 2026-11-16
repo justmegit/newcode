@@ -1,0 +1,617 @@
+lang,municipio,nuts3,titulo,visualizacoes
+pt,Arcos de Valdevez,Alto Minho,Arcos de Valdevez,28820
+en,Arcos de Valdevez,Alto Minho,Arcos de Valdevez,6839
+pt,Caminha,Alto Minho,Caminha,14368
+en,Caminha,Alto Minho,Caminha,8686
+pt,Melgaço,Alto Minho,Melgaço,413
+en,Melgaço,Alto Minho,Melgaço,148
+pt,Monção,Alto Minho,Monção,11794
+en,Monção,Alto Minho,Monção,4402
+pt,Paredes de Coura,Alto Minho,Paredes de Coura,9534
+en,Paredes de Coura,Alto Minho,Paredes de Coura,3940
+pt,Ponte da Barca,Alto Minho,Ponte da Barca,15219
+en,Ponte da Barca,Alto Minho,Ponte da Barca,3802
+pt,Ponte de Lima,Alto Minho,Ponte de Lima,37502
+en,Ponte de Lima,Alto Minho,Ponte de Lima,22861
+pt,Valença,Alto Minho,Valença,998
+en,Valença,Alto Minho,Valença,446
+pt,Viana do Castelo,Alto Minho,Viana do Castelo,62438
+en,Viana do Castelo,Alto Minho,Viana do Castelo,42067
+pt,Vila Nova de Cerveira,Alto Minho,Vila Nova de Cerveira,14049
+en,Vila Nova de Cerveira,Alto Minho,Vila Nova de Cerveira,3819
+en,Amares,Cávado,Amares,2284
+pt,Barcelos,Cávado,Barcelos,39072
+en,Barcelos,Cávado,Barcelos,728
+pt,Braga,Cávado,Braga,88627
+en,Braga,Cávado,Braga,133241
+pt,Esposende,Cávado,Esposende,18537
+en,Esposende,Cávado,Esposende,7066
+pt,Terras de Bouro,Cávado,Terras de Bouro,12755
+en,Terras de Bouro,Cávado,Terras de Bouro,2373
+pt,Vila Verde,Cávado,Vila Verde,21895
+pt,Cabeceiras de Basto,Ave,Cabeceiras de Basto,16269
+en,Cabeceiras de Basto,Ave,Cabeceiras de Basto,2679
+pt,Fafe,Ave,Fafe,22488
+en,Fafe,Ave,Fafe,5431
+pt,Guimarães,Ave,Guimarães,63161
+en,Guimarães,Ave,Guimarães,92777
+pt,Mondim de Basto,Ave,Mondim de Basto,15052
+en,Mondim de Basto,Ave,Mondim de Basto,1629
+pt,Póvoa de Lanhoso,Ave,Póvoa de Lanhoso,16319
+en,Póvoa de Lanhoso,Ave,Póvoa de Lanhoso,1906
+en,Vieira do Minho,Ave,Vieira do Minho,1759
+pt,Vila Nova de Famalicão,Ave,Vila Nova de Famalicão,45536
+en,Vila Nova de Famalicão,Ave,Vila Nova de Famalicão,18786
+pt,Vizela,Ave,Vizela,23829
+en,Vizela,Ave,Vizela,8801
+pt,Arouca,Área Metropolitana do Porto,Arouca,32341
+en,Arouca,Área Metropolitana do Porto,Arouca,652
+pt,Espinho,Área Metropolitana do Porto,Espinho,845
+en,Espinho,Área Metropolitana do Porto,"Espinho, Portugal",15233
+pt,Gondomar,Área Metropolitana do Porto,Gondomar,30065
+pt,Maia,Área Metropolitana do Porto,Maia,28428
+en,Maia,Área Metropolitana do Porto,"Maia, Portugal",28983
+pt,Matosinhos,Área Metropolitana do Porto,Matosinhos,32069
+en,Matosinhos,Área Metropolitana do Porto,Matosinhos,36362
+pt,Oliveira de Azeméis,Área Metropolitana do Porto,Oliveira de Azeméis,21519
+en,Oliveira de Azeméis,Área Metropolitana do Porto,Oliveira de Azeméis,6630
+pt,Paredes,Área Metropolitana do Porto,Paredes,22911
+en,Paredes,Área Metropolitana do Porto,Paredes,1067
+pt,Porto,Área Metropolitana do Porto,Porto,131397
+en,Porto,Área Metropolitana do Porto,Porto,506427
+en,Póvoa de Varzim,Área Metropolitana do Porto,Póvoa de Varzim,27458
+pt,Santa Maria da Feira,Área Metropolitana do Porto,Santa Maria da Feira,43332
+en,Santa Maria da Feira,Área Metropolitana do Porto,Santa Maria da Feira,15373
+pt,Santo Tirso,Área Metropolitana do Porto,Santo Tirso,27652
+en,Santo Tirso,Área Metropolitana do Porto,Santo Tirso,15511
+pt,São João da Madeira,Área Metropolitana do Porto,São João da Madeira,30490
+en,São João da Madeira,Área Metropolitana do Porto,São João da Madeira,8429
+pt,Trofa,Área Metropolitana do Porto,Trofa,18457
+en,Trofa,Área Metropolitana do Porto,Trofa,4292
+pt,Vale de Cambra,Área Metropolitana do Porto,Vale de Cambra,15285
+pt,Valongo,Área Metropolitana do Porto,Valongo,17211
+en,Valongo,Área Metropolitana do Porto,Valongo,4188
+pt,Vila do Conde,Área Metropolitana do Porto,Vila do Conde,33126
+en,Vila do Conde,Área Metropolitana do Porto,Vila do Conde,31396
+pt,Vila Nova de Gaia,Área Metropolitana do Porto,Vila Nova de Gaia,52482
+en,Vila Nova de Gaia,Área Metropolitana do Porto,Vila Nova de Gaia,51496
+pt,Boticas,Alto Tâmega e Barroso,Boticas,12424
+en,Boticas,Alto Tâmega e Barroso,Boticas,2094
+pt,Chaves,Alto Tâmega e Barroso,Chaves,3805
+en,Chaves,Alto Tâmega e Barroso,"Chaves, Portugal",20315
+en,Montalegre,Alto Tâmega e Barroso,Montalegre,6968
+pt,Ribeira de Pena,Alto Tâmega e Barroso,Ribeira de Pena,14503
+en,Ribeira de Pena,Alto Tâmega e Barroso,Ribeira de Pena,1688
+pt,Valpaços,Alto Tâmega e Barroso,Valpaços,13534
+en,Valpaços,Alto Tâmega e Barroso,Valpaços,2675
+pt,Vila Pouca de Aguiar,Alto Tâmega e Barroso,Vila Pouca de Aguiar,12437
+en,Vila Pouca de Aguiar,Alto Tâmega e Barroso,Vila Pouca de Aguiar,2093
+pt,Amarante,Tâmega e Sousa,Amarante,883
+en,Amarante,Tâmega e Sousa,"Amarante, Portugal",21554
+pt,Baião,Tâmega e Sousa,Baião,971
+pt,Castelo de Paiva,Tâmega e Sousa,Castelo de Paiva,14318
+en,Castelo de Paiva,Tâmega e Sousa,Castelo de Paiva,2493
+pt,Celorico de Basto,Tâmega e Sousa,Celorico de Basto,19698
+en,Celorico de Basto,Tâmega e Sousa,Celorico de Basto,2374
+pt,Cinfães,Tâmega e Sousa,Cinfães,18998
+en,Cinfães,Tâmega e Sousa,Cinfães,2240
+pt,Felgueiras,Tâmega e Sousa,Felgueiras,21755
+en,Felgueiras,Tâmega e Sousa,Felgueiras,3921
+pt,Lousada,Tâmega e Sousa,Lousada,21760
+en,Lousada,Tâmega e Sousa,Lousada,4352
+en,Marco de Canaveses,Tâmega e Sousa,Marco de Canaveses,7933
+pt,Paços de Ferreira,Tâmega e Sousa,Paços de Ferreira,21909
+en,Paços de Ferreira,Tâmega e Sousa,Paços de Ferreira,11601
+pt,Penafiel,Tâmega e Sousa,Penafiel,41322
+en,Penafiel,Tâmega e Sousa,Penafiel,8958
+pt,Resende,Tâmega e Sousa,Resende,1099
+en,Resende,Tâmega e Sousa,Resende,294
+pt,Alijó,Douro,Alijó,11336
+en,Alijó,Douro,Alijó,4797
+pt,Armamar,Douro,Armamar,8996
+pt,Carrazeda de Ansiães,Douro,Carrazeda de Ansiães,9890
+en,Carrazeda de Ansiães,Douro,Carrazeda de Ansiães,1178
+pt,Freixo de Espada à Cinta,Douro,Freixo de Espada à Cinta,12828
+en,Freixo de Espada à Cinta,Douro,Freixo de Espada à Cinta,2656
+pt,Lamego,Douro,Lamego,31619
+en,Lamego,Douro,Lamego,18864
+pt,Mesão Frio,Douro,Mesão Frio,8853
+en,Mesão Frio,Douro,Mesão Frio,1669
+pt,Moimenta da Beira,Douro,Moimenta da Beira,11888
+en,Moimenta da Beira,Douro,Moimenta da Beira,1267
+en,Murça,Douro,Murça,1689
+pt,Penedono,Douro,Penedono,9916
+en,Penedono,Douro,Penedono,1451
+pt,Peso da Régua,Douro,Peso da Régua,19977
+en,Peso da Régua,Douro,Peso da Régua,10221
+pt,Sabrosa,Douro,Sabrosa,11888
+en,Sabrosa,Douro,Sabrosa,7466
+pt,Santa Marta de Penaguião,Douro,Santa Marta de Penaguião,6771
+en,Santa Marta de Penaguião,Douro,Santa Marta de Penaguião,1325
+pt,São João da Pesqueira,Douro,São João da Pesqueira,13913
+pt,Sernancelhe,Douro,Sernancelhe,23159
+en,Sernancelhe,Douro,Sernancelhe,2701
+pt,Tabuaço,Douro,Tabuaço,12188
+en,Tabuaço,Douro,Tabuaço,1173
+pt,Tarouca,Douro,Tarouca,10200
+en,Tarouca,Douro,Tarouca,1335
+pt,Torre de Moncorvo,Douro,Torre de Moncorvo,13297
+en,Torre de Moncorvo,Douro,Torre de Moncorvo,2612
+pt,Vila Nova de Foz Côa,Douro,Vila Nova de Foz Côa,16342
+en,Vila Nova de Foz Côa,Douro,Vila Nova de Foz Côa,3573
+en,Vila Real,Douro,Vila Real,20186
+pt,Alfândega da Fé,Terras de Trás-os-Montes,Alfândega da Fé,8636
+en,Alfândega da Fé,Terras de Trás-os-Montes,Alfândega da Fé,1349
+pt,Bragança,Terras de Trás-os-Montes,Bragança,2235
+en,Bragança,Terras de Trás-os-Montes,"Bragança, Portugal",28246
+pt,Macedo de Cavaleiros,Terras de Trás-os-Montes,Macedo de Cavaleiros,19058
+en,Macedo de Cavaleiros,Terras de Trás-os-Montes,Macedo de Cavaleiros,2454
+pt,Miranda do Douro,Terras de Trás-os-Montes,Miranda do Douro,19319
+en,Miranda do Douro,Terras de Trás-os-Montes,Miranda do Douro,13197
+pt,Mirandela,Terras de Trás-os-Montes,Mirandela,23289
+pt,Mogadouro,Terras de Trás-os-Montes,Mogadouro,17208
+en,Mogadouro,Terras de Trás-os-Montes,Mogadouro,3815
+pt,Vila Flor,Terras de Trás-os-Montes,Vila Flor,9829
+en,Vila Flor,Terras de Trás-os-Montes,Vila Flor,2276
+pt,Vimioso,Terras de Trás-os-Montes,Vimioso,8480
+en,Vimioso,Terras de Trás-os-Montes,Vimioso,2088
+pt,Vinhais,Terras de Trás-os-Montes,Vinhais,1394
+en,Vinhais,Terras de Trás-os-Montes,Vinhais,1447
+pt,Águeda,Região de Aveiro,Águeda,23517
+en,Águeda,Região de Aveiro,Águeda,7887
+en,Albergaria-a-Velha,Região de Aveiro,Albergaria-a-Velha,2845
+pt,Anadia,Região de Aveiro,Anadia,499
+en,Anadia,Região de Aveiro,"Anadia, Portugal",3751
+pt,Aveiro,Região de Aveiro,Aveiro,59621
+en,Aveiro,Região de Aveiro,"Aveiro, Portugal",75734
+pt,Estarreja,Região de Aveiro,Estarreja,11429
+en,Estarreja,Região de Aveiro,Estarreja,4234
+pt,Ílhavo,Região de Aveiro,Ílhavo,11348
+en,Ílhavo,Região de Aveiro,Ílhavo,4616
+pt,Murtosa,Região de Aveiro,Murtosa,6109
+pt,Oliveira do Bairro,Região de Aveiro,Oliveira do Bairro,9187
+en,Oliveira do Bairro,Região de Aveiro,Oliveira do Bairro,1523
+pt,Ovar,Região de Aveiro,Ovar,17349
+en,Ovar,Região de Aveiro,"Ovar, Portugal",400
+pt,Sever do Vouga,Região de Aveiro,Sever do Vouga,10066
+en,Sever do Vouga,Região de Aveiro,Sever do Vouga,1432
+pt,Vagos,Região de Aveiro,Vagos,8194
+en,Vagos,Região de Aveiro,Vagos,2129
+pt,Arganil,Região de Coimbra,Arganil,13594
+en,Arganil,Região de Coimbra,Arganil,2707
+en,Cantanhede,Região de Coimbra,Cantanhede,165
+pt,Coimbra,Região de Coimbra,Coimbra,79718
+en,Coimbra,Região de Coimbra,Coimbra,153263
+pt,Condeixa-a-Nova,Região de Coimbra,Condeixa-a-Nova,8952
+en,Condeixa-a-Nova,Região de Coimbra,Condeixa-a-Nova,2275
+pt,Figueira da Foz,Região de Coimbra,Figueira da Foz,34582
+en,Figueira da Foz,Região de Coimbra,Figueira da Foz,34179
+pt,Góis,Região de Coimbra,Góis,12168
+en,Góis,Região de Coimbra,Góis,2387
+pt,Lousã,Região de Coimbra,Lousã,12405
+pt,Mealhada,Região de Coimbra,Mealhada,11160
+en,Mealhada,Região de Coimbra,Mealhada,2423
+pt,Mira,Região de Coimbra,Mira (Portugal),10204
+en,Mira,Região de Coimbra,"Mira, Portugal",2597
+pt,Miranda do Corvo,Região de Coimbra,Miranda do Corvo,11915
+en,Miranda do Corvo,Região de Coimbra,Miranda do Corvo,3298
+pt,Montemor-o-Velho,Região de Coimbra,Montemor-o-Velho,12687
+en,Montemor-o-Velho,Região de Coimbra,Montemor-o-Velho,4307
+pt,Mortágua,Região de Coimbra,Mortágua,11942
+en,Mortágua,Região de Coimbra,Mortágua,2202
+en,Oliveira do Hospital,Região de Coimbra,Oliveira do Hospital,3705
+pt,Pampilhosa da Serra,Região de Coimbra,Pampilhosa da Serra,14772
+en,Pampilhosa da Serra,Região de Coimbra,Pampilhosa da Serra,2059
+pt,Penacova,Região de Coimbra,Penacova,11120
+en,Penacova,Região de Coimbra,Penacova,1982
+pt,Penela,Região de Coimbra,Penela,11639
+en,Penela,Região de Coimbra,Penela,4556
+pt,Soure,Região de Coimbra,Soure,338
+en,Soure,Região de Coimbra,"Soure, Portugal",2364
+pt,Tábua,Região de Coimbra,Tábua,12666
+pt,Vila Nova de Poiares,Região de Coimbra,Vila Nova de Poiares,9033
+en,Vila Nova de Poiares,Região de Coimbra,Vila Nova de Poiares,1463
+pt,Alvaiázere,Região de Leiria,Alvaiázere,8428
+en,Alvaiázere,Região de Leiria,Alvaiázere,1622
+pt,Ansião,Região de Leiria,Ansião,10622
+en,Ansião,Região de Leiria,Ansião,1896
+pt,Batalha,Região de Leiria,Batalha,3196
+en,Batalha,Região de Leiria,"Batalha, Portugal",14615
+pt,Castanheira de Pera,Região de Leiria,Castanheira de Pera,11050
+en,Castanheira de Pera,Região de Leiria,Castanheira de Pera,1758
+en,Figueiró dos Vinhos,Região de Leiria,Figueiró dos Vinhos,1386
+pt,Leiria,Região de Leiria,Leiria,57479
+en,Leiria,Região de Leiria,Leiria,41059
+pt,Marinha Grande,Região de Leiria,Marinha Grande,15286
+en,Marinha Grande,Região de Leiria,Marinha Grande,5758
+pt,Pedrógão Grande,Região de Leiria,Pedrógão Grande,12436
+en,Pedrógão Grande,Região de Leiria,Pedrógão Grande,3643
+pt,Pombal,Região de Leiria,Pombal,866
+en,Pombal,Região de Leiria,"Pombal, Portugal",8608
+pt,Porto de Mós,Região de Leiria,Porto de Mós,15619
+pt,Aguiar da Beira,Viseu Dão Lafões,Aguiar da Beira,8098
+en,Aguiar da Beira,Viseu Dão Lafões,Aguiar da Beira,906
+pt,Carregal do Sal,Viseu Dão Lafões,Carregal do Sal,12655
+en,Carregal do Sal,Viseu Dão Lafões,Carregal do Sal,1671
+pt,Castro Daire,Viseu Dão Lafões,Castro Daire,13757
+en,Castro Daire,Viseu Dão Lafões,Castro Daire,1995
+pt,Mangualde,Viseu Dão Lafões,Mangualde,14902
+en,Mangualde,Viseu Dão Lafões,Mangualde,4654
+pt,Nelas,Viseu Dão Lafões,Nelas,10656
+en,Nelas,Viseu Dão Lafões,Nelas,2037
+en,Oliveira de Frades,Viseu Dão Lafões,Oliveira de Frades,1414
+pt,Penalva do Castelo,Viseu Dão Lafões,Penalva do Castelo,10170
+en,Penalva do Castelo,Viseu Dão Lafões,Penalva do Castelo,1547
+pt,Santa Comba Dão,Viseu Dão Lafões,Santa Comba Dão,13246
+en,Santa Comba Dão,Viseu Dão Lafões,Santa Comba Dão,6547
+pt,São Pedro do Sul,Viseu Dão Lafões,São Pedro do Sul,515
+en,São Pedro do Sul,Viseu Dão Lafões,São Pedro do Sul,156
+pt,Sátão,Viseu Dão Lafões,Sátão,9725
+en,Sátão,Viseu Dão Lafões,Sátão,1526
+pt,Tondela,Viseu Dão Lafões,Tondela,25690
+pt,Vila Nova de Paiva,Viseu Dão Lafões,Vila Nova de Paiva,6655
+en,Vila Nova de Paiva,Viseu Dão Lafões,Vila Nova de Paiva,2554
+pt,Viseu,Viseu Dão Lafões,Viseu,52016
+en,Viseu,Viseu Dão Lafões,Viseu,50267
+pt,Vouzela,Viseu Dão Lafões,Vouzela,9576
+en,Vouzela,Viseu Dão Lafões,Vouzela,2311
+pt,Castelo Branco,Beira Baixa,Castelo Branco,46812
+en,Castelo Branco,Beira Baixa,"Castelo Branco, Portugal",22602
+pt,Idanha-a-Nova,Beira Baixa,Idanha-a-Nova,16364
+en,Idanha-a-Nova,Beira Baixa,Idanha-a-Nova,8061
+en,Oleiros,Beira Baixa,Oleiros,213
+pt,Penamacor,Beira Baixa,Penamacor,20102
+en,Penamacor,Beira Baixa,Penamacor,3055
+pt,Proença-a-Nova,Beira Baixa,Proença-a-Nova,9233
+en,Proença-a-Nova,Beira Baixa,Proença-a-Nova,1438
+pt,Vila Velha de Ródão,Beira Baixa,Vila Velha de Ródão,11401
+en,Vila Velha de Ródão,Beira Baixa,Vila Velha de Ródão,1597
+pt,Almeida,Beiras e Serra da Estrela,Almeida,4781
+en,Almeida,Beiras e Serra da Estrela,Almeida,1896
+pt,Belmonte,Beiras e Serra da Estrela,Belmonte,402
+pt,Celorico da Beira,Beiras e Serra da Estrela,Celorico da Beira,12093
+en,Celorico da Beira,Beiras e Serra da Estrela,Celorico da Beira,2117
+pt,Covilhã,Beiras e Serra da Estrela,Covilhã,40718
+en,Covilhã,Beiras e Serra da Estrela,Covilhã,17278
+pt,Figueira de Castelo Rodrigo,Beiras e Serra da Estrela,Figueira de Castelo Rodrigo,11994
+en,Figueira de Castelo Rodrigo,Beiras e Serra da Estrela,Figueira de Castelo Rodrigo,2430
+pt,Fornos de Algodres,Beiras e Serra da Estrela,Fornos de Algodres,11125
+en,Fornos de Algodres,Beiras e Serra da Estrela,Fornos de Algodres,1764
+pt,Fundão,Beiras e Serra da Estrela,Fundão,542
+en,Fundão,Beiras e Serra da Estrela,Fundão,345
+en,Gouveia,Beiras e Serra da Estrela,Gouveia,449
+pt,Guarda,Beiras e Serra da Estrela,Guarda,40076
+en,Guarda,Beiras e Serra da Estrela,"Guarda, Portugal",17676
+pt,Manteigas,Beiras e Serra da Estrela,Manteigas,11472
+en,Manteigas,Beiras e Serra da Estrela,Manteigas,3631
+pt,Mêda,Beiras e Serra da Estrela,Mêda,15210
+en,Mêda,Beiras e Serra da Estrela,Mêda,1594
+pt,Pinhel,Beiras e Serra da Estrela,Pinhel,12558
+en,Pinhel,Beiras e Serra da Estrela,Pinhel,1597
+pt,Sabugal,Beiras e Serra da Estrela,Sabugal,20436
+pt,Seia,Beiras e Serra da Estrela,Seia,16944
+en,Seia,Beiras e Serra da Estrela,Seia,4685
+pt,Trancoso,Beiras e Serra da Estrela,Trancoso,24339
+en,Trancoso,Beiras e Serra da Estrela,Trancoso,338
+pt,Alcobaça,Oeste,Alcobaça,793
+en,Alcobaça,Oeste,"Alcobaça, Portugal",16676
+pt,Alenquer,Oeste,Alenquer,852
+en,Alenquer,Oeste,"Alenquer, Portugal",5155
+pt,Arruda dos Vinhos,Oeste,Arruda dos Vinhos,16976
+en,Arruda dos Vinhos,Oeste,Arruda dos Vinhos,2174
+en,Bombarral,Oeste,Bombarral,2963
+pt,Cadaval,Oeste,Cadaval,14880
+en,Cadaval,Oeste,Cadaval,1813
+pt,Caldas da Rainha,Oeste,Caldas da Rainha,43576
+en,Caldas da Rainha,Oeste,Caldas da Rainha,34629
+pt,Lourinhã,Oeste,Lourinhã,23428
+en,Lourinhã,Oeste,Lourinhã,7198
+pt,Nazaré,Oeste,Nazaré,35071
+en,Nazaré,Oeste,"Nazaré, Portugal",164402
+pt,Óbidos,Oeste,Óbidos,28553
+pt,Peniche,Oeste,Peniche,24293
+en,Peniche,Oeste,"Peniche, Portugal",32889
+pt,Sobral de Monte Agraço,Oeste,Sobral de Monte Agraço,18474
+en,Sobral de Monte Agraço,Oeste,Sobral de Monte Agraço,1984
+pt,Torres Vedras,Oeste,Torres Vedras,32458
+en,Torres Vedras,Oeste,Torres Vedras,19955
+pt,Abrantes,Médio Tejo,Abrantes,26598
+en,Abrantes,Médio Tejo,Abrantes,7609
+pt,Alcanena,Médio Tejo,Alcanena,8789
+en,Alcanena,Médio Tejo,Alcanena,3390
+en,Constância,Médio Tejo,Constância,2287
+pt,Entroncamento,Médio Tejo,Entroncamento,20069
+en,Entroncamento,Médio Tejo,Entroncamento,5627
+pt,Ferreira do Zêzere,Médio Tejo,Ferreira do Zêzere,13125
+en,Ferreira do Zêzere,Médio Tejo,Ferreira do Zêzere,2362
+pt,Mação,Médio Tejo,Mação,12499
+en,Mação,Médio Tejo,Mação,2132
+pt,Ourém,Médio Tejo,Ourém,469
+en,Ourém,Médio Tejo,Ourém,6864
+pt,Sardoal,Médio Tejo,Sardoal,6208
+pt,Sertã,Beira Baixa,Sertã,16621
+en,Sertã,Beira Baixa,Sertã,4061
+pt,Tomar,Médio Tejo,Tomar,42087
+en,Tomar,Médio Tejo,Tomar,57770
+pt,Torres Novas,Médio Tejo,Torres Novas,20600
+en,Torres Novas,Médio Tejo,Torres Novas,7187
+pt,Vila de Rei,Beira Baixa,Vila de Rei,12645
+en,Vila de Rei,Beira Baixa,Vila de Rei,1440
+pt,Vila Nova da Barquinha,Médio Tejo,Vila Nova da Barquinha,10238
+en,Vila Nova da Barquinha,Médio Tejo,Vila Nova da Barquinha,1414
+pt,Alpiarça,Lezíria do Tejo,Alpiarça,6325
+en,Alpiarça,Lezíria do Tejo,Alpiarça,1361
+pt,Azambuja,Lezíria do Tejo,Azambuja,14954
+en,Azambuja,Lezíria do Tejo,Azambuja,4670
+pt,Benavente,Lezíria do Tejo,Benavente,13214
+en,Benavente,Lezíria do Tejo,Benavente,403
+pt,Cartaxo,Lezíria do Tejo,Cartaxo,11494
+en,Cartaxo,Lezíria do Tejo,Cartaxo,2284
+pt,Chamusca,Lezíria do Tejo,Chamusca,9608
+pt,Coruche,Lezíria do Tejo,Coruche,14143
+en,Coruche,Lezíria do Tejo,Coruche,2900
+pt,Golegã,Lezíria do Tejo,Golegã,14028
+en,Golegã,Lezíria do Tejo,Golegã,3443
+pt,Rio Maior,Lezíria do Tejo,Rio Maior,17985
+en,Rio Maior,Lezíria do Tejo,Rio Maior,5303
+pt,Salvaterra de Magos,Lezíria do Tejo,Salvaterra de Magos,12375
+en,Salvaterra de Magos,Lezíria do Tejo,Salvaterra de Magos,2966
+pt,Santarém,Lezíria do Tejo,Santarém,2530
+en,Santarém,Lezíria do Tejo,"Santarém, Portugal",39704
+en,Amadora,Grande Lisboa,Amadora,42694
+pt,Cascais,Grande Lisboa,Cascais,61268
+en,Cascais,Grande Lisboa,Cascais,132373
+pt,Lisboa,Grande Lisboa,Lisboa,172972
+en,Lisboa,Grande Lisboa,Lisbon,855179
+pt,Loures,Grande Lisboa,Loures,26190
+en,Loures,Grande Lisboa,Loures,13299
+pt,Mafra,Grande Lisboa,Mafra (Portugal),27434
+en,Mafra,Grande Lisboa,"Mafra, Portugal",19531
+pt,Odivelas,Grande Lisboa,Odivelas,21103
+pt,Oeiras,Grande Lisboa,Oeiras,1226
+en,Oeiras,Grande Lisboa,"Oeiras, Portugal",25182
+pt,Sintra,Grande Lisboa,Sintra,66873
+en,Sintra,Grande Lisboa,Sintra,195008
+pt,Vila Franca de Xira,Grande Lisboa,Vila Franca de Xira,26084
+en,Vila Franca de Xira,Grande Lisboa,Vila Franca de Xira,14807
+pt,Alcochete,Península de Setúbal,Alcochete,15250
+en,Alcochete,Península de Setúbal,Alcochete,9077
+pt,Almada,Península de Setúbal,Almada,35887
+en,Almada,Península de Setúbal,Almada,48407
+en,Barreiro,Península de Setúbal,"Barreiro, Portugal",15073
+pt,Moita,Península de Setúbal,Moita,15588
+en,Moita,Península de Setúbal,Moita,2689
+pt,Montijo,Península de Setúbal,Montijo,21367
+en,Montijo,Península de Setúbal,Montijo,330
+pt,Palmela,Península de Setúbal,Palmela,16704
+en,Palmela,Península de Setúbal,Palmela,9027
+pt,Seixal,Península de Setúbal,Seixal,21563
+en,Seixal,Península de Setúbal,Seixal,13904
+pt,Sesimbra,Península de Setúbal,Sesimbra,22434
+pt,Setúbal,Península de Setúbal,Setúbal,54624
+en,Setúbal,Península de Setúbal,Setúbal,78027
+pt,Alcácer do Sal,Alentejo Litoral,Alcácer do Sal,21410
+en,Alcácer do Sal,Alentejo Litoral,Alcácer do Sal,10304
+pt,Grândola,Alentejo Litoral,Grândola,17025
+en,Grândola,Alentejo Litoral,Grândola,7242
+pt,Odemira,Alentejo Litoral,Odemira,18541
+en,Odemira,Alentejo Litoral,Odemira,7232
+pt,Santiago do Cacém,Alentejo Litoral,Santiago do Cacém,16597
+en,Santiago do Cacém,Alentejo Litoral,Santiago do Cacém,3909
+en,Sines,Alentejo Litoral,Sines,26674
+pt,Aljustrel,Baixo Alentejo,Aljustrel,10397
+en,Aljustrel,Baixo Alentejo,Aljustrel,4117
+pt,Almodôvar,Baixo Alentejo,Almodôvar,10770
+en,Almodôvar,Baixo Alentejo,Almodôvar,3771
+pt,Alvito,Baixo Alentejo,Alvito,10940
+en,Alvito,Baixo Alentejo,"Alvito, Portugal",2468
+pt,Barrancos,Baixo Alentejo,Barrancos,10111
+en,Barrancos,Baixo Alentejo,Barrancos,4871
+pt,Beja,Baixo Alentejo,Beja,34089
+pt,Castro Verde,Baixo Alentejo,Castro Verde,10228
+en,Castro Verde,Baixo Alentejo,Castro Verde,5267
+pt,Cuba,Baixo Alentejo,Cuba (Portugal),8726
+en,Cuba,Baixo Alentejo,"Cuba, Portugal",3695
+pt,Ferreira do Alentejo,Baixo Alentejo,Ferreira do Alentejo,8311
+en,Ferreira do Alentejo,Baixo Alentejo,Ferreira do Alentejo,1528
+pt,Mértola,Baixo Alentejo,Mértola,17116
+en,Mértola,Baixo Alentejo,Mértola,11197
+pt,Moura,Baixo Alentejo,Moura,18123
+en,Moura,Baixo Alentejo,"Moura, Portugal",7285
+en,Ourique,Baixo Alentejo,Ourique,8087
+pt,Serpa,Baixo Alentejo,Serpa,14181
+en,Serpa,Baixo Alentejo,Serpa,6303
+pt,Vidigueira,Baixo Alentejo,Vidigueira,9193
+en,Vidigueira,Baixo Alentejo,Vidigueira,6111
+pt,Alter do Chão,Alto Alentejo,Alter do Chão,12395
+en,Alter do Chão,Alto Alentejo,Alter do Chão,1906
+pt,Arronches,Alto Alentejo,Arronches,8411
+en,Arronches,Alto Alentejo,Arronches,1836
+pt,Campo Maior,Alto Alentejo,Campo Maior,588
+en,Campo Maior,Alto Alentejo,Campo Maior,145
+pt,Castelo de Vide,Alto Alentejo,Castelo de Vide,14091
+en,Castelo de Vide,Alto Alentejo,Castelo de Vide,5456
+pt,Crato,Alto Alentejo,Crato (Portugal),9648
+en,Crato,Alto Alentejo,"Crato, Portugal",2400
+pt,Elvas,Alto Alentejo,Elvas,26891
+en,Elvas,Alto Alentejo,Elvas,16220
+pt,Fronteira,Alto Alentejo,Fronteira (Portugal),7007
+en,Fronteira,Alto Alentejo,"Fronteira, Portugal",1009
+en,Gavião,Alto Alentejo,"Gavião, Portugal",1518
+pt,Marvão,Alto Alentejo,Marvão,18581
+en,Marvão,Alto Alentejo,Marvão,9210
+pt,Monforte,Alto Alentejo,Monforte,7257
+en,Monforte,Alto Alentejo,"Monforte, Portugal",1028
+pt,Nisa,Alto Alentejo,Nisa,14350
+en,Nisa,Alto Alentejo,"Nisa, Portugal",2791
+pt,Ponte de Sor,Alto Alentejo,Ponte de Sor,17504
+en,Ponte de Sor,Alto Alentejo,Ponte de Sor,3311
+pt,Portalegre,Alto Alentejo,Portalegre,984
+pt,Sousel,Alto Alentejo,Sousel,9193
+en,Sousel,Alto Alentejo,Sousel,964
+pt,Alandroal,Alentejo Central,Alandroal,11750
+en,Alandroal,Alentejo Central,Alandroal,2291
+pt,Arraiolos,Alentejo Central,Arraiolos,9392
+en,Arraiolos,Alentejo Central,Arraiolos,3108
+pt,Borba,Alentejo Central,Borba (Portugal),8577
+en,Borba,Alentejo Central,"Borba, Portugal",2210
+pt,Estremoz,Alentejo Central,Estremoz,19052
+en,Estremoz,Alentejo Central,Estremoz,7298
+en,Évora,Alentejo Central,Évora,68973
+pt,Montemor-o-Novo,Alentejo Central,Montemor-o-Novo,16986
+en,Montemor-o-Novo,Alentejo Central,Montemor-o-Novo,6053
+pt,Mora,Alentejo Central,Mora (Portugal),9244
+en,Mora,Alentejo Central,"Mora, Portugal",4715
+pt,Mourão,Alentejo Central,Mourão,11713
+en,Mourão,Alentejo Central,Mourão,2223
+pt,Portel,Alentejo Central,Portel,381
+en,Portel,Alentejo Central,"Portel, Portugal",1664
+pt,Redondo,Alentejo Central,Redondo,10627
+pt,Reguengos de Monsaraz,Alentejo Central,Reguengos de Monsaraz,14184
+en,Reguengos de Monsaraz,Alentejo Central,Reguengos de Monsaraz,3648
+pt,Vendas Novas,Alentejo Central,Vendas Novas,12572
+en,Vendas Novas,Alentejo Central,Vendas Novas,3843
+pt,Viana do Alentejo,Alentejo Central,Viana do Alentejo,7217
+en,Viana do Alentejo,Alentejo Central,Viana do Alentejo,1457
+pt,Vila Viçosa,Alentejo Central,Vila Viçosa,18522
+en,Vila Viçosa,Alentejo Central,Vila Viçosa,8011
+pt,Albufeira,Algarve,Albufeira,21288
+en,Albufeira,Algarve,Albufeira,68692
+en,Alcoutim,Algarve,Alcoutim,9241
+pt,Aljezur,Algarve,Aljezur,12679
+en,Aljezur,Algarve,Aljezur,9670
+pt,Castro Marim,Algarve,Castro Marim,11189
+en,Castro Marim,Algarve,Castro Marim,10135
+pt,Faro,Algarve,Faro,40066
+en,Faro,Algarve,"Faro, Portugal",148027
+pt,Lagoa,Algarve,Lagoa (Algarve),8683
+en,Lagoa,Algarve,"Lagoa, Algarve",2513
+pt,Lagos,Algarve,Lagos (Portugal),24372
+pt,Loulé,Algarve,Loulé,20656
+en,Loulé,Algarve,Loulé,19837
+pt,Monchique,Algarve,Monchique,14870
+en,Monchique,Algarve,Monchique,10789
+pt,Olhão,Algarve,Olhão,15414
+en,Olhão,Algarve,Olhão,37956
+pt,Portimão,Algarve,Portimão,23826
+en,Portimão,Algarve,Portimão,51438
+pt,São Brás de Alportel,Algarve,São Brás de Alportel,8702
+en,São Brás de Alportel,Algarve,São Brás de Alportel,5518
+en,Silves,Algarve,"Silves, Portugal",25934
+pt,Tavira,Algarve,Tavira,21369
+en,Tavira,Algarve,Tavira,52412
+pt,Vila do Bispo,Algarve,Vila do Bispo,9722
+en,Vila do Bispo,Algarve,Vila do Bispo,6537
+pt,Vila Real de Santo António,Algarve,Vila Real de Santo António,17691
+en,Vila Real de Santo António,Algarve,Vila Real de Santo António,15247
+pt,Angra do Heroísmo,Região Autónoma dos Açores,Angra do Heroísmo,24752
+en,Angra do Heroísmo,Região Autónoma dos Açores,Angra do Heroísmo,56086
+pt,Calheta,Região Autónoma dos Açores,Calheta (Açores),2929
+pt,Corvo,Região Autónoma dos Açores,Corvo (Açores),23193
+en,Corvo,Região Autónoma dos Açores,Corvo Island,37971
+en,Horta,Região Autónoma dos Açores,"Horta, Azores",30725
+pt,Lagoa,Região Autónoma dos Açores,Lagoa (Açores),4665
+en,Lagoa,Região Autónoma dos Açores,"Lagoa, Azores",4628
+pt,Lajes das Flores,Região Autónoma dos Açores,Lajes das Flores,2832
+en,Lajes das Flores,Região Autónoma dos Açores,Lajes das Flores,4455
+pt,Lajes do Pico,Região Autónoma dos Açores,Lajes do Pico,3314
+en,Lajes do Pico,Região Autónoma dos Açores,Lajes do Pico,3718
+en,Madalena,Região Autónoma dos Açores,"Madalena, Azores",5107
+pt,Nordeste,Região Autónoma dos Açores,Nordeste (Açores),4017
+en,Nordeste,Região Autónoma dos Açores,"Nordeste, Azores",4214
+pt,Ponta Delgada,Região Autónoma dos Açores,Ponta Delgada,33979
+en,Ponta Delgada,Região Autónoma dos Açores,Ponta Delgada,184364
+pt,Povoação,Região Autónoma dos Açores,Povoação,377
+en,Povoação,Região Autónoma dos Açores,Povoação,606
+pt,Praia da Vitória,Região Autónoma dos Açores,Praia da Vitória,9920
+en,Praia da Vitória,Região Autónoma dos Açores,Praia da Vitória,11881
+pt,Ribeira Grande,Região Autónoma dos Açores,Ribeira Grande,832
+pt,Santa Cruz da Graciosa,Região Autónoma dos Açores,Santa Cruz da Graciosa,2705
+en,Santa Cruz da Graciosa,Região Autónoma dos Açores,Santa Cruz da Graciosa,4975
+pt,Santa Cruz das Flores,Região Autónoma dos Açores,Santa Cruz das Flores,3688
+en,Santa Cruz das Flores,Região Autónoma dos Açores,Santa Cruz das Flores,15147
+pt,São Roque do Pico,Região Autónoma dos Açores,São Roque do Pico,2852
+en,São Roque do Pico,Região Autónoma dos Açores,São Roque do Pico,2356
+en,Velas,Região Autónoma dos Açores,"Velas, Azores",3906
+pt,Vila do Porto,Região Autónoma dos Açores,Vila do Porto,4263
+en,Vila do Porto,Região Autónoma dos Açores,Vila do Porto,9559
+en,Vila Franca do Campo,Região Autónoma dos Açores,Vila Franca do Campo,13039
+pt,Calheta,Região Autónoma da Madeira,Calheta (Madeira),5194
+en,Calheta,Região Autónoma da Madeira,"Calheta, Madeira",4598
+pt,Câmara de Lobos,Região Autónoma da Madeira,Câmara de Lobos,9501
+en,Câmara de Lobos,Região Autónoma da Madeira,Câmara de Lobos,15424
+pt,Funchal,Região Autónoma da Madeira,Funchal,40187
+en,Funchal,Região Autónoma da Madeira,Funchal,277257
+pt,Machico,Região Autónoma da Madeira,Machico,8825
+en,Machico,Região Autónoma da Madeira,Machico,4030
+pt,Ponta do Sol,Região Autónoma da Madeira,Ponta do Sol,276
+pt,Porto Moniz,Região Autónoma da Madeira,Porto Moniz,5341
+en,Porto Moniz,Região Autónoma da Madeira,Porto Moniz,11901
+pt,Porto Santo,Região Autónoma da Madeira,Porto Santo,33167
+en,Porto Santo,Região Autónoma da Madeira,Porto Santo Island,43142
+pt,Ribeira Brava,Região Autónoma da Madeira,Ribeira Brava,331
+en,Ribeira Brava,Região Autónoma da Madeira,"Ribeira Brava, Madeira",6043
+pt,Santa Cruz,Região Autónoma da Madeira,Santa Cruz (Madeira),6967
+en,Santa Cruz,Região Autónoma da Madeira,"Santa Cruz, Madeira",8240
+pt,Santana,Região Autónoma da Madeira,Santana (Madeira),5240
+en,Santana,Região Autónoma da Madeira,"Santana, Madeira",5059
+en,São Vicente,Região Autónoma da Madeira,"São Vicente, Madeira",6830
+pt,Amares,Cávado,Amares,15591
+en,Vila Verde,Cávado,Vila Verde,2857
+pt,Vieira do Minho,Ave,Vieira do Minho,12055
+en,Gondomar,Área Metropolitana do Porto,Gondomar,1025
+pt,Póvoa de Varzim,Área Metropolitana do Porto,Póvoa de Varzim,34667
+en,Vale de Cambra,Área Metropolitana do Porto,Vale de Cambra,2806
+pt,Montalegre,Alto Tâmega e Barroso,Montalegre,21986
+en,Baião,Tâmega e Sousa,Baião,287
+pt,Marco de Canaveses,Tâmega e Sousa,Marco de Canaveses,31247
+en,Armamar,Douro,Armamar,933
+pt,Murça,Douro,Murça,7916
+en,São João da Pesqueira,Douro,São João da Pesqueira,2026
+pt,Vila Real,Douro,Vila Real,45067
+en,Mirandela,Terras de Trás-os-Montes,Mirandela,8431
+pt,Albergaria-a-Velha,Região de Aveiro,Albergaria-a-Velha,12554
+en,Murtosa,Região de Aveiro,Murtosa,2125
+pt,Cantanhede,Região de Coimbra,Cantanhede,568
+en,Lousã,Região de Coimbra,Lousã,9631
+pt,Oliveira do Hospital,Região de Coimbra,Oliveira do Hospital,21116
+pt,Figueiró dos Vinhos,Região de Leiria,Figueiró dos Vinhos,9398
+en,Porto de Mós,Região de Leiria,Porto de Mós,3920
+pt,Oliveira de Frades,Viseu Dão Lafões,Oliveira de Frades,9824
+en,Tondela,Viseu Dão Lafões,Tondela,9060
+pt,Oleiros,Beira Baixa,Oleiros,11335
+en,Belmonte,Beiras e Serra da Estrela,Belmonte,1326
+pt,Gouveia,Beiras e Serra da Estrela,Gouveia,787
+en,Sabugal,Beiras e Serra da Estrela,Sabugal,5568
+pt,Bombarral,Oeste,Bombarral,11839
+en,Óbidos,Oeste,"Óbidos, Portugal",89820
+en,Sardoal,Médio Tejo,Sardoal,1087
+pt,Almeirim,Lezíria do Tejo,Almeirim,966
+en,Chamusca,Lezíria do Tejo,Chamusca,1719
+pt,Amadora,Grande Lisboa,Amadora,38224
+en,Odivelas,Grande Lisboa,Odivelas,9755
+pt,Barreiro,Península de Setúbal,Barreiro,20981
+en,Sesimbra,Península de Setúbal,Sesimbra,14818
+pt,Sines,Alentejo Litoral,Sines,22773
+en,Beja,Baixo Alentejo,"Beja, Portugal",22376
+en,Avis,Alto Alentejo,"Avis, Portugal",3149
+pt,Gavião,Alto Alentejo,Gavião,25134
+en,Portalegre,Alto Alentejo,"Portalegre, Portugal",10696
+pt,Évora,Alentejo Central,Évora,55558
+en,Redondo,Alentejo Central,"Redondo, Portugal",2343
+pt,Alcoutim,Algarve,Alcoutim,8547
+en,Lagos,Algarve,"Lagos, Portugal",127812
+pt,Silves,Algarve,Silves,525
+en,Calheta,Região Autónoma dos Açores,"Calheta, Azores",1855
+pt,Madalena,Região Autónoma dos Açores,Madalena (Açores),3716
+pt,Vila Franca do Campo,Região Autónoma dos Açores,Vila Franca do Campo,7512
+en,Ponta do Sol,Região Autónoma da Madeira,"Ponta do Sol, Madeira",7327
+pt,São Vicente,Região Autónoma da Madeira,São Vicente,3506
+en,Tábua,Região de Coimbra,Tábua,1961
+pt,Constância,Médio Tejo,Constância,618
+pt,Ourique,Baixo Alentejo,Ourique,9213
+en,Ribeira Grande,Região Autónoma dos Açores,"Ribeira Grande, Azores",8849
+en,Almeirim,Lezíria do Tejo,Almeirim,3545
+pt,Avis,Alto Alentejo,Avis,13045
+pt,Horta,Região Autónoma dos Açores,Horta,11541
+pt,Velas,Região Autónoma dos Açores,Velas,4383

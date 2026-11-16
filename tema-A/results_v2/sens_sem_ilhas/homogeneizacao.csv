@@ -45,14 +45,14 @@ natureza;lang;es;fr;1.0;0.987
 natureza;lang;es;pt;0.857;0.985
 natureza;lang;fr;pt;0.857;0.974
 pouco_conhecidos;modelo;claude;gemini;0.7;0.859
-pouco_conhecidos;modelo;claude;gpt;0.556;0.632
+pouco_conhecidos;modelo;claude;gpt;0.556;0.633
 pouco_conhecidos;modelo;gemini;gpt;0.5;0.495
 pouco_conhecidos;lang;en;es;0.727;0.805
 pouco_conhecidos;lang;en;fr;0.8;0.823
 pouco_conhecidos;lang;en;pt;0.6;0.542
 pouco_conhecidos;lang;es;fr;0.9;0.843
-pouco_conhecidos;lang;es;pt;0.7;0.607
-pouco_conhecidos;lang;fr;pt;0.778;0.728
+pouco_conhecidos;lang;es;pt;0.7;0.608
+pouco_conhecidos;lang;fr;pt;0.778;0.73
 roteiro;modelo;claude;gemini;0.571;0.978
 roteiro;modelo;claude;gpt;0.375;0.93
 roteiro;modelo;gemini;gpt;0.6;0.941

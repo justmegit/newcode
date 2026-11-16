@@ -2,24 +2,24 @@
 presenca;lingua;total;todos;Alto Minho;0.016;;;0.0125;1.32;;;0.3;15
 presenca;lingua;total;todos;Cávado;0.0516;;;0.0137;3.73;;;3.8;47
 presenca;lingua;total;todos;Ave;0.0233;;;0.0074;3.19;;;1.6;19
-presenca;lingua;total;todos;Área Metropolitana do Porto;0.0964;0.0862;0.108;0.1195;0.79;0.71;0.88;-2.3;75
+presenca;lingua;total;todos;Área Metropolitana do Porto;0.0964;0.0863;0.108;0.1195;0.79;0.71;0.88;-2.3;75
 presenca;lingua;total;todos;Alto Tâmega e Barroso;0.0046;;;0.004;1.37;;;0.1;4
 presenca;lingua;total;todos;Tâmega e Sousa;0.0002;;;0.0054;0.23;;;-0.5;0
-presenca;lingua;total;todos;Douro;0.0872;0.0767;0.0973;0.0075;11.44;8.88;15.19;8.0;70
+presenca;lingua;total;todos;Douro;0.0872;0.0767;0.0973;0.0075;11.45;8.89;15.19;8.0;70
 presenca;lingua;total;todos;Terras de Trás-os-Montes;0.0193;;;0.0035;5.63;;;1.6;18
 presenca;lingua;total;todos;Região de Aveiro;0.0235;;;0.0122;1.96;;;1.1;21
-presenca;lingua;total;todos;Região de Coimbra;0.0615;0.0523;0.0704;0.0209;2.91;2.09;4.3;4.1;52
+presenca;lingua;total;todos;Região de Coimbra;0.0615;0.0523;0.0704;0.0209;2.92;2.09;4.3;4.1;52
 presenca;lingua;total;todos;Região de Leiria;0.0103;;;0.0089;1.24;;;0.1;10
 presenca;lingua;total;todos;Viseu Dão Lafões;0.0149;;;0.0064;2.43;;;0.8;15
-presenca;lingua;total;todos;Beira Baixa;0.012;;;0.0034;3.76;;;0.9;11
+presenca;lingua;total;todos;Beira Baixa;0.012;;;0.0034;3.77;;;0.9;11
 presenca;lingua;total;todos;Beiras e Serra da Estrela;0.0416;;;0.0097;4.29;;;3.2;39
 presenca;lingua;total;todos;Oeste;0.0594;0.0485;0.0699;0.0229;2.57;1.86;3.65;3.7;51
-presenca;lingua;total;todos;Médio Tejo;0.016;;;0.0179;0.92;;;-0.2;15
+presenca;lingua;total;todos;Médio Tejo;0.0158;;;0.0179;0.91;;;-0.2;15
 presenca;lingua;total;todos;Lezíria do Tejo;0.0014;;;0.0031;0.78;;;-0.2;1
 presenca;lingua;total;todos;Grande Lisboa;0.0988;0.0903;0.1088;0.2349;0.41;0.36;0.49;-13.6;75
 presenca;lingua;total;todos;Península de Setúbal;0.024;;;0.0245;0.99;;;-0.1;23
 presenca;lingua;total;todos;Alentejo Litoral;0.0318;;;0.0223;1.43;;;1.0;29
-presenca;lingua;total;todos;Baixo Alentejo;0.0124;;;0.0057;2.28;;;0.7;11
+presenca;lingua;total;todos;Baixo Alentejo;0.0124;;;0.0057;2.29;;;0.7;11
 presenca;lingua;total;todos;Alto Alentejo;0.0084;;;0.0052;1.75;;;0.3;8
 presenca;lingua;total;todos;Alentejo Central;0.0623;0.056;0.0689;0.0121;5.12;3.56;8.0;5.0;58
 presenca;lingua;total;todos;Algarve;0.0781;0.0711;0.0858;0.264;0.29;0.26;0.32;-18.6;67
@@ -31,8 +31,8 @@ presenca;total;total;todos;Ave;0.0233;;;0.0082;2.89;;;1.5;19
 presenca;total;total;todos;Área Metropolitana do Porto;0.0964;0.0857;0.1077;0.117;0.81;0.72;0.9;-2.1;75
 presenca;total;total;todos;Alto Tâmega e Barroso;0.0046;;;0.0048;1.15;;;-0.0;4
 presenca;total;total;todos;Tâmega e Sousa;0.0002;;;0.0061;0.2;;;-0.6;0
-presenca;total;total;todos;Douro;0.0872;0.0769;0.0977;0.0081;10.54;9.32;11.8;7.9;70
-presenca;total;total;todos;Terras de Trás-os-Montes;0.0193;;;0.0041;4.83;;;1.5;18
+presenca;total;total;todos;Douro;0.0872;0.0769;0.0978;0.0081;10.55;9.32;11.81;7.9;70
+presenca;total;total;todos;Terras de Trás-os-Montes;0.0193;;;0.0041;4.84;;;1.5;18
 presenca;total;total;todos;Região de Aveiro;0.0235;;;0.0133;1.8;;;1.0;21
 presenca;total;total;todos;Região de Coimbra;0.0615;0.0527;0.0698;0.0232;2.63;2.26;2.98;3.8;52
 presenca;total;total;todos;Região de Leiria;0.0103;;;0.0104;1.06;;;-0.0;10
@@ -40,12 +40,12 @@ presenca;total;total;todos;Viseu Dão Lafões;0.0149;;;0.0078;2.0;;;0.7;15
 presenca;total;total;todos;Beira Baixa;0.012;;;0.004;3.21;;;0.8;11
 presenca;total;total;todos;Beiras e Serra da Estrela;0.0416;;;0.0119;3.5;;;3.0;39
 presenca;total;total;todos;Oeste;0.0594;0.0493;0.0695;0.025;2.36;1.96;2.75;3.4;51
-presenca;total;total;todos;Médio Tejo;0.016;;;0.0186;0.89;;;-0.3;15
+presenca;total;total;todos;Médio Tejo;0.0158;;;0.0186;0.88;;;-0.3;15
 presenca;total;total;todos;Lezíria do Tejo;0.0014;;;0.0037;0.66;;;-0.2;1
 presenca;total;total;todos;Grande Lisboa;0.0988;0.09;0.1086;0.224;0.43;0.4;0.48;-12.5;75
 presenca;total;total;todos;Península de Setúbal;0.024;;;0.0271;0.9;;;-0.3;23
 presenca;total;total;todos;Alentejo Litoral;0.0318;;;0.0251;1.27;;;0.7;29
-presenca;total;total;todos;Baixo Alentejo;0.0124;;;0.0067;1.96;;;0.6;11
+presenca;total;total;todos;Baixo Alentejo;0.0124;;;0.0067;1.97;;;0.6;11
 presenca;total;total;todos;Alto Alentejo;0.0084;;;0.0063;1.46;;;0.2;8
 presenca;total;total;todos;Alentejo Central;0.0623;0.0563;0.0688;0.0135;4.58;4.15;5.05;4.9;58
 presenca;total;total;todos;Algarve;0.0781;0.071;0.0857;0.2565;0.3;0.27;0.33;-17.8;67
@@ -311,57 +311,57 @@ presenca;total;template;natureza;Alentejo Central;0.0286;0.0085;0.0522;0.0135;2.
 presenca;total;template;natureza;Algarve;0.1072;0.1043;0.1102;0.2565;0.37;0.36;0.38;-14.9;100
 presenca;total;template;natureza;Região Autónoma dos Açores;0.1072;0.1043;0.1102;0.035;2.71;2.64;2.78;7.2;100
 presenca;total;template;natureza;Região Autónoma da Madeira;0.1072;0.1043;0.1102;0.1113;0.85;0.83;0.88;-0.4;100
-presenca;lingua;template;pouco_conhecidos;Alto Minho;0.0418;0.0222;0.0624;0.0125;3.29;1.9;5.01;2.9;38
+presenca;lingua;template;pouco_conhecidos;Alto Minho;0.042;0.0225;0.0628;0.0125;3.3;1.91;5.05;2.9;38
 presenca;lingua;template;pouco_conhecidos;Cávado;0.036;0.0137;0.0594;0.0137;2.66;1.19;4.66;2.2;35
 presenca;lingua;template;pouco_conhecidos;Ave;0.0019;0.0;0.0074;0.0074;1.13;0.69;2.0;-0.6;2
-presenca;lingua;template;pouco_conhecidos;Área Metropolitana do Porto;0.0048;0.0;0.013;0.1195;0.09;0.06;0.15;-11.5;5
+presenca;lingua;template;pouco_conhecidos;Área Metropolitana do Porto;0.005;0.0;0.0133;0.1195;0.09;0.06;0.15;-11.4;5
 presenca;lingua;template;pouco_conhecidos;Alto Tâmega e Barroso;0.0305;0.0144;0.0485;0.004;7.96;3.99;18.47;2.7;28
 presenca;lingua;template;pouco_conhecidos;Tâmega e Sousa;0.0;0.0;0.0;0.0054;1.27;0.88;2.25;-0.5;0
-presenca;lingua;template;pouco_conhecidos;Douro;0.077;0.0551;0.0966;0.0075;9.35;6.97;12.61;7.0;70
-presenca;lingua;template;pouco_conhecidos;Terras de Trás-os-Montes;0.0722;0.0475;0.0959;0.0035;18.81;12.51;32.99;6.9;65
+presenca;lingua;template;pouco_conhecidos;Douro;0.0772;0.0551;0.0966;0.0075;9.37;7.0;12.62;7.0;70
+presenca;lingua;template;pouco_conhecidos;Terras de Trás-os-Montes;0.0723;0.0475;0.0961;0.0035;18.84;12.55;32.99;6.9;65
 presenca;lingua;template;pouco_conhecidos;Região de Aveiro;0.0019;0.0;0.0074;0.0122;0.69;0.43;1.19;-1.0;2
-presenca;lingua;template;pouco_conhecidos;Região de Coimbra;0.0731;0.0492;0.0961;0.0209;3.2;1.92;5.16;5.2;68
+presenca;lingua;template;pouco_conhecidos;Região de Coimbra;0.0732;0.0494;0.0963;0.0209;3.21;1.92;5.17;5.2;68
 presenca;lingua;template;pouco_conhecidos;Região de Leiria;0.0;0.0;0.0;0.0089;0.77;0.5;1.67;-0.9;0
 presenca;lingua;template;pouco_conhecidos;Viseu Dão Lafões;0.0184;0.0019;0.0389;0.0064;3.45;1.53;6.44;1.2;17
-presenca;lingua;template;pouco_conhecidos;Beira Baixa;0.0905;0.0719;0.106;0.0034;24.11;14.6;48.59;8.7;83
-presenca;lingua;template;pouco_conhecidos;Beiras e Serra da Estrela;0.0965;0.0818;0.1088;0.0097;8.9;4.96;30.89;8.7;88
+presenca;lingua;template;pouco_conhecidos;Beira Baixa;0.0907;0.0719;0.1062;0.0034;24.15;14.69;48.59;8.7;83
+presenca;lingua;template;pouco_conhecidos;Beiras e Serra da Estrela;0.0966;0.0821;0.1089;0.0097;8.91;5.0;30.89;8.7;88
 presenca;lingua;template;pouco_conhecidos;Oeste;0.008;0.0;0.0209;0.0229;0.59;0.25;1.23;-1.5;8
-presenca;lingua;template;pouco_conhecidos;Médio Tejo;0.0156;0.0033;0.0317;0.0179;1.1;0.51;1.88;-0.2;15
+presenca;lingua;template;pouco_conhecidos;Médio Tejo;0.0141;0.0019;0.03;0.0179;1.03;0.44;1.82;-0.4;13
 presenca;lingua;template;pouco_conhecidos;Lezíria do Tejo;0.0;0.0;0.0;0.0031;2.21;1.38;5.53;-0.3;0
 presenca;lingua;template;pouco_conhecidos;Grande Lisboa;0.0;0.0;0.0;0.2349;0.03;0.03;0.03;-23.5;0
 presenca;lingua;template;pouco_conhecidos;Península de Setúbal;0.0035;0.0;0.0109;0.0245;0.4;0.23;0.68;-2.1;3
 presenca;lingua;template;pouco_conhecidos;Alentejo Litoral;0.0543;0.0306;0.0792;0.0223;2.31;1.09;4.54;3.2;52
-presenca;lingua;template;pouco_conhecidos;Baixo Alentejo;0.0924;0.0762;0.1055;0.0057;14.47;9.56;26.29;8.7;85
+presenca;lingua;template;pouco_conhecidos;Baixo Alentejo;0.0925;0.0764;0.1056;0.0057;14.5;9.59;26.29;8.7;85
 presenca;lingua;template;pouco_conhecidos;Alto Alentejo;0.0561;0.0324;0.0783;0.0052;10.1;4.18;30.85;5.1;53
 presenca;lingua;template;pouco_conhecidos;Alentejo Central;0.029;0.0129;0.0469;0.0121;2.54;1.24;4.65;1.7;27
-presenca;lingua;template;pouco_conhecidos;Algarve;0.0874;0.0687;0.1035;0.264;0.3;0.23;0.37;-17.7;80
-presenca;lingua;template;pouco_conhecidos;Região Autónoma dos Açores;0.0948;0.0741;0.1106;0.0348;2.44;1.95;2.8;6.0;87
+presenca;lingua;template;pouco_conhecidos;Algarve;0.0876;0.0687;0.1038;0.264;0.3;0.23;0.37;-17.6;80
+presenca;lingua;template;pouco_conhecidos;Região Autónoma dos Açores;0.095;0.0741;0.1109;0.0348;2.44;1.96;2.8;6.0;87
 presenca;lingua;template;pouco_conhecidos;Região Autónoma da Madeira;0.0143;0.0032;0.0291;0.1175;0.16;0.07;0.29;-10.3;13
-presenca;total;template;pouco_conhecidos;Alto Minho;0.0418;0.0219;0.0628;0.0137;3.0;1.81;4.25;2.8;38
+presenca;total;template;pouco_conhecidos;Alto Minho;0.042;0.0222;0.0632;0.0137;3.01;1.82;4.28;2.8;38
 presenca;total;template;pouco_conhecidos;Cávado;0.036;0.0138;0.0609;0.0147;2.48;1.24;3.87;2.1;35
 presenca;total;template;pouco_conhecidos;Ave;0.0019;0.0;0.0074;0.0082;1.02;0.83;1.57;-0.6;2
-presenca;total;template;pouco_conhecidos;Área Metropolitana do Porto;0.0048;0.0;0.013;0.117;0.09;0.06;0.15;-11.2;5
+presenca;total;template;pouco_conhecidos;Área Metropolitana do Porto;0.005;0.0;0.0133;0.117;0.09;0.06;0.15;-11.2;5
 presenca;total;template;pouco_conhecidos;Alto Tâmega e Barroso;0.0305;0.0143;0.0485;0.0048;6.69;3.89;9.78;2.6;28
 presenca;total;template;pouco_conhecidos;Tâmega e Sousa;0.0;0.0;0.0;0.0061;1.12;1.12;1.12;-0.6;0
-presenca;total;template;pouco_conhecidos;Douro;0.077;0.0557;0.0959;0.0081;8.61;6.46;10.51;6.9;70
-presenca;total;template;pouco_conhecidos;Terras de Trás-os-Montes;0.0722;0.0456;0.0972;0.0041;16.15;10.82;21.18;6.8;65
+presenca;total;template;pouco_conhecidos;Douro;0.0772;0.0559;0.0963;0.0081;8.63;6.48;10.55;6.9;70
+presenca;total;template;pouco_conhecidos;Terras de Trás-os-Montes;0.0723;0.0456;0.0975;0.0041;16.18;10.82;21.24;6.8;65
 presenca;total;template;pouco_conhecidos;Região de Aveiro;0.0019;0.0;0.0074;0.0133;0.63;0.51;0.97;-1.1;2
-presenca;total;template;pouco_conhecidos;Região de Coimbra;0.0731;0.0489;0.096;0.0232;2.89;2.03;3.7;5.0;68
+presenca;total;template;pouco_conhecidos;Região de Coimbra;0.0732;0.0491;0.0962;0.0232;2.89;2.04;3.71;5.0;68
 presenca;total;template;pouco_conhecidos;Região de Leiria;0.0;0.0;0.0;0.0104;0.66;0.66;0.66;-1.0;0
 presenca;total;template;pouco_conhecidos;Viseu Dão Lafões;0.0184;0.0021;0.0402;0.0078;2.84;1.1;5.15;1.1;17
-presenca;total;template;pouco_conhecidos;Beira Baixa;0.0905;0.0729;0.1054;0.004;20.54;16.87;23.63;8.7;83
-presenca;total;template;pouco_conhecidos;Beiras e Serra da Estrela;0.0965;0.0829;0.1088;0.0119;7.25;6.32;8.11;8.5;88
+presenca;total;template;pouco_conhecidos;Beira Baixa;0.0907;0.0729;0.1056;0.004;20.57;16.87;23.68;8.7;83
+presenca;total;template;pouco_conhecidos;Beiras e Serra da Estrela;0.0966;0.0831;0.1091;0.0119;7.26;6.33;8.12;8.5;88
 presenca;total;template;pouco_conhecidos;Oeste;0.008;0.0;0.0211;0.025;0.54;0.27;0.97;-1.7;8
-presenca;total;template;pouco_conhecidos;Médio Tejo;0.0156;0.0032;0.0308;0.0186;1.06;0.51;1.73;-0.3;15
+presenca;total;template;pouco_conhecidos;Médio Tejo;0.0141;0.0017;0.03;0.0186;0.99;0.44;1.69;-0.5;13
 presenca;total;template;pouco_conhecidos;Lezíria do Tejo;0.0;0.0;0.0;0.0037;1.86;1.86;1.86;-0.4;0
 presenca;total;template;pouco_conhecidos;Grande Lisboa;0.0;0.0;0.0;0.224;0.03;0.03;0.03;-22.4;0
 presenca;total;template;pouco_conhecidos;Península de Setúbal;0.0035;0.0;0.0109;0.0271;0.36;0.25;0.58;-2.4;3
 presenca;total;template;pouco_conhecidos;Alentejo Litoral;0.0543;0.0275;0.0795;0.0251;2.05;1.17;2.88;2.9;52
-presenca;total;template;pouco_conhecidos;Baixo Alentejo;0.0924;0.0763;0.1049;0.0067;12.44;10.45;13.99;8.6;85
+presenca;total;template;pouco_conhecidos;Baixo Alentejo;0.0925;0.0764;0.1052;0.0067;12.46;10.47;14.03;8.6;85
 presenca;total;template;pouco_conhecidos;Alto Alentejo;0.0561;0.0321;0.0791;0.0063;8.41;5.28;11.41;5.0;53
 presenca;total;template;pouco_conhecidos;Alentejo Central;0.029;0.0133;0.0469;0.0135;2.28;1.32;3.37;1.5;27
-presenca;total;template;pouco_conhecidos;Algarve;0.0874;0.0683;0.1046;0.2565;0.31;0.25;0.36;-16.9;80
-presenca;total;template;pouco_conhecidos;Região Autónoma dos Açores;0.0948;0.0725;0.1106;0.035;2.42;1.9;2.79;6.0;87
+presenca;total;template;pouco_conhecidos;Algarve;0.0876;0.0684;0.1048;0.2565;0.31;0.25;0.36;-16.9;80
+presenca;total;template;pouco_conhecidos;Região Autónoma dos Açores;0.095;0.0727;0.1109;0.035;2.42;1.9;2.8;6.0;87
 presenca;total;template;pouco_conhecidos;Região Autónoma da Madeira;0.0143;0.0032;0.0298;0.1113;0.17;0.09;0.28;-9.7;13
 presenca;lingua;template;roteiro;Alto Minho;0.0;0.0;0.0;0.0125;0.55;0.42;0.79;-1.3;0
 presenca;lingua;template;roteiro;Cávado;0.0418;0.0155;0.0695;0.0137;3.0;1.5;4.58;2.8;28
@@ -2287,57 +2287,57 @@ presenca;total;template_lang;natureza|pt;Alentejo Central;0.0067;;;0.0135;1.59;;
 presenca;total;template_lang;natureza|pt;Algarve;0.1059;;;0.2565;0.29;;;-15.1;100
 presenca;total;template_lang;natureza|pt;Região Autónoma dos Açores;0.1059;;;0.035;2.13;;;7.1;100
 presenca;total;template_lang;natureza|pt;Região Autónoma da Madeira;0.1059;;;0.1113;0.67;;;-0.5;100
-presenca;lingua;template_modelo;pouco_conhecidos|claude;Alto Minho;0.0496;;;0.0125;3.61;;;3.7;45
+presenca;lingua;template_modelo;pouco_conhecidos|claude;Alto Minho;0.0501;;;0.0125;3.63;;;3.8;45
 presenca;lingua;template_modelo;pouco_conhecidos|claude;Cávado;0.0485;;;0.0137;3.24;;;3.5;45
 presenca;lingua;template_modelo;pouco_conhecidos|claude;Ave;0.0;;;0.0074;2.04;;;-0.7;0
-presenca;lingua;template_modelo;pouco_conhecidos|claude;Área Metropolitana do Porto;0.0095;;;0.1195;0.18;;;-11.0;10
+presenca;lingua;template_modelo;pouco_conhecidos|claude;Área Metropolitana do Porto;0.01;;;0.1195;0.18;;;-10.9;10
 presenca;lingua;template_modelo;pouco_conhecidos|claude;Alto Tâmega e Barroso;0.0367;;;0.004;9.31;;;3.3;35
 presenca;lingua;template_modelo;pouco_conhecidos|claude;Tâmega e Sousa;0.0;;;0.0054;2.81;;;-0.5;0
-presenca;lingua;template_modelo;pouco_conhecidos|claude;Douro;0.0979;;;0.0075;9.93;;;9.0;90
-presenca;lingua;template_modelo;pouco_conhecidos|claude;Terras de Trás-os-Montes;0.0486;;;0.0035;12.67;;;4.5;45
+presenca;lingua;template_modelo;pouco_conhecidos|claude;Douro;0.0984;;;0.0075;9.96;;;9.1;90
+presenca;lingua;template_modelo;pouco_conhecidos|claude;Terras de Trás-os-Montes;0.049;;;0.0035;12.75;;;4.6;45
 presenca;lingua;template_modelo;pouco_conhecidos|claude;Região de Aveiro;0.0;;;0.0122;1.24;;;-1.2;0
-presenca;lingua;template_modelo;pouco_conhecidos|claude;Região de Coimbra;0.1092;;;0.0209;3.89;;;8.8;100
+presenca;lingua;template_modelo;pouco_conhecidos|claude;Região de Coimbra;0.1096;;;0.0209;3.91;;;8.9;100
 presenca;lingua;template_modelo;pouco_conhecidos|claude;Região de Leiria;0.0;;;0.0089;1.71;;;-0.9;0
 presenca;lingua;template_modelo;pouco_conhecidos|claude;Viseu Dão Lafões;0.0;;;0.0064;2.38;;;-0.6;0
-presenca;lingua;template_modelo;pouco_conhecidos|claude;Beira Baixa;0.0902;;;0.0034;20.73;;;8.7;85
-presenca;lingua;template_modelo;pouco_conhecidos|claude;Beiras e Serra da Estrela;0.0918;;;0.0097;7.31;;;8.2;85
+presenca;lingua;template_modelo;pouco_conhecidos|claude;Beira Baixa;0.0907;;;0.0034;20.81;;;8.7;85
+presenca;lingua;template_modelo;pouco_conhecidos|claude;Beiras e Serra da Estrela;0.0923;;;0.0097;7.34;;;8.3;85
 presenca;lingua;template_modelo;pouco_conhecidos|claude;Oeste;0.0;;;0.0229;0.66;;;-2.3;0
-presenca;lingua;template_modelo;pouco_conhecidos|claude;Médio Tejo;0.0045;;;0.0179;1.0;;;-1.3;5
+presenca;lingua;template_modelo;pouco_conhecidos|claude;Médio Tejo;0.0;;;0.0179;0.84;;;-1.8;0
 presenca;lingua;template_modelo;pouco_conhecidos|claude;Lezíria do Tejo;0.0;;;0.0031;4.89;;;-0.3;0
 presenca;lingua;template_modelo;pouco_conhecidos|claude;Grande Lisboa;0.0;;;0.2349;0.06;;;-23.5;0
 presenca;lingua;template_modelo;pouco_conhecidos|claude;Península de Setúbal;0.0;;;0.0245;0.62;;;-2.5;0
 presenca;lingua;template_modelo;pouco_conhecidos|claude;Alentejo Litoral;0.0656;;;0.0223;2.47;;;4.3;60
-presenca;lingua;template_modelo;pouco_conhecidos|claude;Baixo Alentejo;0.0902;;;0.0057;12.21;;;8.5;85
+presenca;lingua;template_modelo;pouco_conhecidos|claude;Baixo Alentejo;0.0907;;;0.0057;12.26;;;8.5;85
 presenca;lingua;template_modelo;pouco_conhecidos|claude;Alto Alentejo;0.059;;;0.0052;9.71;;;5.4;55
 presenca;lingua;template_modelo;pouco_conhecidos|claude;Alentejo Central;0.0295;;;0.0121;2.74;;;1.7;25
-presenca;lingua;template_modelo;pouco_conhecidos|claude;Algarve;0.0931;;;0.264;0.27;;;-17.1;85
-presenca;lingua;template_modelo;pouco_conhecidos|claude;Região Autónoma dos Açores;0.0759;;;0.0348;1.76;;;4.1;70
+presenca;lingua;template_modelo;pouco_conhecidos|claude;Algarve;0.0935;;;0.264;0.27;;;-17.1;85
+presenca;lingua;template_modelo;pouco_conhecidos|claude;Região Autónoma dos Açores;0.0764;;;0.0348;1.77;;;4.2;70
 presenca;lingua;template_modelo;pouco_conhecidos|claude;Região Autónoma da Madeira;0.0;;;0.1175;0.13;;;-11.8;0
-presenca;total;template_modelo;pouco_conhecidos|claude;Alto Minho;0.0496;;;0.0137;3.29;;;3.6;45
+presenca;total;template_modelo;pouco_conhecidos|claude;Alto Minho;0.0501;;;0.0137;3.31;;;3.6;45
 presenca;total;template_modelo;pouco_conhecidos|claude;Cávado;0.0485;;;0.0147;3.03;;;3.4;45
 presenca;total;template_modelo;pouco_conhecidos|claude;Ave;0.0;;;0.0082;1.84;;;-0.8;0
-presenca;total;template_modelo;pouco_conhecidos|claude;Área Metropolitana do Porto;0.0095;;;0.117;0.18;;;-10.7;10
+presenca;total;template_modelo;pouco_conhecidos|claude;Área Metropolitana do Porto;0.01;;;0.117;0.18;;;-10.7;10
 presenca;total;template_modelo;pouco_conhecidos|claude;Alto Tâmega e Barroso;0.0367;;;0.0048;7.83;;;3.2;35
 presenca;total;template_modelo;pouco_conhecidos|claude;Tâmega e Sousa;0.0;;;0.0061;2.47;;;-0.6;0
-presenca;total;template_modelo;pouco_conhecidos|claude;Douro;0.0979;;;0.0081;9.15;;;9.0;90
-presenca;total;template_modelo;pouco_conhecidos|claude;Terras de Trás-os-Montes;0.0486;;;0.0041;10.89;;;4.4;45
+presenca;total;template_modelo;pouco_conhecidos|claude;Douro;0.0984;;;0.0081;9.18;;;9.0;90
+presenca;total;template_modelo;pouco_conhecidos|claude;Terras de Trás-os-Montes;0.049;;;0.0041;10.95;;;4.5;45
 presenca;total;template_modelo;pouco_conhecidos|claude;Região de Aveiro;0.0;;;0.0133;1.14;;;-1.3;0
-presenca;total;template_modelo;pouco_conhecidos|claude;Região de Coimbra;0.1092;;;0.0232;3.51;;;8.6;100
+presenca;total;template_modelo;pouco_conhecidos|claude;Região de Coimbra;0.1096;;;0.0232;3.52;;;8.6;100
 presenca;total;template_modelo;pouco_conhecidos|claude;Região de Leiria;0.0;;;0.0104;1.46;;;-1.0;0
 presenca;total;template_modelo;pouco_conhecidos|claude;Viseu Dão Lafões;0.0;;;0.0078;1.95;;;-0.8;0
-presenca;total;template_modelo;pouco_conhecidos|claude;Beira Baixa;0.0902;;;0.004;17.66;;;8.6;85
-presenca;total;template_modelo;pouco_conhecidos|claude;Beiras e Serra da Estrela;0.0918;;;0.0119;5.96;;;8.0;85
+presenca;total;template_modelo;pouco_conhecidos|claude;Beira Baixa;0.0907;;;0.004;17.73;;;8.7;85
+presenca;total;template_modelo;pouco_conhecidos|claude;Beiras e Serra da Estrela;0.0923;;;0.0119;5.98;;;8.0;85
 presenca;total;template_modelo;pouco_conhecidos|claude;Oeste;0.0;;;0.025;0.61;;;-2.5;0
-presenca;total;template_modelo;pouco_conhecidos|claude;Médio Tejo;0.0045;;;0.0186;0.96;;;-1.4;5
+presenca;total;template_modelo;pouco_conhecidos|claude;Médio Tejo;0.0;;;0.0186;0.81;;;-1.9;0
 presenca;total;template_modelo;pouco_conhecidos|claude;Lezíria do Tejo;0.0;;;0.0037;4.11;;;-0.4;0
 presenca;total;template_modelo;pouco_conhecidos|claude;Grande Lisboa;0.0;;;0.224;0.07;;;-22.4;0
 presenca;total;template_modelo;pouco_conhecidos|claude;Península de Setúbal;0.0;;;0.0271;0.56;;;-2.7;0
 presenca;total;template_modelo;pouco_conhecidos|claude;Alentejo Litoral;0.0656;;;0.0251;2.19;;;4.1;60
-presenca;total;template_modelo;pouco_conhecidos|claude;Baixo Alentejo;0.0902;;;0.0067;10.5;;;8.4;85
+presenca;total;template_modelo;pouco_conhecidos|claude;Baixo Alentejo;0.0907;;;0.0067;10.54;;;8.4;85
 presenca;total;template_modelo;pouco_conhecidos|claude;Alto Alentejo;0.059;;;0.0063;8.08;;;5.3;55
 presenca;total;template_modelo;pouco_conhecidos|claude;Alentejo Central;0.0295;;;0.0135;2.45;;;1.6;25
-presenca;total;template_modelo;pouco_conhecidos|claude;Algarve;0.0931;;;0.2565;0.28;;;-16.3;85
-presenca;total;template_modelo;pouco_conhecidos|claude;Região Autónoma dos Açores;0.0759;;;0.035;1.75;;;4.1;70
+presenca;total;template_modelo;pouco_conhecidos|claude;Algarve;0.0935;;;0.2565;0.28;;;-16.3;85
+presenca;total;template_modelo;pouco_conhecidos|claude;Região Autónoma dos Açores;0.0764;;;0.035;1.75;;;4.1;70
 presenca;total;template_modelo;pouco_conhecidos|claude;Região Autónoma da Madeira;0.0;;;0.1113;0.14;;;-11.1;0
 presenca;lingua;template_modelo;pouco_conhecidos|gemini;Alto Minho;0.0472;;;0.0125;3.5;;;3.5;45
 presenca;lingua;template_modelo;pouco_conhecidos|gemini;Cávado;0.0596;;;0.0137;3.74;;;4.6;60
@@ -2599,57 +2599,57 @@ presenca;total;template_lang;pouco_conhecidos|fr;Alentejo Central;0.0341;;;0.013
 presenca;total;template_lang;pouco_conhecidos|fr;Algarve;0.0783;;;0.2565;0.23;;;-17.8;73
 presenca;total;template_lang;pouco_conhecidos|fr;Região Autónoma dos Açores;0.1064;;;0.035;2.14;;;7.1;100
 presenca;total;template_lang;pouco_conhecidos|fr;Região Autónoma da Madeira;0.0133;;;0.1113;0.22;;;-9.8;13
-presenca;lingua;template_lang;pouco_conhecidos|pt;Alto Minho;0.0499;;;0.0241;1.85;;;2.6;47
+presenca;lingua;template_lang;pouco_conhecidos|pt;Alto Minho;0.0506;;;0.0241;1.86;;;2.6;47
 presenca;lingua;template_lang;pouco_conhecidos|pt;Cávado;0.0;;;0.023;0.78;;;-2.3;0
 presenca;lingua;template_lang;pouco_conhecidos|pt;Ave;0.0;;;0.0149;1.2;;;-1.5;0
-presenca;lingua;template_lang;pouco_conhecidos|pt;Área Metropolitana do Porto;0.0061;;;0.0962;0.22;;;-9.0;7
+presenca;lingua;template_lang;pouco_conhecidos|pt;Área Metropolitana do Porto;0.0067;;;0.0962;0.22;;;-9.0;7
 presenca;lingua;template_lang;pouco_conhecidos|pt;Alto Tâmega e Barroso;0.0317;;;0.0113;3.1;;;2.0;27
 presenca;lingua;template_lang;pouco_conhecidos|pt;Tâmega e Sousa;0.0;;;0.0125;1.43;;;-1.2;0
-presenca;lingua;template_lang;pouco_conhecidos|pt;Douro;0.0991;;;0.0136;5.21;;;8.5;87
-presenca;lingua;template_lang;pouco_conhecidos|pt;Terras de Trás-os-Montes;0.1079;;;0.009;8.39;;;9.9;93
+presenca;lingua;template_lang;pouco_conhecidos|pt;Douro;0.0997;;;0.0136;5.24;;;8.6;87
+presenca;lingua;template_lang;pouco_conhecidos|pt;Terras de Trás-os-Montes;0.1085;;;0.009;8.43;;;9.9;93
 presenca;lingua;template_lang;pouco_conhecidos|pt;Região de Aveiro;0.0;;;0.0229;0.78;;;-2.3;0
-presenca;lingua;template_lang;pouco_conhecidos|pt;Região de Coimbra;0.0583;;;0.0425;1.16;;;1.6;53
+presenca;lingua;template_lang;pouco_conhecidos|pt;Região de Coimbra;0.0589;;;0.0425;1.16;;;1.6;53
 presenca;lingua;template_lang;pouco_conhecidos|pt;Região de Leiria;0.0;;;0.0232;0.77;;;-2.3;0
 presenca;lingua;template_lang;pouco_conhecidos|pt;Viseu Dão Lafões;0.0522;;;0.0195;2.35;;;3.3;47
-presenca;lingua;template_lang;pouco_conhecidos|pt;Beira Baixa;0.0921;;;0.0089;7.52;;;8.3;80
-presenca;lingua;template_lang;pouco_conhecidos|pt;Beiras e Serra da Estrela;0.0929;;;0.0306;2.21;;;6.2;80
+presenca;lingua;template_lang;pouco_conhecidos|pt;Beira Baixa;0.0928;;;0.0089;7.55;;;8.4;80
+presenca;lingua;template_lang;pouco_conhecidos|pt;Beiras e Serra da Estrela;0.0935;;;0.0306;2.22;;;6.3;80
 presenca;lingua;template_lang;pouco_conhecidos|pt;Oeste;0.0;;;0.0427;0.42;;;-4.3;0
-presenca;lingua;template_lang;pouco_conhecidos|pt;Médio Tejo;0.0135;;;0.0242;1.03;;;-1.1;13
+presenca;lingua;template_lang;pouco_conhecidos|pt;Médio Tejo;0.0074;;;0.0242;0.9;;;-1.7;7
 presenca;lingua;template_lang;pouco_conhecidos|pt;Lezíria do Tejo;0.0;;;0.0087;2.06;;;-0.9;0
 presenca;lingua;template_lang;pouco_conhecidos|pt;Grande Lisboa;0.0;;;0.1306;0.14;;;-13.1;0
 presenca;lingua;template_lang;pouco_conhecidos|pt;Península de Setúbal;0.0074;;;0.0494;0.44;;;-4.2;7
 presenca;lingua;template_lang;pouco_conhecidos|pt;Alentejo Litoral;0.0;;;0.049;0.36;;;-4.9;0
-presenca;lingua;template_lang;pouco_conhecidos|pt;Baixo Alentejo;0.107;;;0.0146;5.15;;;9.2;93
+presenca;lingua;template_lang;pouco_conhecidos|pt;Baixo Alentejo;0.1076;;;0.0146;5.17;;;9.3;93
 presenca;lingua;template_lang;pouco_conhecidos|pt;Alto Alentejo;0.0074;;;0.0153;1.43;;;-0.8;7
 presenca;lingua;template_lang;pouco_conhecidos|pt;Alentejo Central;0.0224;;;0.0254;1.18;;;-0.3;20
-presenca;lingua;template_lang;pouco_conhecidos|pt;Algarve;0.1058;;;0.1926;0.39;;;-8.7;93
-presenca;lingua;template_lang;pouco_conhecidos|pt;Região Autónoma dos Açores;0.1153;;;0.0373;2.13;;;7.8;100
+presenca;lingua;template_lang;pouco_conhecidos|pt;Algarve;0.1064;;;0.1926;0.39;;;-8.6;93
+presenca;lingua;template_lang;pouco_conhecidos|pt;Região Autónoma dos Açores;0.1159;;;0.0373;2.14;;;7.9;100
 presenca;lingua;template_lang;pouco_conhecidos|pt;Região Autónoma da Madeira;0.031;;;0.0581;0.59;;;-2.7;27
-presenca;total;template_lang;pouco_conhecidos|pt;Alto Minho;0.0499;;;0.0137;3.25;;;3.6;47
+presenca;total;template_lang;pouco_conhecidos|pt;Alto Minho;0.0506;;;0.0137;3.27;;;3.7;47
 presenca;total;template_lang;pouco_conhecidos|pt;Cávado;0.0;;;0.0147;1.21;;;-1.5;0
 presenca;total;template_lang;pouco_conhecidos|pt;Ave;0.0;;;0.0082;2.17;;;-0.8;0
-presenca;total;template_lang;pouco_conhecidos|pt;Área Metropolitana do Porto;0.0061;;;0.117;0.18;;;-11.1;7
+presenca;total;template_lang;pouco_conhecidos|pt;Área Metropolitana do Porto;0.0067;;;0.117;0.18;;;-11.0;7
 presenca;total;template_lang;pouco_conhecidos|pt;Alto Tâmega e Barroso;0.0317;;;0.0048;7.3;;;2.7;27
 presenca;total;template_lang;pouco_conhecidos|pt;Tâmega e Sousa;0.0;;;0.0061;2.91;;;-0.6;0
-presenca;total;template_lang;pouco_conhecidos|pt;Douro;0.0991;;;0.0081;8.71;;;9.1;87
-presenca;total;template_lang;pouco_conhecidos|pt;Terras de Trás-os-Montes;0.1079;;;0.0041;18.47;;;10.4;93
+presenca;total;template_lang;pouco_conhecidos|pt;Douro;0.0997;;;0.0081;8.75;;;9.2;87
+presenca;total;template_lang;pouco_conhecidos|pt;Terras de Trás-os-Montes;0.1085;;;0.0041;18.55;;;10.4;93
 presenca;total;template_lang;pouco_conhecidos|pt;Região de Aveiro;0.0;;;0.0133;1.34;;;-1.3;0
-presenca;total;template_lang;pouco_conhecidos|pt;Região de Coimbra;0.0583;;;0.0232;2.12;;;3.5;53
+presenca;total;template_lang;pouco_conhecidos|pt;Região de Coimbra;0.0589;;;0.0232;2.13;;;3.6;53
 presenca;total;template_lang;pouco_conhecidos|pt;Região de Leiria;0.0;;;0.0104;1.72;;;-1.0;0
 presenca;total;template_lang;pouco_conhecidos|pt;Viseu Dão Lafões;0.0522;;;0.0078;5.91;;;4.4;47
-presenca;total;template_lang;pouco_conhecidos|pt;Beira Baixa;0.0921;;;0.004;16.99;;;8.8;80
-presenca;total;template_lang;pouco_conhecidos|pt;Beiras e Serra da Estrela;0.0929;;;0.0119;5.69;;;8.1;80
+presenca;total;template_lang;pouco_conhecidos|pt;Beira Baixa;0.0928;;;0.004;17.08;;;8.9;80
+presenca;total;template_lang;pouco_conhecidos|pt;Beiras e Serra da Estrela;0.0935;;;0.0119;5.72;;;8.2;80
 presenca;total;template_lang;pouco_conhecidos|pt;Oeste;0.0;;;0.025;0.71;;;-2.5;0
-presenca;total;template_lang;pouco_conhecidos|pt;Médio Tejo;0.0135;;;0.0186;1.35;;;-0.5;13
+presenca;total;template_lang;pouco_conhecidos|pt;Médio Tejo;0.0074;;;0.0186;1.17;;;-1.1;7
 presenca;total;template_lang;pouco_conhecidos|pt;Lezíria do Tejo;0.0;;;0.0037;4.85;;;-0.4;0
 presenca;total;template_lang;pouco_conhecidos|pt;Grande Lisboa;0.0;;;0.224;0.08;;;-22.4;0
 presenca;total;template_lang;pouco_conhecidos|pt;Península de Setúbal;0.0074;;;0.0271;0.8;;;-2.0;7
 presenca;total;template_lang;pouco_conhecidos|pt;Alentejo Litoral;0.0;;;0.0251;0.71;;;-2.5;0
-presenca;total;template_lang;pouco_conhecidos|pt;Baixo Alentejo;0.107;;;0.0067;11.3;;;10.0;93
+presenca;total;template_lang;pouco_conhecidos|pt;Baixo Alentejo;0.1076;;;0.0067;11.35;;;10.1;93
 presenca;total;template_lang;pouco_conhecidos|pt;Alto Alentejo;0.0074;;;0.0063;3.46;;;0.1;7
 presenca;total;template_lang;pouco_conhecidos|pt;Alentejo Central;0.0224;;;0.0135;2.22;;;0.9;20
-presenca;total;template_lang;pouco_conhecidos|pt;Algarve;0.1058;;;0.2565;0.29;;;-15.1;93
-presenca;total;template_lang;pouco_conhecidos|pt;Região Autónoma dos Açores;0.1153;;;0.035;2.27;;;8.0;100
+presenca;total;template_lang;pouco_conhecidos|pt;Algarve;0.1064;;;0.2565;0.29;;;-15.0;93
+presenca;total;template_lang;pouco_conhecidos|pt;Região Autónoma dos Açores;0.1159;;;0.035;2.28;;;8.1;100
 presenca;total;template_lang;pouco_conhecidos|pt;Região Autónoma da Madeira;0.031;;;0.1113;0.31;;;-8.0;27
 presenca;lingua;template_modelo;roteiro|claude;Alto Minho;0.0;;;0.0125;1.21;;;-1.3;0
 presenca;lingua;template_modelo;roteiro|claude;Cávado;0.0718;;;0.0137;4.28;;;5.8;50
@@ -3385,16 +3385,16 @@ posicao;lingua;total;todos;Ave;0.018;;;0.0074;2.49;;;1.1;19
 posicao;lingua;total;todos;Área Metropolitana do Porto;0.0987;0.0885;0.1091;0.1195;0.81;0.75;0.89;-2.1;75
 posicao;lingua;total;todos;Alto Tâmega e Barroso;0.0057;;;0.004;1.64;;;0.2;4
 posicao;lingua;total;todos;Tâmega e Sousa;0.0002;;;0.0054;0.22;;;-0.5;0
-posicao;lingua;total;todos;Douro;0.0904;0.0808;0.0999;0.0075;11.87;9.3;15.58;8.3;70
-posicao;lingua;total;todos;Terras de Trás-os-Montes;0.0247;;;0.0035;7.12;;;2.1;18
+posicao;lingua;total;todos;Douro;0.0905;0.0808;0.0999;0.0075;11.87;9.3;15.58;8.3;70
+posicao;lingua;total;todos;Terras de Trás-os-Montes;0.0247;;;0.0035;7.13;;;2.1;18
 posicao;lingua;total;todos;Região de Aveiro;0.019;;;0.0122;1.6;;;0.7;21
 posicao;lingua;total;todos;Região de Coimbra;0.0542;0.0451;0.0637;0.0209;2.57;1.78;3.85;3.3;52
 posicao;lingua;total;todos;Região de Leiria;0.0072;;;0.0089;0.9;;;-0.2;10
 posicao;lingua;total;todos;Viseu Dão Lafões;0.0132;;;0.0064;2.18;;;0.7;15
-posicao;lingua;total;todos;Beira Baixa;0.0134;;;0.0034;4.16;;;1.0;11
+posicao;lingua;total;todos;Beira Baixa;0.0134;;;0.0034;4.17;;;1.0;11
 posicao;lingua;total;todos;Beiras e Serra da Estrela;0.0383;;;0.0097;3.96;;;2.9;39
 posicao;lingua;total;todos;Oeste;0.0479;0.0389;0.0567;0.0229;2.08;1.51;2.86;2.5;51
-posicao;lingua;total;todos;Médio Tejo;0.0121;;;0.0179;0.71;;;-0.6;15
+posicao;lingua;total;todos;Médio Tejo;0.0119;;;0.0179;0.7;;;-0.6;15
 posicao;lingua;total;todos;Lezíria do Tejo;0.0009;;;0.0031;0.62;;;-0.2;1
 posicao;lingua;total;todos;Grande Lisboa;0.1576;0.1425;0.1716;0.2349;0.66;0.58;0.77;-7.7;75
 posicao;lingua;total;todos;Península de Setúbal;0.0174;;;0.0245;0.73;;;-0.7;23
@@ -3403,33 +3403,33 @@ posicao;lingua;total;todos;Baixo Alentejo;0.0088;;;0.0057;1.68;;;0.3;11
 posicao;lingua;total;todos;Alto Alentejo;0.0065;;;0.0052;1.39;;;0.1;8
 posicao;lingua;total;todos;Alentejo Central;0.055;0.0494;0.0615;0.0121;4.52;3.15;6.78;4.3;58
 posicao;lingua;total;todos;Algarve;0.0841;0.0752;0.0934;0.264;0.31;0.28;0.35;-18.0;67
-posicao;lingua;total;todos;Região Autónoma dos Açores;0.0624;;;0.0348;1.78;;;2.8;73
+posicao;lingua;total;todos;Região Autónoma dos Açores;0.0625;;;0.0348;1.78;;;2.8;73
 posicao;lingua;total;todos;Região Autónoma da Madeira;0.0663;0.0594;0.0737;0.1175;0.56;0.47;0.69;-5.1;60
 posicao;total;total;todos;Alto Minho;0.0152;;;0.0137;1.15;;;0.1;15
 posicao;total;total;todos;Cávado;0.0562;;;0.0147;3.79;;;4.1;47
 posicao;total;total;todos;Ave;0.018;;;0.0082;2.25;;;1.0;19
-posicao;total;total;todos;Área Metropolitana do Porto;0.0987;0.0883;0.1092;0.117;0.83;0.74;0.92;-1.8;75
+posicao;total;total;todos;Área Metropolitana do Porto;0.0987;0.0884;0.1092;0.117;0.83;0.74;0.92;-1.8;75
 posicao;total;total;todos;Alto Tâmega e Barroso;0.0057;;;0.0048;1.38;;;0.1;4
 posicao;total;total;todos;Tâmega e Sousa;0.0002;;;0.0061;0.19;;;-0.6;0
-posicao;total;total;todos;Douro;0.0904;0.0804;0.0998;0.0081;10.94;9.74;12.06;8.2;70
-posicao;total;total;todos;Terras de Trás-os-Montes;0.0247;;;0.0041;6.11;;;2.1;18
+posicao;total;total;todos;Douro;0.0905;0.0804;0.0998;0.0081;10.94;9.74;12.06;8.2;70
+posicao;total;total;todos;Terras de Trás-os-Montes;0.0247;;;0.0041;6.12;;;2.1;18
 posicao;total;total;todos;Região de Aveiro;0.019;;;0.0133;1.47;;;0.6;21
 posicao;total;total;todos;Região de Coimbra;0.0542;0.0453;0.0636;0.0232;2.32;1.95;2.72;3.1;52
 posicao;total;total;todos;Região de Leiria;0.0072;;;0.0104;0.77;;;-0.3;10
 posicao;total;total;todos;Viseu Dão Lafões;0.0132;;;0.0078;1.79;;;0.5;15
-posicao;total;total;todos;Beira Baixa;0.0134;;;0.004;3.54;;;0.9;11
+posicao;total;total;todos;Beira Baixa;0.0134;;;0.004;3.55;;;0.9;11
 posicao;total;total;todos;Beiras e Serra da Estrela;0.0383;;;0.0119;3.23;;;2.6;39
 posicao;total;total;todos;Oeste;0.0479;0.0392;0.0571;0.025;1.91;1.57;2.26;2.3;51
-posicao;total;total;todos;Médio Tejo;0.0121;;;0.0186;0.69;;;-0.7;15
+posicao;total;total;todos;Médio Tejo;0.0119;;;0.0186;0.68;;;-0.7;15
 posicao;total;total;todos;Lezíria do Tejo;0.0009;;;0.0037;0.52;;;-0.3;1
 posicao;total;total;todos;Grande Lisboa;0.1576;0.1429;0.172;0.224;0.69;0.63;0.75;-6.6;75
 posicao;total;total;todos;Península de Setúbal;0.0174;;;0.0271;0.66;;;-1.0;23
 posicao;total;total;todos;Alentejo Litoral;0.0267;;;0.0251;1.08;;;0.2;29
-posicao;total;total;todos;Baixo Alentejo;0.0088;;;0.0067;1.44;;;0.2;11
+posicao;total;total;todos;Baixo Alentejo;0.0088;;;0.0067;1.45;;;0.2;11
 posicao;total;total;todos;Alto Alentejo;0.0065;;;0.0063;1.16;;;0.0;8
 posicao;total;total;todos;Alentejo Central;0.055;0.0495;0.0617;0.0135;4.05;3.66;4.54;4.2;58
-posicao;total;total;todos;Algarve;0.0841;0.0754;0.0937;0.2565;0.32;0.29;0.36;-17.2;67
-posicao;total;total;todos;Região Autónoma dos Açores;0.0624;;;0.035;1.76;;;2.7;73
+posicao;total;total;todos;Algarve;0.0841;0.0755;0.0937;0.2565;0.32;0.29;0.36;-17.2;67
+posicao;total;total;todos;Região Autónoma dos Açores;0.0625;;;0.035;1.76;;;2.7;73
 posicao;total;total;todos;Região Autónoma da Madeira;0.0663;0.0593;0.0732;0.1113;0.59;0.53;0.65;-4.5;60
 posicao;lingua;template;cultura;Alto Minho;0.0;0.0;0.0;0.0125;0.55;0.42;0.79;-1.3;0
 posicao;lingua;template;cultura;Cávado;0.0568;0.041;0.0707;0.0137;3.9;2.76;5.41;4.3;75
@@ -3691,57 +3691,57 @@ posicao;total;template;natureza;Alentejo Central;0.0178;0.0054;0.0319;0.0135;1.6
 posicao;total;template;natureza;Algarve;0.0779;0.074;0.0815;0.2565;0.28;0.26;0.29;-17.9;100
 posicao;total;template;natureza;Região Autónoma dos Açores;0.1343;0.1056;0.1654;0.035;3.35;2.67;4.08;9.9;100
 posicao;total;template;natureza;Região Autónoma da Madeira;0.1135;0.0982;0.128;0.1113;0.9;0.79;1.01;0.2;100
-posicao;lingua;template;pouco_conhecidos;Alto Minho;0.045;0.0231;0.0681;0.0125;3.5;2.01;5.46;3.2;38
+posicao;lingua;template;pouco_conhecidos;Alto Minho;0.0451;0.0231;0.0684;0.0125;3.51;2.02;5.48;3.3;38
 posicao;lingua;template;pouco_conhecidos;Cávado;0.0518;0.0159;0.0977;0.0137;3.6;1.31;7.12;3.8;35
 posicao;lingua;template;pouco_conhecidos;Ave;0.0015;0.0;0.0061;0.0074;1.09;0.69;1.83;-0.6;2
-posicao;lingua;template;pouco_conhecidos;Área Metropolitana do Porto;0.0037;0.0;0.0104;0.1195;0.08;0.06;0.13;-11.6;5
+posicao;lingua;template;pouco_conhecidos;Área Metropolitana do Porto;0.0038;0.0;0.0108;0.1195;0.08;0.06;0.13;-11.6;5
 posicao;lingua;template;pouco_conhecidos;Alto Tâmega e Barroso;0.0415;0.0187;0.0669;0.004;10.2;4.94;23.02;3.7;28
 posicao;lingua;template;pouco_conhecidos;Tâmega e Sousa;0.0;0.0;0.0;0.0054;1.27;0.88;1.79;-0.5;0
-posicao;lingua;template;pouco_conhecidos;Douro;0.0816;0.0547;0.1076;0.0075;9.85;7.1;13.59;7.4;70
-posicao;lingua;template;pouco_conhecidos;Terras de Trás-os-Montes;0.1313;0.0749;0.1855;0.0035;32.62;21.95;55.19;12.8;65
+posicao;lingua;template;pouco_conhecidos;Douro;0.0817;0.0548;0.1077;0.0075;9.86;7.11;13.59;7.4;70
+posicao;lingua;template;pouco_conhecidos;Terras de Trás-os-Montes;0.1315;0.0749;0.186;0.0035;32.68;22.01;55.19;12.8;65
 posicao;lingua;template;pouco_conhecidos;Região de Aveiro;0.0015;0.0;0.0061;0.0122;0.66;0.43;1.16;-1.1;2
-posicao;lingua;template;pouco_conhecidos;Região de Coimbra;0.0866;0.051;0.1233;0.0209;3.73;2.05;6.47;6.6;68
+posicao;lingua;template;pouco_conhecidos;Região de Coimbra;0.0867;0.051;0.1233;0.0209;3.74;2.05;6.47;6.6;68
 posicao;lingua;template;pouco_conhecidos;Região de Leiria;0.0;0.0;0.0;0.0089;0.77;0.5;1.2;-0.9;0
 posicao;lingua;template;pouco_conhecidos;Viseu Dão Lafões;0.0183;0.0016;0.0398;0.0064;3.43;1.6;6.28;1.2;17
-posicao;lingua;template;pouco_conhecidos;Beira Baixa;0.1034;0.0773;0.1336;0.0034;27.25;15.01;55.09;10.0;83
-posicao;lingua;template;pouco_conhecidos;Beiras e Serra da Estrela;0.0874;0.0693;0.1063;0.0097;8.13;4.32;20.63;7.8;88
+posicao;lingua;template;pouco_conhecidos;Beira Baixa;0.1036;0.0777;0.1337;0.0034;27.29;15.08;55.15;10.0;83
+posicao;lingua;template;pouco_conhecidos;Beiras e Serra da Estrela;0.0875;0.0693;0.1063;0.0097;8.14;4.33;20.63;7.8;88
 posicao;lingua;template;pouco_conhecidos;Oeste;0.0061;0.0;0.0162;0.0229;0.52;0.25;1.01;-1.7;8
-posicao;lingua;template;pouco_conhecidos;Médio Tejo;0.0123;0.0025;0.0255;0.0179;0.95;0.49;1.6;-0.6;15
+posicao;lingua;template;pouco_conhecidos;Médio Tejo;0.0111;0.0014;0.0237;0.0179;0.89;0.43;1.54;-0.7;13
 posicao;lingua;template;pouco_conhecidos;Lezíria do Tejo;0.0;0.0;0.0;0.0031;2.21;1.38;3.68;-0.3;0
 posicao;lingua;template;pouco_conhecidos;Grande Lisboa;0.0;0.0;0.0;0.2349;0.03;0.03;0.03;-23.5;0
 posicao;lingua;template;pouco_conhecidos;Península de Setúbal;0.0025;0.0;0.0078;0.0245;0.36;0.23;0.59;-2.2;3
 posicao;lingua;template;pouco_conhecidos;Alentejo Litoral;0.0445;0.0232;0.0664;0.0223;1.95;0.87;3.87;2.2;52
-posicao;lingua;template;pouco_conhecidos;Baixo Alentejo;0.0665;0.0552;0.0763;0.0057;10.75;7.22;18.07;6.1;85
+posicao;lingua;template;pouco_conhecidos;Baixo Alentejo;0.0665;0.0553;0.0764;0.0057;10.76;7.23;18.07;6.1;85
 posicao;lingua;template;pouco_conhecidos;Alto Alentejo;0.0439;0.025;0.0639;0.0052;8.19;3.34;21.69;3.9;53
 posicao;lingua;template;pouco_conhecidos;Alentejo Central;0.0315;0.0109;0.0651;0.0121;2.72;1.17;5.77;1.9;27
-posicao;lingua;template;pouco_conhecidos;Algarve;0.062;0.0473;0.0745;0.264;0.22;0.17;0.27;-20.2;80
-posicao;lingua;template;pouco_conhecidos;Região Autónoma dos Açores;0.0678;0.0508;0.0827;0.0348;1.8;1.41;2.14;3.3;87
+posicao;lingua;template;pouco_conhecidos;Algarve;0.0621;0.0473;0.0746;0.264;0.22;0.17;0.27;-20.2;80
+posicao;lingua;template;pouco_conhecidos;Região Autónoma dos Açores;0.0679;0.051;0.0827;0.0348;1.8;1.41;2.14;3.3;87
 posicao;lingua;template;pouco_conhecidos;Região Autónoma da Madeira;0.0092;0.0014;0.019;0.1175;0.12;0.07;0.21;-10.8;13
-posicao;total;template;pouco_conhecidos;Alto Minho;0.045;0.0241;0.0676;0.0137;3.19;1.94;4.54;3.1;38
+posicao;total;template;pouco_conhecidos;Alto Minho;0.0451;0.0242;0.0677;0.0137;3.2;1.95;4.55;3.1;38
 posicao;total;template;pouco_conhecidos;Cávado;0.0518;0.0151;0.0968;0.0147;3.36;1.31;5.88;3.7;35
 posicao;total;template;pouco_conhecidos;Ave;0.0015;0.0;0.0061;0.0082;0.98;0.83;1.44;-0.7;2
-posicao;total;template;pouco_conhecidos;Área Metropolitana do Porto;0.0037;0.0;0.0096;0.117;0.08;0.06;0.13;-11.3;5
+posicao;total;template;pouco_conhecidos;Área Metropolitana do Porto;0.0038;0.0;0.0098;0.117;0.09;0.06;0.13;-11.3;5
 posicao;total;template;pouco_conhecidos;Alto Tâmega e Barroso;0.0415;0.0175;0.0677;0.0048;8.57;4.45;13.08;3.7;28
 posicao;total;template;pouco_conhecidos;Tâmega e Sousa;0.0;0.0;0.0;0.0061;1.12;1.12;1.12;-0.6;0
-posicao;total;template;pouco_conhecidos;Douro;0.0816;0.0532;0.1061;0.0081;9.07;6.21;11.54;7.3;70
-posicao;total;template;pouco_conhecidos;Terras de Trás-os-Montes;0.1313;0.0716;0.1862;0.0041;28.02;16.05;39.04;12.7;65
+posicao;total;template;pouco_conhecidos;Douro;0.0817;0.0533;0.1065;0.0081;9.09;6.22;11.59;7.4;70
+posicao;total;template;pouco_conhecidos;Terras de Trás-os-Montes;0.1315;0.0719;0.1865;0.0041;28.07;16.11;39.11;12.7;65
 posicao;total;template;pouco_conhecidos;Região de Aveiro;0.0015;0.0;0.0076;0.0133;0.61;0.51;0.98;-1.2;2
-posicao;total;template;pouco_conhecidos;Região de Coimbra;0.0866;0.0527;0.125;0.0232;3.37;2.17;4.73;6.3;68
+posicao;total;template;pouco_conhecidos;Região de Coimbra;0.0867;0.0528;0.1252;0.0232;3.37;2.17;4.74;6.4;68
 posicao;total;template;pouco_conhecidos;Região de Leiria;0.0;0.0;0.0;0.0104;0.66;0.66;0.66;-1.0;0
 posicao;total;template;pouco_conhecidos;Viseu Dão Lafões;0.0183;0.0012;0.0396;0.0078;2.82;1.01;5.08;1.1;17
-posicao;total;template;pouco_conhecidos;Beira Baixa;0.1034;0.0783;0.1344;0.004;23.21;18.0;29.66;9.9;83
-posicao;total;template;pouco_conhecidos;Beiras e Serra da Estrela;0.0874;0.0702;0.106;0.0119;6.63;5.43;7.91;7.6;88
+posicao;total;template;pouco_conhecidos;Beira Baixa;0.1036;0.0783;0.1346;0.004;23.25;18.01;29.7;10.0;83
+posicao;total;template;pouco_conhecidos;Beiras e Serra da Estrela;0.0875;0.0703;0.1062;0.0119;6.63;5.44;7.92;7.6;88
 posicao;total;template;pouco_conhecidos;Oeste;0.0061;0.0;0.0171;0.025;0.48;0.27;0.84;-1.9;8
-posicao;total;template;pouco_conhecidos;Médio Tejo;0.0123;0.0014;0.0257;0.0186;0.91;0.43;1.5;-0.6;15
+posicao;total;template;pouco_conhecidos;Médio Tejo;0.0111;0.0011;0.0243;0.0186;0.86;0.42;1.44;-0.7;13
 posicao;total;template;pouco_conhecidos;Lezíria do Tejo;0.0;0.0;0.0;0.0037;1.86;1.86;1.86;-0.4;0
 posicao;total;template;pouco_conhecidos;Grande Lisboa;0.0;0.0;0.0;0.224;0.03;0.03;0.03;-22.4;0
 posicao;total;template;pouco_conhecidos;Península de Setúbal;0.0025;0.0;0.0078;0.0271;0.33;0.25;0.49;-2.5;3
 posicao;total;template;pouco_conhecidos;Alentejo Litoral;0.0445;0.0233;0.0697;0.0251;1.73;1.04;2.56;1.9;52
-posicao;total;template;pouco_conhecidos;Baixo Alentejo;0.0665;0.0552;0.0765;0.0067;9.24;7.84;10.48;6.0;85
+posicao;total;template;pouco_conhecidos;Baixo Alentejo;0.0665;0.0552;0.0766;0.0067;9.25;7.85;10.5;6.0;85
 posicao;total;template;pouco_conhecidos;Alto Alentejo;0.0439;0.0243;0.0636;0.0063;6.82;4.26;9.38;3.8;53
 posicao;total;template;pouco_conhecidos;Alentejo Central;0.0315;0.0108;0.0634;0.0135;2.43;1.17;4.38;1.8;27
-posicao;total;template;pouco_conhecidos;Algarve;0.062;0.0481;0.0745;0.2565;0.23;0.18;0.27;-19.5;80
-posicao;total;template;pouco_conhecidos;Região Autónoma dos Açores;0.0678;0.0508;0.0833;0.035;1.79;1.39;2.15;3.3;87
+posicao;total;template;pouco_conhecidos;Algarve;0.0621;0.0482;0.0746;0.2565;0.23;0.18;0.27;-19.4;80
+posicao;total;template;pouco_conhecidos;Região Autónoma dos Açores;0.0679;0.0508;0.0833;0.035;1.79;1.39;2.15;3.3;87
 posicao;total;template;pouco_conhecidos;Região Autónoma da Madeira;0.0092;0.0019;0.0178;0.1113;0.13;0.08;0.19;-10.2;13
 posicao;lingua;template;roteiro;Alto Minho;0.0;0.0;0.0;0.0125;0.55;0.42;0.79;-1.3;0
 posicao;lingua;template;roteiro;Cávado;0.0278;0.0114;0.0464;0.0137;2.16;1.22;3.32;1.4;28
@@ -5667,57 +5667,57 @@ posicao;total;template_lang;natureza|pt;Alentejo Central;0.0042;;;0.0135;1.5;;;-
 posicao;total;template_lang;natureza|pt;Algarve;0.0744;;;0.2565;0.22;;;-18.2;100
 posicao;total;template_lang;natureza|pt;Região Autónoma dos Açores;0.1085;;;0.035;2.17;;;7.3;100
 posicao;total;template_lang;natureza|pt;Região Autónoma da Madeira;0.1002;;;0.1113;0.64;;;-1.1;100
-posicao;lingua;template_modelo;pouco_conhecidos|claude;Alto Minho;0.0497;;;0.0125;3.62;;;3.7;45
+posicao;lingua;template_modelo;pouco_conhecidos|claude;Alto Minho;0.0501;;;0.0125;3.63;;;3.8;45
 posicao;lingua;template_modelo;pouco_conhecidos|claude;Cávado;0.0782;;;0.0137;4.56;;;6.4;45
 posicao;lingua;template_modelo;pouco_conhecidos|claude;Ave;0.0;;;0.0074;2.04;;;-0.7;0
-posicao;lingua;template_modelo;pouco_conhecidos|claude;Área Metropolitana do Porto;0.0078;0.0;0.0233;0.1195;0.17;0.12;0.27;-11.2;10
+posicao;lingua;template_modelo;pouco_conhecidos|claude;Área Metropolitana do Porto;0.0081;0.0;0.0243;0.1195;0.17;0.12;0.28;-11.1;10
 posicao;lingua;template_modelo;pouco_conhecidos|claude;Alto Tâmega e Barroso;0.0566;;;0.004;12.32;;;5.3;35
 posicao;lingua;template_modelo;pouco_conhecidos|claude;Tâmega e Sousa;0.0;;;0.0054;2.81;;;-0.5;0
-posicao;lingua;template_modelo;pouco_conhecidos|claude;Douro;0.1033;0.0725;0.1307;0.0075;10.36;7.36;15.48;9.6;90
-posicao;lingua;template_modelo;pouco_conhecidos|claude;Terras de Trás-os-Montes;0.0899;;;0.0035;19.8;;;8.6;45
+posicao;lingua;template_modelo;pouco_conhecidos|claude;Douro;0.1038;0.0726;0.1318;0.0075;10.4;7.44;15.48;9.6;90
+posicao;lingua;template_modelo;pouco_conhecidos|claude;Terras de Trás-os-Montes;0.0907;;;0.0035;19.93;;;8.7;45
 posicao;lingua;template_modelo;pouco_conhecidos|claude;Região de Aveiro;0.0;;;0.0122;1.24;;;-1.2;0
-posicao;lingua;template_modelo;pouco_conhecidos|claude;Região de Coimbra;0.1284;0.0962;0.1662;0.0209;4.45;2.18;8.34;10.7;100
+posicao;lingua;template_modelo;pouco_conhecidos|claude;Região de Coimbra;0.1287;0.097;0.1662;0.0209;4.46;2.19;8.34;10.8;100
 posicao;lingua;template_modelo;pouco_conhecidos|claude;Região de Leiria;0.0;;;0.0089;1.71;;;-0.9;0
 posicao;lingua;template_modelo;pouco_conhecidos|claude;Viseu Dão Lafões;0.0;;;0.0064;2.38;;;-0.6;0
-posicao;lingua;template_modelo;pouco_conhecidos|claude;Beira Baixa;0.0915;;;0.0034;20.95;;;8.8;85
-posicao;lingua;template_modelo;pouco_conhecidos|claude;Beiras e Serra da Estrela;0.0793;;;0.0097;6.53;;;7.0;85
+posicao;lingua;template_modelo;pouco_conhecidos|claude;Beira Baixa;0.092;;;0.0034;21.04;;;8.9;85
+posicao;lingua;template_modelo;pouco_conhecidos|claude;Beiras e Serra da Estrela;0.0795;;;0.0097;6.54;;;7.0;85
 posicao;lingua;template_modelo;pouco_conhecidos|claude;Oeste;0.0;0.0;0.0;0.0229;0.66;0.42;0.93;-2.3;0
-posicao;lingua;template_modelo;pouco_conhecidos|claude;Médio Tejo;0.0037;;;0.0179;0.97;;;-1.4;5
+posicao;lingua;template_modelo;pouco_conhecidos|claude;Médio Tejo;0.0;;;0.0179;0.84;;;-1.8;0
 posicao;lingua;template_modelo;pouco_conhecidos|claude;Lezíria do Tejo;0.0;;;0.0031;4.89;;;-0.3;0
 posicao;lingua;template_modelo;pouco_conhecidos|claude;Grande Lisboa;0.0;0.0;0.0;0.2349;0.06;0.06;0.09;-23.5;0
 posicao;lingua;template_modelo;pouco_conhecidos|claude;Península de Setúbal;0.0;;;0.0245;0.62;;;-2.5;0
 posicao;lingua;template_modelo;pouco_conhecidos|claude;Alentejo Litoral;0.0462;;;0.0223;1.94;;;2.4;60
-posicao;lingua;template_modelo;pouco_conhecidos|claude;Baixo Alentejo;0.0644;;;0.0057;9.48;;;5.9;85
+posicao;lingua;template_modelo;pouco_conhecidos|claude;Baixo Alentejo;0.0647;;;0.0057;9.5;;;5.9;85
 posicao;lingua;template_modelo;pouco_conhecidos|claude;Alto Alentejo;0.0412;;;0.0052;7.65;;;3.6;55
 posicao;lingua;template_modelo;pouco_conhecidos|claude;Alentejo Central;0.0476;0.0;0.1291;0.0121;3.65;0.83;11.53;3.6;25
-posicao;lingua;template_modelo;pouco_conhecidos|claude;Algarve;0.0649;0.037;0.0867;0.264;0.21;0.14;0.28;-19.9;85
-posicao;lingua;template_modelo;pouco_conhecidos|claude;Região Autónoma dos Açores;0.0475;;;0.0348;1.26;;;1.3;70
+posicao;lingua;template_modelo;pouco_conhecidos|claude;Algarve;0.0651;0.0372;0.0869;0.264;0.21;0.14;0.28;-19.9;85
+posicao;lingua;template_modelo;pouco_conhecidos|claude;Região Autónoma dos Açores;0.0477;;;0.0348;1.27;;;1.3;70
 posicao;lingua;template_modelo;pouco_conhecidos|claude;Região Autónoma da Madeira;0.0;0.0;0.0;0.1175;0.13;0.11;0.19;-11.8;0
-posicao;total;template_modelo;pouco_conhecidos|claude;Alto Minho;0.0497;;;0.0137;3.29;;;3.6;45
+posicao;total;template_modelo;pouco_conhecidos|claude;Alto Minho;0.0501;;;0.0137;3.31;;;3.6;45
 posicao;total;template_modelo;pouco_conhecidos|claude;Cávado;0.0782;;;0.0147;4.25;;;6.3;45
 posicao;total;template_modelo;pouco_conhecidos|claude;Ave;0.0;;;0.0082;1.84;;;-0.8;0
-posicao;total;template_modelo;pouco_conhecidos|claude;Área Metropolitana do Porto;0.0078;0.0;0.0223;0.117;0.17;0.13;0.25;-10.9;10
+posicao;total;template_modelo;pouco_conhecidos|claude;Área Metropolitana do Porto;0.0081;0.0;0.024;0.117;0.17;0.13;0.25;-10.9;10
 posicao;total;template_modelo;pouco_conhecidos|claude;Alto Tâmega e Barroso;0.0566;;;0.0048;10.36;;;5.2;35
 posicao;total;template_modelo;pouco_conhecidos|claude;Tâmega e Sousa;0.0;;;0.0061;2.47;;;-0.6;0
-posicao;total;template_modelo;pouco_conhecidos|claude;Douro;0.1033;0.0738;0.13;0.0081;9.55;7.35;11.53;9.5;90
-posicao;total;template_modelo;pouco_conhecidos|claude;Terras de Trás-os-Montes;0.0899;;;0.0041;17.01;;;8.6;45
+posicao;total;template_modelo;pouco_conhecidos|claude;Douro;0.1038;0.0739;0.1306;0.0081;9.58;7.36;11.57;9.6;90
+posicao;total;template_modelo;pouco_conhecidos|claude;Terras de Trás-os-Montes;0.0907;;;0.0041;17.12;;;8.7;45
 posicao;total;template_modelo;pouco_conhecidos|claude;Região de Aveiro;0.0;;;0.0133;1.14;;;-1.3;0
-posicao;total;template_modelo;pouco_conhecidos|claude;Região de Coimbra;0.1284;0.097;0.1659;0.0232;4.01;3.19;4.99;10.5;100
+posicao;total;template_modelo;pouco_conhecidos|claude;Região de Coimbra;0.1287;0.0975;0.1659;0.0232;4.02;3.21;4.99;10.5;100
 posicao;total;template_modelo;pouco_conhecidos|claude;Região de Leiria;0.0;;;0.0104;1.46;;;-1.0;0
 posicao;total;template_modelo;pouco_conhecidos|claude;Viseu Dão Lafões;0.0;;;0.0078;1.95;;;-0.8;0
-posicao;total;template_modelo;pouco_conhecidos|claude;Beira Baixa;0.0915;;;0.004;17.85;;;8.8;85
-posicao;total;template_modelo;pouco_conhecidos|claude;Beiras e Serra da Estrela;0.0793;;;0.0119;5.32;;;6.7;85
+posicao;total;template_modelo;pouco_conhecidos|claude;Beira Baixa;0.092;;;0.004;17.93;;;8.8;85
+posicao;total;template_modelo;pouco_conhecidos|claude;Beiras e Serra da Estrela;0.0795;;;0.0119;5.33;;;6.8;85
 posicao;total;template_modelo;pouco_conhecidos|claude;Oeste;0.0;0.0;0.0;0.025;0.61;0.61;0.61;-2.5;0
-posicao;total;template_modelo;pouco_conhecidos|claude;Médio Tejo;0.0037;;;0.0186;0.93;;;-1.5;5
+posicao;total;template_modelo;pouco_conhecidos|claude;Médio Tejo;0.0;;;0.0186;0.81;;;-1.9;0
 posicao;total;template_modelo;pouco_conhecidos|claude;Lezíria do Tejo;0.0;;;0.0037;4.11;;;-0.4;0
 posicao;total;template_modelo;pouco_conhecidos|claude;Grande Lisboa;0.0;0.0;0.0;0.224;0.07;0.07;0.07;-22.4;0
 posicao;total;template_modelo;pouco_conhecidos|claude;Península de Setúbal;0.0;;;0.0271;0.56;;;-2.7;0
 posicao;total;template_modelo;pouco_conhecidos|claude;Alentejo Litoral;0.0462;;;0.0251;1.72;;;2.1;60
-posicao;total;template_modelo;pouco_conhecidos|claude;Baixo Alentejo;0.0644;;;0.0067;8.15;;;5.8;85
+posicao;total;template_modelo;pouco_conhecidos|claude;Baixo Alentejo;0.0647;;;0.0067;8.17;;;5.8;85
 posicao;total;template_modelo;pouco_conhecidos|claude;Alto Alentejo;0.0412;;;0.0063;6.37;;;3.5;55
 posicao;total;template_modelo;pouco_conhecidos|claude;Alentejo Central;0.0476;0.0;0.1314;0.0135;3.27;1.13;7.04;3.4;25
-posicao;total;template_modelo;pouco_conhecidos|claude;Algarve;0.0649;0.0387;0.0864;0.2565;0.21;0.15;0.26;-19.2;85
-posicao;total;template_modelo;pouco_conhecidos|claude;Região Autónoma dos Açores;0.0475;;;0.035;1.25;;;1.2;70
+posicao;total;template_modelo;pouco_conhecidos|claude;Algarve;0.0651;0.0387;0.0869;0.2565;0.21;0.15;0.26;-19.1;85
+posicao;total;template_modelo;pouco_conhecidos|claude;Região Autónoma dos Açores;0.0477;;;0.035;1.26;;;1.3;70
 posicao;total;template_modelo;pouco_conhecidos|claude;Região Autónoma da Madeira;0.0;0.0;0.0;0.1113;0.14;0.14;0.14;-11.1;0
 posicao;lingua;template_modelo;pouco_conhecidos|gemini;Alto Minho;0.0394;;;0.0125;3.12;;;2.7;45
 posicao;lingua;template_modelo;pouco_conhecidos|gemini;Cávado;0.0772;;;0.0137;4.51;;;6.3;60
@@ -5979,57 +5979,57 @@ posicao;total;template_lang;pouco_conhecidos|fr;Alentejo Central;0.0316;;;0.0135
 posicao;total;template_lang;pouco_conhecidos|fr;Algarve;0.0576;;;0.2565;0.19;;;-19.9;73
 posicao;total;template_lang;pouco_conhecidos|fr;Região Autónoma dos Açores;0.0842;;;0.035;1.8;;;4.9;100
 posicao;total;template_lang;pouco_conhecidos|fr;Região Autónoma da Madeira;0.0089;;;0.1113;0.2;;;-10.2;13
-posicao;lingua;template_lang;pouco_conhecidos|pt;Alto Minho;0.0547;;;0.0241;1.95;;;3.1;47
+posicao;lingua;template_lang;pouco_conhecidos|pt;Alto Minho;0.0552;;;0.0241;1.96;;;3.1;47
 posicao;lingua;template_lang;pouco_conhecidos|pt;Cávado;0.0;;;0.023;0.78;;;-2.3;0
 posicao;lingua;template_lang;pouco_conhecidos|pt;Ave;0.0;;;0.0149;1.2;;;-1.5;0
-posicao;lingua;template_lang;pouco_conhecidos|pt;Área Metropolitana do Porto;0.006;;;0.0962;0.22;;;-9.0;7
+posicao;lingua;template_lang;pouco_conhecidos|pt;Área Metropolitana do Porto;0.0064;;;0.0962;0.22;;;-9.0;7
 posicao;lingua;template_lang;pouco_conhecidos|pt;Alto Tâmega e Barroso;0.0478;;;0.0113;3.86;;;3.7;27
 posicao;lingua;template_lang;pouco_conhecidos|pt;Tâmega e Sousa;0.0;;;0.0125;1.43;;;-1.2;0
-posicao;lingua;template_lang;pouco_conhecidos|pt;Douro;0.1099;;;0.0136;5.64;;;9.6;87
-posicao;lingua;template_lang;pouco_conhecidos|pt;Terras de Trás-os-Montes;0.2304;;;0.009;15.67;;;22.1;93
+posicao;lingua;template_lang;pouco_conhecidos|pt;Douro;0.1106;;;0.0136;5.67;;;9.7;87
+posicao;lingua;template_lang;pouco_conhecidos|pt;Terras de Trás-os-Montes;0.2315;;;0.009;15.74;;;22.2;93
 posicao;lingua;template_lang;pouco_conhecidos|pt;Região de Aveiro;0.0;;;0.0229;0.78;;;-2.3;0
-posicao;lingua;template_lang;pouco_conhecidos|pt;Região de Coimbra;0.0503;;;0.0425;1.05;;;0.8;53
+posicao;lingua;template_lang;pouco_conhecidos|pt;Região de Coimbra;0.0507;;;0.0425;1.06;;;0.8;53
 posicao;lingua;template_lang;pouco_conhecidos|pt;Região de Leiria;0.0;;;0.0232;0.77;;;-2.3;0
 posicao;lingua;template_lang;pouco_conhecidos|pt;Viseu Dão Lafões;0.0541;;;0.0195;2.4;;;3.5;47
-posicao;lingua;template_lang;pouco_conhecidos|pt;Beira Baixa;0.0759;;;0.0089;6.55;;;6.7;80
-posicao;lingua;template_lang;pouco_conhecidos|pt;Beiras e Serra da Estrela;0.0805;;;0.0306;1.99;;;5.0;80
+posicao;lingua;template_lang;pouco_conhecidos|pt;Beira Baixa;0.0766;;;0.0089;6.59;;;6.8;80
+posicao;lingua;template_lang;pouco_conhecidos|pt;Beiras e Serra da Estrela;0.0808;;;0.0306;2.0;;;5.0;80
 posicao;lingua;template_lang;pouco_conhecidos|pt;Oeste;0.0;;;0.0427;0.42;;;-4.3;0
-posicao;lingua;template_lang;pouco_conhecidos|pt;Médio Tejo;0.0105;;;0.0242;0.97;;;-1.4;13
+posicao;lingua;template_lang;pouco_conhecidos|pt;Médio Tejo;0.0056;;;0.0242;0.86;;;-1.9;7
 posicao;lingua;template_lang;pouco_conhecidos|pt;Lezíria do Tejo;0.0;;;0.0087;2.06;;;-0.9;0
 posicao;lingua;template_lang;pouco_conhecidos|pt;Grande Lisboa;0.0;;;0.1306;0.14;;;-13.1;0
 posicao;lingua;template_lang;pouco_conhecidos|pt;Península de Setúbal;0.0049;;;0.0494;0.42;;;-4.4;7
 posicao;lingua;template_lang;pouco_conhecidos|pt;Alentejo Litoral;0.0;;;0.049;0.36;;;-4.9;0
-posicao;lingua;template_lang;pouco_conhecidos|pt;Baixo Alentejo;0.0803;;;0.0146;4.17;;;6.6;93
+posicao;lingua;template_lang;pouco_conhecidos|pt;Baixo Alentejo;0.0806;;;0.0146;4.18;;;6.6;93
 posicao;lingua;template_lang;pouco_conhecidos|pt;Alto Alentejo;0.0049;;;0.0153;1.34;;;-1.0;7
 posicao;lingua;template_lang;pouco_conhecidos|pt;Alentejo Central;0.0154;;;0.0254;1.03;;;-1.0;20
-posicao;lingua;template_lang;pouco_conhecidos|pt;Algarve;0.0727;;;0.1926;0.29;;;-12.0;93
-posicao;lingua;template_lang;pouco_conhecidos|pt;Região Autónoma dos Açores;0.0819;;;0.0373;1.65;;;4.5;100
+posicao;lingua;template_lang;pouco_conhecidos|pt;Algarve;0.073;;;0.1926;0.3;;;-12.0;93
+posicao;lingua;template_lang;pouco_conhecidos|pt;Região Autónoma dos Açores;0.0822;;;0.0373;1.66;;;4.5;100
 posicao;lingua;template_lang;pouco_conhecidos|pt;Região Autónoma da Madeira;0.0197;;;0.0581;0.49;;;-3.8;27
-posicao;total;template_lang;pouco_conhecidos|pt;Alto Minho;0.0547;;;0.0137;3.43;;;4.1;47
+posicao;total;template_lang;pouco_conhecidos|pt;Alto Minho;0.0552;;;0.0137;3.45;;;4.1;47
 posicao;total;template_lang;pouco_conhecidos|pt;Cávado;0.0;;;0.0147;1.21;;;-1.5;0
 posicao;total;template_lang;pouco_conhecidos|pt;Ave;0.0;;;0.0082;2.17;;;-0.8;0
-posicao;total;template_lang;pouco_conhecidos|pt;Área Metropolitana do Porto;0.006;;;0.117;0.18;;;-11.1;7
+posicao;total;template_lang;pouco_conhecidos|pt;Área Metropolitana do Porto;0.0064;;;0.117;0.18;;;-11.1;7
 posicao;total;template_lang;pouco_conhecidos|pt;Alto Tâmega e Barroso;0.0478;;;0.0048;9.1;;;4.3;27
 posicao;total;template_lang;pouco_conhecidos|pt;Tâmega e Sousa;0.0;;;0.0061;2.91;;;-0.6;0
-posicao;total;template_lang;pouco_conhecidos|pt;Douro;0.1099;;;0.0081;9.42;;;10.2;87
-posicao;total;template_lang;pouco_conhecidos|pt;Terras de Trás-os-Montes;0.2304;;;0.0041;34.5;;;22.6;93
+posicao;total;template_lang;pouco_conhecidos|pt;Douro;0.1106;;;0.0081;9.46;;;10.2;87
+posicao;total;template_lang;pouco_conhecidos|pt;Terras de Trás-os-Montes;0.2315;;;0.0041;34.63;;;22.7;93
 posicao;total;template_lang;pouco_conhecidos|pt;Região de Aveiro;0.0;;;0.0133;1.34;;;-1.3;0
-posicao;total;template_lang;pouco_conhecidos|pt;Região de Coimbra;0.0503;;;0.0232;1.93;;;2.7;53
+posicao;total;template_lang;pouco_conhecidos|pt;Região de Coimbra;0.0507;;;0.0232;1.94;;;2.7;53
 posicao;total;template_lang;pouco_conhecidos|pt;Região de Leiria;0.0;;;0.0104;1.72;;;-1.0;0
 posicao;total;template_lang;pouco_conhecidos|pt;Viseu Dão Lafões;0.0541;;;0.0078;6.04;;;4.6;47
-posicao;total;template_lang;pouco_conhecidos|pt;Beira Baixa;0.0759;;;0.004;14.8;;;7.2;80
-posicao;total;template_lang;pouco_conhecidos|pt;Beiras e Serra da Estrela;0.0805;;;0.0119;5.13;;;6.9;80
+posicao;total;template_lang;pouco_conhecidos|pt;Beira Baixa;0.0766;;;0.004;14.89;;;7.3;80
+posicao;total;template_lang;pouco_conhecidos|pt;Beiras e Serra da Estrela;0.0808;;;0.0119;5.15;;;6.9;80
 posicao;total;template_lang;pouco_conhecidos|pt;Oeste;0.0;;;0.025;0.71;;;-2.5;0
-posicao;total;template_lang;pouco_conhecidos|pt;Médio Tejo;0.0105;;;0.0186;1.26;;;-0.8;13
+posicao;total;template_lang;pouco_conhecidos|pt;Médio Tejo;0.0056;;;0.0186;1.12;;;-1.3;7
 posicao;total;template_lang;pouco_conhecidos|pt;Lezíria do Tejo;0.0;;;0.0037;4.85;;;-0.4;0
 posicao;total;template_lang;pouco_conhecidos|pt;Grande Lisboa;0.0;;;0.224;0.08;;;-22.4;0
 posicao;total;template_lang;pouco_conhecidos|pt;Península de Setúbal;0.0049;;;0.0271;0.76;;;-2.2;7
 posicao;total;template_lang;pouco_conhecidos|pt;Alentejo Litoral;0.0;;;0.0251;0.71;;;-2.5;0
-posicao;total;template_lang;pouco_conhecidos|pt;Baixo Alentejo;0.0803;;;0.0067;9.15;;;7.4;93
+posicao;total;template_lang;pouco_conhecidos|pt;Baixo Alentejo;0.0806;;;0.0067;9.18;;;7.4;93
 posicao;total;template_lang;pouco_conhecidos|pt;Alto Alentejo;0.0049;;;0.0063;3.26;;;-0.1;7
 posicao;total;template_lang;pouco_conhecidos|pt;Alentejo Central;0.0154;;;0.0135;1.94;;;0.2;20
-posicao;total;template_lang;pouco_conhecidos|pt;Algarve;0.0727;;;0.2565;0.22;;;-18.4;93
-posicao;total;template_lang;pouco_conhecidos|pt;Região Autónoma dos Açores;0.0819;;;0.035;1.76;;;4.7;100
+posicao;total;template_lang;pouco_conhecidos|pt;Algarve;0.073;;;0.2565;0.22;;;-18.3;93
+posicao;total;template_lang;pouco_conhecidos|pt;Região Autónoma dos Açores;0.0822;;;0.035;1.77;;;4.7;100
 posicao;total;template_lang;pouco_conhecidos|pt;Região Autónoma da Madeira;0.0197;;;0.1113;0.26;;;-9.2;27
 posicao;lingua;template_modelo;roteiro|claude;Alto Minho;0.0;;;0.0125;1.21;;;-1.3;0
 posicao;lingua;template_modelo;roteiro|claude;Cávado;0.0481;;;0.0137;3.23;;;3.4;50
@@ -6771,10 +6771,10 @@ mencoes;lingua;total;todos;Região de Aveiro;0.0144;;;0.0122;1.24;;;0.2;24
 mencoes;lingua;total;todos;Região de Coimbra;0.0532;0.0459;0.0602;0.0209;2.53;1.89;3.54;3.2;65
 mencoes;lingua;total;todos;Região de Leiria;0.0067;;;0.0089;0.85;;;-0.2;13
 mencoes;lingua;total;todos;Viseu Dão Lafões;0.0116;;;0.0064;1.94;;;0.5;15
-mencoes;lingua;total;todos;Beira Baixa;0.0101;;;0.0034;3.21;;;0.7;12
+mencoes;lingua;total;todos;Beira Baixa;0.0105;;;0.0034;3.35;;;0.7;12
 mencoes;lingua;total;todos;Beiras e Serra da Estrela;0.0331;;;0.0097;3.43;;;2.3;43
 mencoes;lingua;total;todos;Oeste;0.0444;0.0349;0.0542;0.0229;1.93;1.4;2.71;2.1;55
-mencoes;lingua;total;todos;Médio Tejo;0.0103;;;0.0179;0.62;;;-0.8;16
+mencoes;lingua;total;todos;Médio Tejo;0.0099;;;0.0179;0.59;;;-0.8;15
 mencoes;lingua;total;todos;Lezíria do Tejo;0.0011;;;0.0031;0.67;;;-0.2;1
 mencoes;lingua;total;todos;Grande Lisboa;0.1938;0.1749;0.2116;0.2349;0.81;0.71;0.93;-4.1;76
 mencoes;lingua;total;todos;Península de Setúbal;0.0263;;;0.0245;1.09;;;0.2;29
@@ -6797,10 +6797,10 @@ mencoes;total;total;todos;Região de Aveiro;0.0144;;;0.0133;1.13;;;0.1;24
 mencoes;total;total;todos;Região de Coimbra;0.0532;0.0464;0.0602;0.0232;2.28;1.99;2.57;3.0;65
 mencoes;total;total;todos;Região de Leiria;0.0067;;;0.0104;0.73;;;-0.4;13
 mencoes;total;total;todos;Viseu Dão Lafões;0.0116;;;0.0078;1.59;;;0.4;15
-mencoes;total;total;todos;Beira Baixa;0.0101;;;0.004;2.73;;;0.6;12
+mencoes;total;total;todos;Beira Baixa;0.0105;;;0.004;2.85;;;0.7;12
 mencoes;total;total;todos;Beiras e Serra da Estrela;0.0331;;;0.0119;2.8;;;2.1;43
 mencoes;total;total;todos;Oeste;0.0444;0.0356;0.0539;0.025;1.77;1.43;2.14;1.9;55
-mencoes;total;total;todos;Médio Tejo;0.0103;;;0.0186;0.6;;;-0.8;16
+mencoes;total;total;todos;Médio Tejo;0.0099;;;0.0186;0.57;;;-0.9;15
 mencoes;total;total;todos;Lezíria do Tejo;0.0011;;;0.0037;0.57;;;-0.3;1
 mencoes;total;total;todos;Grande Lisboa;0.1938;0.1759;0.2126;0.224;0.85;0.77;0.93;-3.0;76
 mencoes;total;total;todos;Península de Setúbal;0.0263;;;0.0271;0.98;;;-0.1;29
@@ -6875,10 +6875,10 @@ mencoes;lingua;template;familia;Região de Aveiro;0.0344;0.0145;0.0548;0.0122;2.
 mencoes;lingua;template;familia;Região de Coimbra;0.0506;0.0293;0.0722;0.0209;2.32;1.43;3.63;3.0;60
 mencoes;lingua;template;familia;Região de Leiria;0.0013;0.0;0.004;0.0089;0.89;0.61;1.67;-0.8;5
 mencoes;lingua;template;familia;Viseu Dão Lafões;0.0;0.0;0.0;0.0064;1.07;0.64;3.41;-0.6;0
-mencoes;lingua;template;familia;Beira Baixa;0.0002;0.0;0.001;0.0034;2.09;1.35;4.53;-0.3;2
+mencoes;lingua;template;familia;Beira Baixa;0.0013;0.0;0.0046;0.0034;2.34;1.49;4.53;-0.2;5
 mencoes;lingua;template;familia;Beiras e Serra da Estrela;0.014;0.002;0.0277;0.0097;1.9;1.18;3.51;0.4;18
 mencoes;lingua;template;familia;Oeste;0.0997;0.075;0.1225;0.0229;3.88;2.93;5.34;7.7;88
-mencoes;lingua;template;familia;Médio Tejo;0.001;0.0;0.0039;0.0179;0.43;0.35;0.54;-1.7;3
+mencoes;lingua;template;familia;Médio Tejo;0.0;0.0;0.0;0.0179;0.38;0.34;0.43;-1.8;0
 mencoes;lingua;template;familia;Lezíria do Tejo;0.0;0.0;0.0;0.0031;2.21;1.38;5.53;-0.3;0
 mencoes;lingua;template;familia;Grande Lisboa;0.2209;0.1888;0.2512;0.2349;0.8;0.73;0.87;-1.4;97
 mencoes;lingua;template;familia;Península de Setúbal;0.016;0.0041;0.0321;0.0245;0.82;0.43;1.33;-0.9;28
@@ -6901,10 +6901,10 @@ mencoes;total;template;familia;Região de Aveiro;0.0344;0.0157;0.0546;0.0133;2.6
 mencoes;total;template;familia;Região de Coimbra;0.0506;0.0293;0.0735;0.0232;2.09;1.34;2.91;2.7;60
 mencoes;total;template;familia;Região de Leiria;0.0013;0.0;0.0039;0.0104;0.76;0.66;0.97;-0.9;5
 mencoes;total;template;familia;Viseu Dão Lafões;0.0;0.0;0.0;0.0078;0.88;0.88;0.88;-0.8;0
-mencoes;total;template;familia;Beira Baixa;0.0002;0.0;0.001;0.004;1.78;1.73;1.94;-0.4;2
+mencoes;total;template;familia;Beira Baixa;0.0013;0.0;0.0046;0.004;2.0;1.73;2.68;-0.3;5
 mencoes;total;template;familia;Beiras e Serra da Estrela;0.014;0.0018;0.0293;0.0119;1.54;0.7;2.61;0.2;18
 mencoes;total;template;familia;Oeste;0.0997;0.0754;0.1233;0.025;3.55;2.76;4.33;7.5;88
-mencoes;total;template;familia;Médio Tejo;0.001;0.0;0.0039;0.0186;0.41;0.37;0.54;-1.8;3
+mencoes;total;template;familia;Médio Tejo;0.0;0.0;0.0;0.0186;0.37;0.37;0.37;-1.9;0
 mencoes;total;template;familia;Lezíria do Tejo;0.0;0.0;0.0;0.0037;1.86;1.86;1.86;-0.4;0
 mencoes;total;template;familia;Grande Lisboa;0.2209;0.1854;0.2503;0.224;0.84;0.71;0.95;-0.3;97
 mencoes;total;template;familia;Península de Setúbal;0.016;0.0049;0.0324;0.0271;0.74;0.4;1.23;-1.1;28
@@ -7083,10 +7083,10 @@ mencoes;lingua;template;pouco_conhecidos;Região de Aveiro;0.0011;0.0;0.0044;0.0
 mencoes;lingua;template;pouco_conhecidos;Região de Coimbra;0.0951;0.0574;0.1308;0.0209;4.07;2.29;6.79;7.4;70
 mencoes;lingua;template;pouco_conhecidos;Região de Leiria;0.0;0.0;0.0;0.0089;0.77;0.5;1.67;-0.9;0
 mencoes;lingua;template;pouco_conhecidos;Viseu Dão Lafões;0.0144;0.0017;0.0301;0.0064;2.93;1.48;5.96;0.8;17
-mencoes;lingua;template;pouco_conhecidos;Beira Baixa;0.0773;0.058;0.0954;0.0034;20.88;12.39;43.02;7.4;85
+mencoes;lingua;template;pouco_conhecidos;Beira Baixa;0.08;0.0609;0.098;0.0034;21.56;12.81;43.8;7.7;87
 mencoes;lingua;template;pouco_conhecidos;Beiras e Serra da Estrela;0.0728;0.055;0.0919;0.0097;6.89;3.82;21.54;6.3;90
 mencoes;lingua;template;pouco_conhecidos;Oeste;0.0094;0.0012;0.0218;0.0229;0.63;0.32;1.25;-1.4;13
-mencoes;lingua;template;pouco_conhecidos;Médio Tejo;0.0155;0.0039;0.0295;0.0179;1.09;0.55;1.83;-0.2;18
+mencoes;lingua;template;pouco_conhecidos;Médio Tejo;0.0127;0.0014;0.0277;0.0179;0.96;0.43;1.72;-0.5;13
 mencoes;lingua;template;pouco_conhecidos;Lezíria do Tejo;0.0;0.0;0.0;0.0031;2.21;1.38;5.53;-0.3;0
 mencoes;lingua;template;pouco_conhecidos;Grande Lisboa;0.0034;0.0;0.009;0.2349;0.04;0.03;0.06;-23.1;7
 mencoes;lingua;template;pouco_conhecidos;Península de Setúbal;0.0027;0.0;0.0084;0.0245;0.37;0.23;0.59;-2.2;3
@@ -7109,10 +7109,10 @@ mencoes;total;template;pouco_conhecidos;Região de Aveiro;0.0011;0.0;0.0044;0.01
 mencoes;total;template;pouco_conhecidos;Região de Coimbra;0.0951;0.0569;0.1319;0.0232;3.67;2.32;4.98;7.2;70
 mencoes;total;template;pouco_conhecidos;Região de Leiria;0.0;0.0;0.0;0.0104;0.66;0.66;0.66;-1.0;0
 mencoes;total;template;pouco_conhecidos;Viseu Dão Lafões;0.0144;0.0017;0.03;0.0078;2.41;1.06;4.07;0.7;17
-mencoes;total;template;pouco_conhecidos;Beira Baixa;0.0773;0.0583;0.0959;0.004;17.79;13.84;21.66;7.3;85
+mencoes;total;template;pouco_conhecidos;Beira Baixa;0.08;0.0621;0.0986;0.004;18.36;14.64;22.21;7.6;87
 mencoes;total;template;pouco_conhecidos;Beiras e Serra da Estrela;0.0728;0.0564;0.0923;0.0119;5.62;4.48;6.97;6.1;90
 mencoes;total;template;pouco_conhecidos;Oeste;0.0094;0.0012;0.0222;0.025;0.58;0.31;1.0;-1.6;13
-mencoes;total;template;pouco_conhecidos;Médio Tejo;0.0155;0.0041;0.0306;0.0186;1.05;0.55;1.72;-0.3;18
+mencoes;total;template;pouco_conhecidos;Médio Tejo;0.0127;0.0008;0.0286;0.0186;0.93;0.4;1.63;-0.6;13
 mencoes;total;template;pouco_conhecidos;Lezíria do Tejo;0.0;0.0;0.0;0.0037;1.86;1.86;1.86;-0.4;0
 mencoes;total;template;pouco_conhecidos;Grande Lisboa;0.0034;0.0;0.0087;0.224;0.04;0.03;0.06;-22.1;7
 mencoes;total;template;pouco_conhecidos;Península de Setúbal;0.0027;0.0;0.0084;0.0271;0.33;0.25;0.51;-2.4;3
@@ -7655,10 +7655,10 @@ mencoes;lingua;template_modelo;familia|gemini;Região de Aveiro;0.0299;;;0.0122;
 mencoes;lingua;template_modelo;familia|gemini;Região de Coimbra;0.0798;;;0.0209;3.04;;;5.9;100
 mencoes;lingua;template_modelo;familia|gemini;Região de Leiria;0.0029;;;0.0089;1.9;;;-0.6;10
 mencoes;lingua;template_modelo;familia|gemini;Viseu Dão Lafões;0.0;;;0.0064;2.38;;;-0.6;0
-mencoes;lingua;template_modelo;familia|gemini;Beira Baixa;0.0007;;;0.0034;4.63;;;-0.3;5
+mencoes;lingua;template_modelo;familia|gemini;Beira Baixa;0.0038;;;0.0034;5.18;;;0.0;15
 mencoes;lingua;template_modelo;familia|gemini;Beiras e Serra da Estrela;0.0066;;;0.0097;1.98;;;-0.3;10
 mencoes;lingua;template_modelo;familia|gemini;Oeste;0.126;;;0.0229;4.0;;;10.3;100
-mencoes;lingua;template_modelo;familia|gemini;Médio Tejo;0.0031;;;0.0179;0.95;;;-1.5;10
+mencoes;lingua;template_modelo;familia|gemini;Médio Tejo;0.0;;;0.0179;0.84;;;-1.8;0
 mencoes;lingua;template_modelo;familia|gemini;Lezíria do Tejo;0.0;;;0.0031;4.89;;;-0.3;0
 mencoes;lingua;template_modelo;familia|gemini;Grande Lisboa;0.2382;;;0.2349;0.68;;;0.3;100
 mencoes;lingua;template_modelo;familia|gemini;Península de Setúbal;0.0067;;;0.0245;0.78;;;-1.8;10
@@ -7681,10 +7681,10 @@ mencoes;total;template_modelo;familia|gemini;Região de Aveiro;0.0299;;;0.0133;2
 mencoes;total;template_modelo;familia|gemini;Região de Coimbra;0.0798;;;0.0232;2.74;;;5.7;100
 mencoes;total;template_modelo;familia|gemini;Região de Leiria;0.0029;;;0.0104;1.63;;;-0.7;10
 mencoes;total;template_modelo;familia|gemini;Viseu Dão Lafões;0.0;;;0.0078;1.95;;;-0.8;0
-mencoes;total;template_modelo;familia|gemini;Beira Baixa;0.0007;;;0.004;3.94;;;-0.3;5
+mencoes;total;template_modelo;familia|gemini;Beira Baixa;0.0038;;;0.004;4.42;;;-0.0;15
 mencoes;total;template_modelo;familia|gemini;Beiras e Serra da Estrela;0.0066;;;0.0119;1.61;;;-0.5;10
 mencoes;total;template_modelo;familia|gemini;Oeste;0.126;;;0.025;3.66;;;10.1;100
-mencoes;total;template_modelo;familia|gemini;Médio Tejo;0.0031;;;0.0186;0.91;;;-1.6;10
+mencoes;total;template_modelo;familia|gemini;Médio Tejo;0.0;;;0.0186;0.81;;;-1.9;0
 mencoes;total;template_modelo;familia|gemini;Lezíria do Tejo;0.0;;;0.0037;4.11;;;-0.4;0
 mencoes;total;template_modelo;familia|gemini;Grande Lisboa;0.2382;;;0.224;0.71;;;1.4;100
 mencoes;total;template_modelo;familia|gemini;Península de Setúbal;0.0067;;;0.0271;0.71;;;-2.0;10
@@ -7915,10 +7915,10 @@ mencoes;lingua;template_lang;familia|pt;Região de Aveiro;0.0414;;;0.0229;1.75;;
 mencoes;lingua;template_lang;familia|pt;Região de Coimbra;0.0657;;;0.0425;1.25;;;2.3;67
 mencoes;lingua;template_lang;familia|pt;Região de Leiria;0.0051;;;0.0232;0.89;;;-1.8;20
 mencoes;lingua;template_lang;familia|pt;Viseu Dão Lafões;0.0;;;0.0195;0.92;;;-1.9;0
-mencoes;lingua;template_lang;familia|pt;Beira Baixa;0.001;;;0.0089;2.06;;;-0.8;7
+mencoes;lingua;template_lang;familia|pt;Beira Baixa;0.0051;;;0.0089;2.3;;;-0.4;20
 mencoes;lingua;template_lang;familia|pt;Beiras e Serra da Estrela;0.0453;;;0.0306;1.38;;;1.5;60
 mencoes;lingua;template_lang;familia|pt;Oeste;0.1219;;;0.0427;1.95;;;7.9;93
-mencoes;lingua;template_lang;familia|pt;Médio Tejo;0.0041;;;0.0242;0.83;;;-2.0;13
+mencoes;lingua;template_lang;familia|pt;Médio Tejo;0.0;;;0.0242;0.74;;;-2.4;0
 mencoes;lingua;template_lang;familia|pt;Lezíria do Tejo;0.0;;;0.0087;2.06;;;-0.9;0
 mencoes;lingua;template_lang;familia|pt;Grande Lisboa;0.1394;;;0.1306;0.71;;;0.9;87
 mencoes;lingua;template_lang;familia|pt;Península de Setúbal;0.0322;;;0.0494;0.71;;;-1.7;53
@@ -7941,10 +7941,10 @@ mencoes;total;template_lang;familia|pt;Região de Aveiro;0.0414;;;0.0133;3.01;;;
 mencoes;total;template_lang;familia|pt;Região de Coimbra;0.0657;;;0.0232;2.29;;;4.3;67
 mencoes;total;template_lang;familia|pt;Região de Leiria;0.0051;;;0.0104;1.98;;;-0.5;20
 mencoes;total;template_lang;familia|pt;Viseu Dão Lafões;0.0;;;0.0078;2.3;;;-0.8;0
-mencoes;total;template_lang;familia|pt;Beira Baixa;0.001;;;0.004;4.65;;;-0.3;7
+mencoes;total;template_lang;familia|pt;Beira Baixa;0.0051;;;0.004;5.21;;;0.1;20
 mencoes;total;template_lang;familia|pt;Beiras e Serra da Estrela;0.0453;;;0.0119;3.55;;;3.3;60
 mencoes;total;template_lang;familia|pt;Oeste;0.1219;;;0.025;3.33;;;9.7;93
-mencoes;total;template_lang;familia|pt;Médio Tejo;0.0041;;;0.0186;1.08;;;-1.4;13
+mencoes;total;template_lang;familia|pt;Médio Tejo;0.0;;;0.0186;0.96;;;-1.9;0
 mencoes;total;template_lang;familia|pt;Lezíria do Tejo;0.0;;;0.0037;4.85;;;-0.4;0
 mencoes;total;template_lang;familia|pt;Grande Lisboa;0.1394;;;0.224;0.41;;;-8.5;87
 mencoes;total;template_lang;familia|pt;Península de Setúbal;0.0322;;;0.0271;1.29;;;0.5;53
@@ -9059,10 +9059,10 @@ mencoes;lingua;template_modelo;pouco_conhecidos|claude;Região de Aveiro;0.0;;;0
 mencoes;lingua;template_modelo;pouco_conhecidos|claude;Região de Coimbra;0.1507;;;0.0209;5.1;;;13.0;100
 mencoes;lingua;template_modelo;pouco_conhecidos|claude;Região de Leiria;0.0;;;0.0089;1.71;;;-0.9;0
 mencoes;lingua;template_modelo;pouco_conhecidos|claude;Viseu Dão Lafões;0.0;;;0.0064;2.38;;;-0.6;0
-mencoes;lingua;template_modelo;pouco_conhecidos|claude;Beira Baixa;0.0793;;;0.0034;18.75;;;7.6;85
+mencoes;lingua;template_modelo;pouco_conhecidos|claude;Beira Baixa;0.0849;;;0.0034;19.76;;;8.1;85
 mencoes;lingua;template_modelo;pouco_conhecidos|claude;Beiras e Serra da Estrela;0.0883;;;0.0097;7.09;;;7.9;85
 mencoes;lingua;template_modelo;pouco_conhecidos|claude;Oeste;0.0041;;;0.0229;0.77;;;-1.9;10
-mencoes;lingua;template_modelo;pouco_conhecidos|claude;Médio Tejo;0.0056;;;0.0179;1.03;;;-1.2;10
+mencoes;lingua;template_modelo;pouco_conhecidos|claude;Médio Tejo;0.0;;;0.0179;0.84;;;-1.8;0
 mencoes;lingua;template_modelo;pouco_conhecidos|claude;Lezíria do Tejo;0.0;;;0.0031;4.89;;;-0.3;0
 mencoes;lingua;template_modelo;pouco_conhecidos|claude;Grande Lisboa;0.005;;;0.2349;0.08;;;-23.0;10
 mencoes;lingua;template_modelo;pouco_conhecidos|claude;Península de Setúbal;0.0;;;0.0245;0.62;;;-2.5;0
@@ -9085,10 +9085,10 @@ mencoes;total;template_modelo;pouco_conhecidos|claude;Região de Aveiro;0.0;;;0.
 mencoes;total;template_modelo;pouco_conhecidos|claude;Região de Coimbra;0.1507;;;0.0232;4.6;;;12.8;100
 mencoes;total;template_modelo;pouco_conhecidos|claude;Região de Leiria;0.0;;;0.0104;1.46;;;-1.0;0
 mencoes;total;template_modelo;pouco_conhecidos|claude;Viseu Dão Lafões;0.0;;;0.0078;1.95;;;-0.8;0
-mencoes;total;template_modelo;pouco_conhecidos|claude;Beira Baixa;0.0793;;;0.004;15.98;;;7.5;85
+mencoes;total;template_modelo;pouco_conhecidos|claude;Beira Baixa;0.0849;;;0.004;16.83;;;8.1;85
 mencoes;total;template_modelo;pouco_conhecidos|claude;Beiras e Serra da Estrela;0.0883;;;0.0119;5.78;;;7.6;85
 mencoes;total;template_modelo;pouco_conhecidos|claude;Oeste;0.0041;;;0.025;0.71;;;-2.1;10
-mencoes;total;template_modelo;pouco_conhecidos|claude;Médio Tejo;0.0056;;;0.0186;1.0;;;-1.3;10
+mencoes;total;template_modelo;pouco_conhecidos|claude;Médio Tejo;0.0;;;0.0186;0.81;;;-1.9;0
 mencoes;total;template_modelo;pouco_conhecidos|claude;Lezíria do Tejo;0.0;;;0.0037;4.11;;;-0.4;0
 mencoes;total;template_modelo;pouco_conhecidos|claude;Grande Lisboa;0.005;;;0.224;0.08;;;-21.9;10
 mencoes;total;template_modelo;pouco_conhecidos|claude;Península de Setúbal;0.0;;;0.0271;0.56;;;-2.7;0
@@ -9111,10 +9111,10 @@ mencoes;lingua;template_modelo;pouco_conhecidos|gemini;Região de Aveiro;0.0;;;0
 mencoes;lingua;template_modelo;pouco_conhecidos|gemini;Região de Coimbra;0.1061;;;0.0209;3.8;;;8.5;85
 mencoes;lingua;template_modelo;pouco_conhecidos|gemini;Região de Leiria;0.0;;;0.0089;1.71;;;-0.9;0
 mencoes;lingua;template_modelo;pouco_conhecidos|gemini;Viseu Dão Lafões;0.0167;;;0.0064;3.96;;;1.0;25
-mencoes;lingua;template_modelo;pouco_conhecidos|gemini;Beira Baixa;0.0636;;;0.0034;15.93;;;6.0;75
+mencoes;lingua;template_modelo;pouco_conhecidos|gemini;Beira Baixa;0.0663;;;0.0034;16.43;;;6.3;80
 mencoes;lingua;template_modelo;pouco_conhecidos|gemini;Beiras e Serra da Estrela;0.0523;;;0.0097;4.84;;;4.3;90
 mencoes;lingua;template_modelo;pouco_conhecidos|gemini;Oeste;0.024;;;0.0229;1.3;;;0.1;30
-mencoes;lingua;template_modelo;pouco_conhecidos|gemini;Médio Tejo;0.0144;;;0.0179;1.33;;;-0.4;20
+mencoes;lingua;template_modelo;pouco_conhecidos|gemini;Médio Tejo;0.0116;;;0.0179;1.24;;;-0.6;15
 mencoes;lingua;template_modelo;pouco_conhecidos|gemini;Lezíria do Tejo;0.0;;;0.0031;4.89;;;-0.3;0
 mencoes;lingua;template_modelo;pouco_conhecidos|gemini;Grande Lisboa;0.0053;;;0.2349;0.08;;;-23.0;10
 mencoes;lingua;template_modelo;pouco_conhecidos|gemini;Península de Setúbal;0.0045;;;0.0245;0.73;;;-2.0;5
@@ -9137,10 +9137,10 @@ mencoes;total;template_modelo;pouco_conhecidos|gemini;Região de Aveiro;0.0;;;0.
 mencoes;total;template_modelo;pouco_conhecidos|gemini;Região de Coimbra;0.1061;;;0.0232;3.43;;;8.3;85
 mencoes;total;template_modelo;pouco_conhecidos|gemini;Região de Leiria;0.0;;;0.0104;1.46;;;-1.0;0
 mencoes;total;template_modelo;pouco_conhecidos|gemini;Viseu Dão Lafões;0.0167;;;0.0078;3.26;;;0.9;25
-mencoes;total;template_modelo;pouco_conhecidos|gemini;Beira Baixa;0.0636;;;0.004;13.57;;;6.0;75
+mencoes;total;template_modelo;pouco_conhecidos|gemini;Beira Baixa;0.0663;;;0.004;14.0;;;6.2;80
 mencoes;total;template_modelo;pouco_conhecidos|gemini;Beiras e Serra da Estrela;0.0523;;;0.0119;3.94;;;4.0;90
 mencoes;total;template_modelo;pouco_conhecidos|gemini;Oeste;0.024;;;0.025;1.19;;;-0.1;30
-mencoes;total;template_modelo;pouco_conhecidos|gemini;Médio Tejo;0.0144;;;0.0186;1.28;;;-0.4;20
+mencoes;total;template_modelo;pouco_conhecidos|gemini;Médio Tejo;0.0116;;;0.0186;1.19;;;-0.7;15
 mencoes;total;template_modelo;pouco_conhecidos|gemini;Lezíria do Tejo;0.0;;;0.0037;4.11;;;-0.4;0
 mencoes;total;template_modelo;pouco_conhecidos|gemini;Grande Lisboa;0.0053;;;0.224;0.08;;;-21.9;10
 mencoes;total;template_modelo;pouco_conhecidos|gemini;Península de Setúbal;0.0045;;;0.0271;0.66;;;-2.3;5
@@ -9267,10 +9267,10 @@ mencoes;lingua;template_lang;pouco_conhecidos|es;Região de Aveiro;0.0;;;0.0086;
 mencoes;lingua;template_lang;pouco_conhecidos|es;Região de Coimbra;0.1021;;;0.0137;5.29;;;8.8;73
 mencoes;lingua;template_lang;pouco_conhecidos|es;Região de Leiria;0.0;;;0.0041;4.36;;;-0.4;0
 mencoes;lingua;template_lang;pouco_conhecidos|es;Viseu Dão Lafões;0.014;;;0.002;12.64;;;1.2;13
-mencoes;lingua;template_lang;pouco_conhecidos|es;Beira Baixa;0.0987;;;0.0015;46.77;;;9.7;100
+mencoes;lingua;template_lang;pouco_conhecidos|es;Beira Baixa;0.1023;;;0.0015;48.01;;;10.1;100
 mencoes;lingua;template_lang;pouco_conhecidos|es;Beiras e Serra da Estrela;0.0607;;;0.0027;18.6;;;5.8;87
 mencoes;lingua;template_lang;pouco_conhecidos|es;Oeste;0.0223;;;0.0163;1.83;;;0.6;27
-mencoes;lingua;template_lang;pouco_conhecidos|es;Médio Tejo;0.0211;;;0.0158;1.84;;;0.5;20
+mencoes;lingua;template_lang;pouco_conhecidos|es;Médio Tejo;0.0175;;;0.0158;1.72;;;0.2;13
 mencoes;lingua;template_lang;pouco_conhecidos|es;Lezíria do Tejo;0.0;;;0.0012;14.4;;;-0.1;0
 mencoes;lingua;template_lang;pouco_conhecidos|es;Grande Lisboa;0.0028;;;0.2697;0.07;;;-26.7;7
 mencoes;lingua;template_lang;pouco_conhecidos|es;Península de Setúbal;0.0048;;;0.0162;1.26;;;-1.1;7
@@ -9293,10 +9293,10 @@ mencoes;total;template_lang;pouco_conhecidos|es;Região de Aveiro;0.0;;;0.0133;1
 mencoes;total;template_lang;pouco_conhecidos|es;Região de Coimbra;0.1021;;;0.0232;3.13;;;7.9;73
 mencoes;total;template_lang;pouco_conhecidos|es;Região de Leiria;0.0;;;0.0104;1.72;;;-1.0;0
 mencoes;total;template_lang;pouco_conhecidos|es;Viseu Dão Lafões;0.014;;;0.0078;3.27;;;0.6;13
-mencoes;total;template_lang;pouco_conhecidos|es;Beira Baixa;0.0987;;;0.004;17.89;;;9.5;100
+mencoes;total;template_lang;pouco_conhecidos|es;Beira Baixa;0.1023;;;0.004;18.36;;;9.8;100
 mencoes;total;template_lang;pouco_conhecidos|es;Beiras e Serra da Estrela;0.0607;;;0.0119;4.24;;;4.9;87
 mencoes;total;template_lang;pouco_conhecidos|es;Oeste;0.0223;;;0.025;1.19;;;-0.3;27
-mencoes;total;template_lang;pouco_conhecidos|es;Médio Tejo;0.0211;;;0.0186;1.57;;;0.2;20
+mencoes;total;template_lang;pouco_conhecidos|es;Médio Tejo;0.0175;;;0.0186;1.47;;;-0.1;13
 mencoes;total;template_lang;pouco_conhecidos|es;Lezíria do Tejo;0.0;;;0.0037;4.85;;;-0.4;0
 mencoes;total;template_lang;pouco_conhecidos|es;Grande Lisboa;0.0028;;;0.224;0.09;;;-22.1;7
 mencoes;total;template_lang;pouco_conhecidos|es;Península de Setúbal;0.0048;;;0.0271;0.75;;;-2.2;7
@@ -9319,10 +9319,10 @@ mencoes;lingua;template_lang;pouco_conhecidos|fr;Região de Aveiro;0.0;;;0.0086;
 mencoes;lingua;template_lang;pouco_conhecidos|fr;Região de Coimbra;0.1372;;;0.0137;6.67;;;12.4;80
 mencoes;lingua;template_lang;pouco_conhecidos|fr;Região de Leiria;0.0;;;0.0041;4.36;;;-0.4;0
 mencoes;lingua;template_lang;pouco_conhecidos|fr;Viseu Dão Lafões;0.0;;;0.002;8.89;;;-0.2;0
-mencoes;lingua;template_lang;pouco_conhecidos|fr;Beira Baixa;0.0675;;;0.0015;35.7;;;6.6;80
+mencoes;lingua;template_lang;pouco_conhecidos|fr;Beira Baixa;0.0712;;;0.0015;37.01;;;7.0;87
 mencoes;lingua;template_lang;pouco_conhecidos|fr;Beiras e Serra da Estrela;0.0546;;;0.0027;17.4;;;5.2;87
 mencoes;lingua;template_lang;pouco_conhecidos|fr;Oeste;0.0094;;;0.0163;1.4;;;-0.7;13
-mencoes;lingua;template_lang;pouco_conhecidos|fr;Médio Tejo;0.0037;;;0.0158;1.25;;;-1.2;7
+mencoes;lingua;template_lang;pouco_conhecidos|fr;Médio Tejo;0.0;;;0.0158;1.13;;;-1.6;0
 mencoes;lingua;template_lang;pouco_conhecidos|fr;Lezíria do Tejo;0.0;;;0.0012;14.4;;;-0.1;0
 mencoes;lingua;template_lang;pouco_conhecidos|fr;Grande Lisboa;0.0039;;;0.2697;0.07;;;-26.6;7
 mencoes;lingua;template_lang;pouco_conhecidos|fr;Península de Setúbal;0.0;;;0.0162;1.1;;;-1.6;0
@@ -9345,10 +9345,10 @@ mencoes;total;template_lang;pouco_conhecidos|fr;Região de Aveiro;0.0;;;0.0133;1
 mencoes;total;template_lang;pouco_conhecidos|fr;Região de Coimbra;0.1372;;;0.0232;3.95;;;11.4;80
 mencoes;total;template_lang;pouco_conhecidos|fr;Região de Leiria;0.0;;;0.0104;1.72;;;-1.0;0
 mencoes;total;template_lang;pouco_conhecidos|fr;Viseu Dão Lafões;0.0;;;0.0078;2.3;;;-0.8;0
-mencoes;total;template_lang;pouco_conhecidos|fr;Beira Baixa;0.0675;;;0.004;13.66;;;6.4;80
+mencoes;total;template_lang;pouco_conhecidos|fr;Beira Baixa;0.0712;;;0.004;14.16;;;6.7;87
 mencoes;total;template_lang;pouco_conhecidos|fr;Beiras e Serra da Estrela;0.0546;;;0.0119;3.97;;;4.3;87
 mencoes;total;template_lang;pouco_conhecidos|fr;Oeste;0.0094;;;0.025;0.92;;;-1.6;13
-mencoes;total;template_lang;pouco_conhecidos|fr;Médio Tejo;0.0037;;;0.0186;1.07;;;-1.5;7
+mencoes;total;template_lang;pouco_conhecidos|fr;Médio Tejo;0.0;;;0.0186;0.96;;;-1.9;0
 mencoes;total;template_lang;pouco_conhecidos|fr;Lezíria do Tejo;0.0;;;0.0037;4.85;;;-0.4;0
 mencoes;total;template_lang;pouco_conhecidos|fr;Grande Lisboa;0.0039;;;0.224;0.09;;;-22.0;7
 mencoes;total;template_lang;pouco_conhecidos|fr;Península de Setúbal;0.0;;;0.0271;0.66;;;-2.7;0
@@ -9371,10 +9371,10 @@ mencoes;lingua;template_lang;pouco_conhecidos|pt;Região de Aveiro;0.0;;;0.0229;
 mencoes;lingua;template_lang;pouco_conhecidos|pt;Região de Coimbra;0.0766;;;0.0425;1.39;;;3.4;60
 mencoes;lingua;template_lang;pouco_conhecidos|pt;Região de Leiria;0.0;;;0.0232;0.77;;;-2.3;0
 mencoes;lingua;template_lang;pouco_conhecidos|pt;Viseu Dão Lafões;0.0369;;;0.0195;1.93;;;1.7;47
-mencoes;lingua;template_lang;pouco_conhecidos|pt;Beira Baixa;0.0733;;;0.0089;6.39;;;6.4;80
+mencoes;lingua;template_lang;pouco_conhecidos|pt;Beira Baixa;0.0772;;;0.0089;6.62;;;6.8;80
 mencoes;lingua;template_lang;pouco_conhecidos|pt;Beiras e Serra da Estrela;0.0747;;;0.0306;1.89;;;4.4;87
 mencoes;lingua;template_lang;pouco_conhecidos|pt;Oeste;0.003;;;0.0427;0.46;;;-4.0;7
-mencoes;lingua;template_lang;pouco_conhecidos|pt;Médio Tejo;0.007;;;0.0242;0.89;;;-1.7;13
+mencoes;lingua;template_lang;pouco_conhecidos|pt;Médio Tejo;0.003;;;0.0242;0.8;;;-2.1;7
 mencoes;lingua;template_lang;pouco_conhecidos|pt;Lezíria do Tejo;0.0;;;0.0087;2.06;;;-0.9;0
 mencoes;lingua;template_lang;pouco_conhecidos|pt;Grande Lisboa;0.0;;;0.1306;0.14;;;-13.1;0
 mencoes;lingua;template_lang;pouco_conhecidos|pt;Península de Setúbal;0.0061;;;0.0494;0.43;;;-4.3;7
@@ -9397,10 +9397,10 @@ mencoes;total;template_lang;pouco_conhecidos|pt;Região de Aveiro;0.0;;;0.0133;1
 mencoes;total;template_lang;pouco_conhecidos|pt;Região de Coimbra;0.0766;;;0.0232;2.54;;;5.3;60
 mencoes;total;template_lang;pouco_conhecidos|pt;Região de Leiria;0.0;;;0.0104;1.72;;;-1.0;0
 mencoes;total;template_lang;pouco_conhecidos|pt;Viseu Dão Lafões;0.0369;;;0.0078;4.85;;;2.9;47
-mencoes;total;template_lang;pouco_conhecidos|pt;Beira Baixa;0.0733;;;0.004;14.44;;;6.9;80
+mencoes;total;template_lang;pouco_conhecidos|pt;Beira Baixa;0.0772;;;0.004;14.98;;;7.3;80
 mencoes;total;template_lang;pouco_conhecidos|pt;Beiras e Serra da Estrela;0.0747;;;0.0119;4.87;;;6.3;87
 mencoes;total;template_lang;pouco_conhecidos|pt;Oeste;0.003;;;0.025;0.78;;;-2.2;7
-mencoes;total;template_lang;pouco_conhecidos|pt;Médio Tejo;0.007;;;0.0186;1.16;;;-1.2;13
+mencoes;total;template_lang;pouco_conhecidos|pt;Médio Tejo;0.003;;;0.0186;1.05;;;-1.6;7
 mencoes;total;template_lang;pouco_conhecidos|pt;Lezíria do Tejo;0.0;;;0.0037;4.85;;;-0.4;0
 mencoes;total;template_lang;pouco_conhecidos|pt;Grande Lisboa;0.0;;;0.224;0.08;;;-22.4;0
 mencoes;total;template_lang;pouco_conhecidos|pt;Península de Setúbal;0.0061;;;0.0271;0.78;;;-2.1;7
